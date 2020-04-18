@@ -1,59 +1,246 @@
 module FlatColors.FlatUIPalette exposing
-    ( turquoise, greenSea, sunFlower, orange, emerald, nephritis, carrot, pumpkin, peterRiver, belizeHole, alizarin, pomegranate, amethyst, wisteria, clouds, silver, wetAsphalt, midnightBlue, concrete, asbestos
-    , all, allLight, allDark
-    , turquoiseHex, greenSeaHex, sunFlowerHex, orangeHex, emeraldHex, nephritisHex, carrotHex, pumpkinHex, peterRiverHex, belizeHoleHex, alizarinHex, pomegranateHex, amethystHex, wisteriaHex, cloudsHex, silverHex, wetAsphaltHex, midnightBlueHex, concreteHex, asbestosHex
-    , allHex, allLightHex, allDarkHex
-    , turquoiseRgb, greenSeaRgb, sunFlowerRgb, orangeRgb, emeraldRgb, nephritisRgb, carrotRgb, pumpkinRgb, peterRiverRgb, belizeHoleRgb, alizarinRgb, pomegranateRgb, amethystRgb, wisteriaRgb, cloudsRgb, silverRgb, wetAsphaltRgb, midnightBlueRgb, concreteRgb, asbestosRgb
-    , allRgb, allLightRgb, allDarkRgb
+    ( turquoise, turquoiseHex, turquoiseRgb
+    , greenSea, greenSeaHex, greenSeaRgb
+    , sunFlower, sunFlowerHex, sunFlowerRgb
+    , orange, orangeHex, orangeRgb
+    , emerald, emeraldHex, emeraldRgb
+    , nephritis, nephritisHex, nephritisRgb
+    , carrot, carrotHex, carrotRgb
+    , pumpkin, pumpkinHex, pumpkinRgb
+    , peterRiver, peterRiverHex, peterRiverRgb
+    , belizeHole, belizeHoleHex, belizeHoleRgb
+    , alizarin, alizarinHex, alizarinRgb
+    , pomegranate, pomegranateHex, pomegranateRgb
+    , amethyst, amethystHex, amethystRgb
+    , wisteria, wisteriaHex, wisteriaRgb
+    , clouds, cloudsHex, cloudsRgb
+    , silver, silverHex, silverRgb
+    , wetAsphalt, wetAsphaltHex, wetAsphaltRgb
+    , midnightBlue, midnightBlueHex, midnightBlueRgb
+    , concrete, concreteHex, concreteRgb
+    , asbestos, asbestosHex, asbestosRgb
+    , all, allHex, allRgb
+    , allLight, allLightHex, allLightRgb
+    , allDark, allDarkHex, allDarkRgb
     )
 
-{-| FlatUI Palette
+{-| Flat U I Palette
 
-![turquoise](https://placehold.it/50/1abc9c/000000?text=+)![sunFlower](https://placehold.it/50/f1c40f/000000?text=+)![emerald](https://placehold.it/50/2ecc71/000000?text=+)![carrot](https://placehold.it/50/e67e22/000000?text=+)![peterRiver](https://placehold.it/50/3498db/000000?text=+)![alizarin](https://placehold.it/50/e74c3c/000000?text=+)![amethyst](https://placehold.it/50/9b59b6/000000?text=+)![clouds](https://placehold.it/50/ecf0f1/000000?text=+)![wetAsphalt](https://placehold.it/50/34495e/000000?text=+)![concrete](https://placehold.it/50/95a5a6/000000?text=+)
+[![turquoise](https://placehold.it/50/1abc9c/000000?text=+)](#turquoise)[![sunFlower](https://placehold.it/50/f1c40f/000000?text=+)](#sun-flower)[![emerald](https://placehold.it/50/2ecc71/000000?text=+)](#emerald)[![carrot](https://placehold.it/50/e67e22/000000?text=+)](#carrot)[![peterRiver](https://placehold.it/50/3498db/000000?text=+)](#peter-river)[![alizarin](https://placehold.it/50/e74c3c/000000?text=+)](#alizarin)[![amethyst](https://placehold.it/50/9b59b6/000000?text=+)](#amethyst)[![clouds](https://placehold.it/50/ecf0f1/000000?text=+)](#clouds)[![wetAsphalt](https://placehold.it/50/34495e/000000?text=+)](#wet-asphalt)[![concrete](https://placehold.it/50/95a5a6/000000?text=+)](#concrete)
 
-![greenSea](https://placehold.it/50/16a085/000000?text=+)![orange](https://placehold.it/50/f39c12/000000?text=+)![nephritis](https://placehold.it/50/27ae60/000000?text=+)![pumpkin](https://placehold.it/50/d35400/000000?text=+)![belizeHole](https://placehold.it/50/2980b9/000000?text=+)![pomegranate](https://placehold.it/50/c0392b/000000?text=+)![wisteria](https://placehold.it/50/8e44ad/000000?text=+)![silver](https://placehold.it/50/bdc3c7/000000?text=+)![midnightBlue](https://placehold.it/50/2c3e50/000000?text=+)![asbestos](https://placehold.it/50/7f8c8d/000000?text=+)
-
-
-# Elm UI Colors
-
-@docs turquoise, greenSea, sunFlower, orange, emerald, nephritis, carrot, pumpkin, peterRiver, belizeHole, alizarin, pomegranate, amethyst, wisteria, clouds, silver, wetAsphalt, midnightBlue, concrete, asbestos
+[![greenSea](https://placehold.it/50/16a085/000000?text=+)](#green-sea)[![orange](https://placehold.it/50/f39c12/000000?text=+)](#orange)[![nephritis](https://placehold.it/50/27ae60/000000?text=+)](#nephritis)[![pumpkin](https://placehold.it/50/d35400/000000?text=+)](#pumpkin)[![belizeHole](https://placehold.it/50/2980b9/000000?text=+)](#belize-hole)[![pomegranate](https://placehold.it/50/c0392b/000000?text=+)](#pomegranate)[![wisteria](https://placehold.it/50/8e44ad/000000?text=+)](#wisteria)[![silver](https://placehold.it/50/bdc3c7/000000?text=+)](#silver)[![midnightBlue](https://placehold.it/50/2c3e50/000000?text=+)](#midnight-blue)[![asbestos](https://placehold.it/50/7f8c8d/000000?text=+)](#asbestos)
 
 
-# All Elm UI Colors
+# Turquoise
 
-@docs all, allLight, allDark
+[![turquoise](https://placehold.it/50/1abc9c/000000?text=+)](#turquoise)
 
+#1abc9c
 
-# Hex Strings
-
-@docs turquoiseHex, greenSeaHex, sunFlowerHex, orangeHex, emeraldHex, nephritisHex, carrotHex, pumpkinHex, peterRiverHex, belizeHoleHex, alizarinHex, pomegranateHex, amethystHex, wisteriaHex, cloudsHex, silverHex, wetAsphaltHex, midnightBlueHex, concreteHex, asbestosHex
-
-
-# All Hex Strings
-
-@docs allHex, allLightHex, allDarkHex
+@docs turquoise, turquoiseHex, turquoiseRgb
 
 
-# Rgb Colors
+# Green Sea
 
-@docs turquoiseRgb, greenSeaRgb, sunFlowerRgb, orangeRgb, emeraldRgb, nephritisRgb, carrotRgb, pumpkinRgb, peterRiverRgb, belizeHoleRgb, alizarinRgb, pomegranateRgb, amethystRgb, wisteriaRgb, cloudsRgb, silverRgb, wetAsphaltRgb, midnightBlueRgb, concreteRgb, asbestosRgb
+[![greenSea](https://placehold.it/50/16a085/000000?text=+)](#green-sea)
+
+#16a085
+
+@docs greenSea, greenSeaHex, greenSeaRgb
 
 
-# All Rgb Colors
+# Sun Flower
 
-@docs allRgb, allLightRgb, allDarkRgb
+[![sunFlower](https://placehold.it/50/f1c40f/000000?text=+)](#sun-flower)
+
+#f1c40f
+
+@docs sunFlower, sunFlowerHex, sunFlowerRgb
+
+
+# Orange
+
+[![orange](https://placehold.it/50/f39c12/000000?text=+)](#orange)
+
+#f39c12
+
+@docs orange, orangeHex, orangeRgb
+
+
+# Emerald
+
+[![emerald](https://placehold.it/50/2ecc71/000000?text=+)](#emerald)
+
+#2ecc71
+
+@docs emerald, emeraldHex, emeraldRgb
+
+
+# Nephritis
+
+[![nephritis](https://placehold.it/50/27ae60/000000?text=+)](#nephritis)
+
+#27ae60
+
+@docs nephritis, nephritisHex, nephritisRgb
+
+
+# Carrot
+
+[![carrot](https://placehold.it/50/e67e22/000000?text=+)](#carrot)
+
+#e67e22
+
+@docs carrot, carrotHex, carrotRgb
+
+
+# Pumpkin
+
+[![pumpkin](https://placehold.it/50/d35400/000000?text=+)](#pumpkin)
+
+#d35400
+
+@docs pumpkin, pumpkinHex, pumpkinRgb
+
+
+# Peter River
+
+[![peterRiver](https://placehold.it/50/3498db/000000?text=+)](#peter-river)
+
+#3498db
+
+@docs peterRiver, peterRiverHex, peterRiverRgb
+
+
+# Belize Hole
+
+[![belizeHole](https://placehold.it/50/2980b9/000000?text=+)](#belize-hole)
+
+#2980b9
+
+@docs belizeHole, belizeHoleHex, belizeHoleRgb
+
+
+# Alizarin
+
+[![alizarin](https://placehold.it/50/e74c3c/000000?text=+)](#alizarin)
+
+#e74c3c
+
+@docs alizarin, alizarinHex, alizarinRgb
+
+
+# Pomegranate
+
+[![pomegranate](https://placehold.it/50/c0392b/000000?text=+)](#pomegranate)
+
+#c0392b
+
+@docs pomegranate, pomegranateHex, pomegranateRgb
+
+
+# Amethyst
+
+[![amethyst](https://placehold.it/50/9b59b6/000000?text=+)](#amethyst)
+
+#9b59b6
+
+@docs amethyst, amethystHex, amethystRgb
+
+
+# Wisteria
+
+[![wisteria](https://placehold.it/50/8e44ad/000000?text=+)](#wisteria)
+
+#8e44ad
+
+@docs wisteria, wisteriaHex, wisteriaRgb
+
+
+# Clouds
+
+[![clouds](https://placehold.it/50/ecf0f1/000000?text=+)](#clouds)
+
+#ecf0f1
+
+@docs clouds, cloudsHex, cloudsRgb
+
+
+# Silver
+
+[![silver](https://placehold.it/50/bdc3c7/000000?text=+)](#silver)
+
+#bdc3c7
+
+@docs silver, silverHex, silverRgb
+
+
+# Wet Asphalt
+
+[![wetAsphalt](https://placehold.it/50/34495e/000000?text=+)](#wet-asphalt)
+
+#34495e
+
+@docs wetAsphalt, wetAsphaltHex, wetAsphaltRgb
+
+
+# Midnight Blue
+
+[![midnightBlue](https://placehold.it/50/2c3e50/000000?text=+)](#midnight-blue)
+
+#2c3e50
+
+@docs midnightBlue, midnightBlueHex, midnightBlueRgb
+
+
+# Concrete
+
+[![concrete](https://placehold.it/50/95a5a6/000000?text=+)](#concrete)
+
+#95a5a6
+
+@docs concrete, concreteHex, concreteRgb
+
+
+# Asbestos
+
+[![asbestos](https://placehold.it/50/7f8c8d/000000?text=+)](#asbestos)
+
+#7f8c8d
+
+@docs asbestos, asbestosHex, asbestosRgb
+
+
+# All Colors
+
+[![turquoise](https://placehold.it/50/1abc9c/000000?text=+)](#turquoise)[![sunFlower](https://placehold.it/50/f1c40f/000000?text=+)](#sun-flower)[![emerald](https://placehold.it/50/2ecc71/000000?text=+)](#emerald)[![carrot](https://placehold.it/50/e67e22/000000?text=+)](#carrot)[![peterRiver](https://placehold.it/50/3498db/000000?text=+)](#peter-river)[![alizarin](https://placehold.it/50/e74c3c/000000?text=+)](#alizarin)[![amethyst](https://placehold.it/50/9b59b6/000000?text=+)](#amethyst)[![clouds](https://placehold.it/50/ecf0f1/000000?text=+)](#clouds)[![wetAsphalt](https://placehold.it/50/34495e/000000?text=+)](#wet-asphalt)[![concrete](https://placehold.it/50/95a5a6/000000?text=+)](#concrete)
+
+[![greenSea](https://placehold.it/50/16a085/000000?text=+)](#green-sea)[![orange](https://placehold.it/50/f39c12/000000?text=+)](#orange)[![nephritis](https://placehold.it/50/27ae60/000000?text=+)](#nephritis)[![pumpkin](https://placehold.it/50/d35400/000000?text=+)](#pumpkin)[![belizeHole](https://placehold.it/50/2980b9/000000?text=+)](#belize-hole)[![pomegranate](https://placehold.it/50/c0392b/000000?text=+)](#pomegranate)[![wisteria](https://placehold.it/50/8e44ad/000000?text=+)](#wisteria)[![silver](https://placehold.it/50/bdc3c7/000000?text=+)](#silver)[![midnightBlue](https://placehold.it/50/2c3e50/000000?text=+)](#midnight-blue)[![asbestos](https://placehold.it/50/7f8c8d/000000?text=+)](#asbestos)
+
+@docs all, allHex, allRgb
+
+
+# Light Colors
+
+[![turquoise](https://placehold.it/50/1abc9c/000000?text=+)](#turquoise)[![sunFlower](https://placehold.it/50/f1c40f/000000?text=+)](#sun-flower)[![emerald](https://placehold.it/50/2ecc71/000000?text=+)](#emerald)[![carrot](https://placehold.it/50/e67e22/000000?text=+)](#carrot)[![peterRiver](https://placehold.it/50/3498db/000000?text=+)](#peter-river)[![alizarin](https://placehold.it/50/e74c3c/000000?text=+)](#alizarin)[![amethyst](https://placehold.it/50/9b59b6/000000?text=+)](#amethyst)[![clouds](https://placehold.it/50/ecf0f1/000000?text=+)](#clouds)[![wetAsphalt](https://placehold.it/50/34495e/000000?text=+)](#wet-asphalt)[![concrete](https://placehold.it/50/95a5a6/000000?text=+)](#concrete)
+
+@docs allLight, allLightHex, allLightRgb
+
+
+# Dark Colors
+
+[![greenSea](https://placehold.it/50/16a085/000000?text=+)](#green-sea)[![orange](https://placehold.it/50/f39c12/000000?text=+)](#orange)[![nephritis](https://placehold.it/50/27ae60/000000?text=+)](#nephritis)[![pumpkin](https://placehold.it/50/d35400/000000?text=+)](#pumpkin)[![belizeHole](https://placehold.it/50/2980b9/000000?text=+)](#belize-hole)[![pomegranate](https://placehold.it/50/c0392b/000000?text=+)](#pomegranate)[![wisteria](https://placehold.it/50/8e44ad/000000?text=+)](#wisteria)[![silver](https://placehold.it/50/bdc3c7/000000?text=+)](#silver)[![midnightBlue](https://placehold.it/50/2c3e50/000000?text=+)](#midnight-blue)[![asbestos](https://placehold.it/50/7f8c8d/000000?text=+)](#asbestos)
+
+@docs allDark, allDarkHex, allDarkRgb
 
 -}
 
-import Element exposing (Color, rgb255)
+import Element
 
 
-{-| ![turquoise](https://placehold.it/50/1abc9c/000000?text=+)![sunFlower](https://placehold.it/50/f1c40f/000000?text=+)![emerald](https://placehold.it/50/2ecc71/000000?text=+)![carrot](https://placehold.it/50/e67e22/000000?text=+)![peterRiver](https://placehold.it/50/3498db/000000?text=+)![alizarin](https://placehold.it/50/e74c3c/000000?text=+)![amethyst](https://placehold.it/50/9b59b6/000000?text=+)![clouds](https://placehold.it/50/ecf0f1/000000?text=+)![wetAsphalt](https://placehold.it/50/34495e/000000?text=+)![concrete](https://placehold.it/50/95a5a6/000000?text=+)
-
-![greenSea](https://placehold.it/50/16a085/000000?text=+)![orange](https://placehold.it/50/f39c12/000000?text=+)![nephritis](https://placehold.it/50/27ae60/000000?text=+)![pumpkin](https://placehold.it/50/d35400/000000?text=+)![belizeHole](https://placehold.it/50/2980b9/000000?text=+)![pomegranate](https://placehold.it/50/c0392b/000000?text=+)![wisteria](https://placehold.it/50/8e44ad/000000?text=+)![silver](https://placehold.it/50/bdc3c7/000000?text=+)![midnightBlue](https://placehold.it/50/2c3e50/000000?text=+)![asbestos](https://placehold.it/50/7f8c8d/000000?text=+)
-
+{-| All Elm UI Colors
 -}
-all : List Color
+all : List Element.Color
 all =
     [ turquoise
     , greenSea
@@ -78,9 +265,9 @@ all =
     ]
 
 
-{-| ![turquoise](https://placehold.it/50/1abc9c/000000?text=+)![sunFlower](https://placehold.it/50/f1c40f/000000?text=+)![emerald](https://placehold.it/50/2ecc71/000000?text=+)![carrot](https://placehold.it/50/e67e22/000000?text=+)![peterRiver](https://placehold.it/50/3498db/000000?text=+)![alizarin](https://placehold.it/50/e74c3c/000000?text=+)![amethyst](https://placehold.it/50/9b59b6/000000?text=+)![clouds](https://placehold.it/50/ecf0f1/000000?text=+)![wetAsphalt](https://placehold.it/50/34495e/000000?text=+)![concrete](https://placehold.it/50/95a5a6/000000?text=+)
+{-| Light Elm UI Colors
 -}
-allLight : List Color
+allLight : List Element.Color
 allLight =
     [ turquoise
     , sunFlower
@@ -95,9 +282,9 @@ allLight =
     ]
 
 
-{-| ![greenSea](https://placehold.it/50/16a085/000000?text=+)![orange](https://placehold.it/50/f39c12/000000?text=+)![nephritis](https://placehold.it/50/27ae60/000000?text=+)![pumpkin](https://placehold.it/50/d35400/000000?text=+)![belizeHole](https://placehold.it/50/2980b9/000000?text=+)![pomegranate](https://placehold.it/50/c0392b/000000?text=+)![wisteria](https://placehold.it/50/8e44ad/000000?text=+)![silver](https://placehold.it/50/bdc3c7/000000?text=+)![midnightBlue](https://placehold.it/50/2c3e50/000000?text=+)![asbestos](https://placehold.it/50/7f8c8d/000000?text=+)
+{-| Dark Elm UI Colors
 -}
-allDark : List Color
+allDark : List Element.Color
 allDark =
     [ greenSea
     , orange
@@ -112,10 +299,7 @@ allDark =
     ]
 
 
-{-| ![turquoise](https://placehold.it/50/1abc9c/000000?text=+)![sunFlower](https://placehold.it/50/f1c40f/000000?text=+)![emerald](https://placehold.it/50/2ecc71/000000?text=+)![carrot](https://placehold.it/50/e67e22/000000?text=+)![peterRiver](https://placehold.it/50/3498db/000000?text=+)![alizarin](https://placehold.it/50/e74c3c/000000?text=+)![amethyst](https://placehold.it/50/9b59b6/000000?text=+)![clouds](https://placehold.it/50/ecf0f1/000000?text=+)![wetAsphalt](https://placehold.it/50/34495e/000000?text=+)![concrete](https://placehold.it/50/95a5a6/000000?text=+)
-
-![greenSea](https://placehold.it/50/16a085/000000?text=+)![orange](https://placehold.it/50/f39c12/000000?text=+)![nephritis](https://placehold.it/50/27ae60/000000?text=+)![pumpkin](https://placehold.it/50/d35400/000000?text=+)![belizeHole](https://placehold.it/50/2980b9/000000?text=+)![pomegranate](https://placehold.it/50/c0392b/000000?text=+)![wisteria](https://placehold.it/50/8e44ad/000000?text=+)![silver](https://placehold.it/50/bdc3c7/000000?text=+)![midnightBlue](https://placehold.it/50/2c3e50/000000?text=+)![asbestos](https://placehold.it/50/7f8c8d/000000?text=+)
-
+{-| All Hex Strings
 -}
 allHex : List String
 allHex =
@@ -142,7 +326,7 @@ allHex =
     ]
 
 
-{-| ![turquoise](https://placehold.it/50/1abc9c/000000?text=+)![sunFlower](https://placehold.it/50/f1c40f/000000?text=+)![emerald](https://placehold.it/50/2ecc71/000000?text=+)![carrot](https://placehold.it/50/e67e22/000000?text=+)![peterRiver](https://placehold.it/50/3498db/000000?text=+)![alizarin](https://placehold.it/50/e74c3c/000000?text=+)![amethyst](https://placehold.it/50/9b59b6/000000?text=+)![clouds](https://placehold.it/50/ecf0f1/000000?text=+)![wetAsphalt](https://placehold.it/50/34495e/000000?text=+)![concrete](https://placehold.it/50/95a5a6/000000?text=+)
+{-| Light Hex Strings
 -}
 allLightHex : List String
 allLightHex =
@@ -159,7 +343,7 @@ allLightHex =
     ]
 
 
-{-| ![greenSea](https://placehold.it/50/16a085/000000?text=+)![orange](https://placehold.it/50/f39c12/000000?text=+)![nephritis](https://placehold.it/50/27ae60/000000?text=+)![pumpkin](https://placehold.it/50/d35400/000000?text=+)![belizeHole](https://placehold.it/50/2980b9/000000?text=+)![pomegranate](https://placehold.it/50/c0392b/000000?text=+)![wisteria](https://placehold.it/50/8e44ad/000000?text=+)![silver](https://placehold.it/50/bdc3c7/000000?text=+)![midnightBlue](https://placehold.it/50/2c3e50/000000?text=+)![asbestos](https://placehold.it/50/7f8c8d/000000?text=+)
+{-| Dark Hex Strings
 -}
 allDarkHex : List String
 allDarkHex =
@@ -176,10 +360,7 @@ allDarkHex =
     ]
 
 
-{-| ![turquoise](https://placehold.it/50/1abc9c/000000?text=+)![sunFlower](https://placehold.it/50/f1c40f/000000?text=+)![emerald](https://placehold.it/50/2ecc71/000000?text=+)![carrot](https://placehold.it/50/e67e22/000000?text=+)![peterRiver](https://placehold.it/50/3498db/000000?text=+)![alizarin](https://placehold.it/50/e74c3c/000000?text=+)![amethyst](https://placehold.it/50/9b59b6/000000?text=+)![clouds](https://placehold.it/50/ecf0f1/000000?text=+)![wetAsphalt](https://placehold.it/50/34495e/000000?text=+)![concrete](https://placehold.it/50/95a5a6/000000?text=+)
-
-![greenSea](https://placehold.it/50/16a085/000000?text=+)![orange](https://placehold.it/50/f39c12/000000?text=+)![nephritis](https://placehold.it/50/27ae60/000000?text=+)![pumpkin](https://placehold.it/50/d35400/000000?text=+)![belizeHole](https://placehold.it/50/2980b9/000000?text=+)![pomegranate](https://placehold.it/50/c0392b/000000?text=+)![wisteria](https://placehold.it/50/8e44ad/000000?text=+)![silver](https://placehold.it/50/bdc3c7/000000?text=+)![midnightBlue](https://placehold.it/50/2c3e50/000000?text=+)![asbestos](https://placehold.it/50/7f8c8d/000000?text=+)
-
+{-| All RGB Values
 -}
 allRgb : List { red : Int, green : Int, blue : Int }
 allRgb =
@@ -206,7 +387,7 @@ allRgb =
     ]
 
 
-{-| ![turquoise](https://placehold.it/50/1abc9c/000000?text=+)![sunFlower](https://placehold.it/50/f1c40f/000000?text=+)![emerald](https://placehold.it/50/2ecc71/000000?text=+)![carrot](https://placehold.it/50/e67e22/000000?text=+)![peterRiver](https://placehold.it/50/3498db/000000?text=+)![alizarin](https://placehold.it/50/e74c3c/000000?text=+)![amethyst](https://placehold.it/50/9b59b6/000000?text=+)![clouds](https://placehold.it/50/ecf0f1/000000?text=+)![wetAsphalt](https://placehold.it/50/34495e/000000?text=+)![concrete](https://placehold.it/50/95a5a6/000000?text=+)
+{-| Light RGB Values
 -}
 allLightRgb : List { red : Int, green : Int, blue : Int }
 allLightRgb =
@@ -223,7 +404,7 @@ allLightRgb =
     ]
 
 
-{-| ![greenSea](https://placehold.it/50/16a085/000000?text=+)![orange](https://placehold.it/50/f39c12/000000?text=+)![nephritis](https://placehold.it/50/27ae60/000000?text=+)![pumpkin](https://placehold.it/50/d35400/000000?text=+)![belizeHole](https://placehold.it/50/2980b9/000000?text=+)![pomegranate](https://placehold.it/50/c0392b/000000?text=+)![wisteria](https://placehold.it/50/8e44ad/000000?text=+)![silver](https://placehold.it/50/bdc3c7/000000?text=+)![midnightBlue](https://placehold.it/50/2c3e50/000000?text=+)![asbestos](https://placehold.it/50/7f8c8d/000000?text=+)
+{-| Dark RGB Values
 -}
 allDarkRgb : List { red : Int, green : Int, blue : Int }
 allDarkRgb =
@@ -240,541 +421,401 @@ allDarkRgb =
     ]
 
 
-{-| ![](https://placehold.it/50/1abc9c/000000?text=+)
-#1abc9c
+{-| Elm UI Color
 -}
-turquoise : Color
+turquoise : Element.Color
 turquoise =
-    rgb255 0x1A 0xBC 0x9C
+    Element.rgb255 0x1A 0xBC 0x9C
 
 
-{-| ![](https://placehold.it/50/1abc9c/000000?text=+)
-#1abc9c
+{-| "#1abc9c"
 -}
 turquoiseHex : String
 turquoiseHex =
     "#1abc9c"
 
 
-{-| ![](https://placehold.it/50/1abc9c/000000?text=+)
-#1abc9c
--}
+{-| -}
 turquoiseRgb : { red : Int, green : Int, blue : Int }
 turquoiseRgb =
-    { red = 0x1A
-    , green = 0xBC
-    , blue = 0x9C
-    }
+    { red = 0x1A, green = 0xBC, blue = 0x9C }
 
 
-{-| ![](https://placehold.it/50/16a085/000000?text=+)
-#16a085
+{-| Elm UI Color
 -}
-greenSea : Color
+greenSea : Element.Color
 greenSea =
-    rgb255 0x16 0xA0 0x85
+    Element.rgb255 0x16 0xA0 0x85
 
 
-{-| ![](https://placehold.it/50/16a085/000000?text=+)
-#16a085
+{-| "#16a085"
 -}
 greenSeaHex : String
 greenSeaHex =
     "#16a085"
 
 
-{-| ![](https://placehold.it/50/16a085/000000?text=+)
-#16a085
--}
+{-| -}
 greenSeaRgb : { red : Int, green : Int, blue : Int }
 greenSeaRgb =
-    { red = 0x16
-    , green = 0xA0
-    , blue = 0x85
-    }
+    { red = 0x16, green = 0xA0, blue = 0x85 }
 
 
-{-| ![](https://placehold.it/50/f1c40f/000000?text=+)
-#f1c40f
+{-| Elm UI Color
 -}
-sunFlower : Color
+sunFlower : Element.Color
 sunFlower =
-    rgb255 0xF1 0xC4 0x0F
+    Element.rgb255 0xF1 0xC4 0x0F
 
 
-{-| ![](https://placehold.it/50/f1c40f/000000?text=+)
-#f1c40f
+{-| "#f1c40f"
 -}
 sunFlowerHex : String
 sunFlowerHex =
     "#f1c40f"
 
 
-{-| ![](https://placehold.it/50/f1c40f/000000?text=+)
-#f1c40f
--}
+{-| -}
 sunFlowerRgb : { red : Int, green : Int, blue : Int }
 sunFlowerRgb =
-    { red = 0xF1
-    , green = 0xC4
-    , blue = 0x0F
-    }
+    { red = 0xF1, green = 0xC4, blue = 0x0F }
 
 
-{-| ![](https://placehold.it/50/f39c12/000000?text=+)
-#f39c12
+{-| Elm UI Color
 -}
-orange : Color
+orange : Element.Color
 orange =
-    rgb255 0xF3 0x9C 0x12
+    Element.rgb255 0xF3 0x9C 0x12
 
 
-{-| ![](https://placehold.it/50/f39c12/000000?text=+)
-#f39c12
+{-| "#f39c12"
 -}
 orangeHex : String
 orangeHex =
     "#f39c12"
 
 
-{-| ![](https://placehold.it/50/f39c12/000000?text=+)
-#f39c12
--}
+{-| -}
 orangeRgb : { red : Int, green : Int, blue : Int }
 orangeRgb =
-    { red = 0xF3
-    , green = 0x9C
-    , blue = 0x12
-    }
+    { red = 0xF3, green = 0x9C, blue = 0x12 }
 
 
-{-| ![](https://placehold.it/50/2ecc71/000000?text=+)
-#2ecc71
+{-| Elm UI Color
 -}
-emerald : Color
+emerald : Element.Color
 emerald =
-    rgb255 0x2E 0xCC 0x71
+    Element.rgb255 0x2E 0xCC 0x71
 
 
-{-| ![](https://placehold.it/50/2ecc71/000000?text=+)
-#2ecc71
+{-| "#2ecc71"
 -}
 emeraldHex : String
 emeraldHex =
     "#2ecc71"
 
 
-{-| ![](https://placehold.it/50/2ecc71/000000?text=+)
-#2ecc71
--}
+{-| -}
 emeraldRgb : { red : Int, green : Int, blue : Int }
 emeraldRgb =
-    { red = 0x2E
-    , green = 0xCC
-    , blue = 0x71
-    }
+    { red = 0x2E, green = 0xCC, blue = 0x71 }
 
 
-{-| ![](https://placehold.it/50/27ae60/000000?text=+)
-#27ae60
+{-| Elm UI Color
 -}
-nephritis : Color
+nephritis : Element.Color
 nephritis =
-    rgb255 0x27 0xAE 0x60
+    Element.rgb255 0x27 0xAE 0x60
 
 
-{-| ![](https://placehold.it/50/27ae60/000000?text=+)
-#27ae60
+{-| "#27ae60"
 -}
 nephritisHex : String
 nephritisHex =
     "#27ae60"
 
 
-{-| ![](https://placehold.it/50/27ae60/000000?text=+)
-#27ae60
--}
+{-| -}
 nephritisRgb : { red : Int, green : Int, blue : Int }
 nephritisRgb =
-    { red = 0x27
-    , green = 0xAE
-    , blue = 0x60
-    }
+    { red = 0x27, green = 0xAE, blue = 0x60 }
 
 
-{-| ![](https://placehold.it/50/e67e22/000000?text=+)
-#e67e22
+{-| Elm UI Color
 -}
-carrot : Color
+carrot : Element.Color
 carrot =
-    rgb255 0xE6 0x7E 0x22
+    Element.rgb255 0xE6 0x7E 0x22
 
 
-{-| ![](https://placehold.it/50/e67e22/000000?text=+)
-#e67e22
+{-| "#e67e22"
 -}
 carrotHex : String
 carrotHex =
     "#e67e22"
 
 
-{-| ![](https://placehold.it/50/e67e22/000000?text=+)
-#e67e22
--}
+{-| -}
 carrotRgb : { red : Int, green : Int, blue : Int }
 carrotRgb =
-    { red = 0xE6
-    , green = 0x7E
-    , blue = 0x22
-    }
+    { red = 0xE6, green = 0x7E, blue = 0x22 }
 
 
-{-| ![](https://placehold.it/50/d35400/000000?text=+)
-#d35400
+{-| Elm UI Color
 -}
-pumpkin : Color
+pumpkin : Element.Color
 pumpkin =
-    rgb255 0xD3 0x54 0x00
+    Element.rgb255 0xD3 0x54 0x00
 
 
-{-| ![](https://placehold.it/50/d35400/000000?text=+)
-#d35400
+{-| "#d35400"
 -}
 pumpkinHex : String
 pumpkinHex =
     "#d35400"
 
 
-{-| ![](https://placehold.it/50/d35400/000000?text=+)
-#d35400
--}
+{-| -}
 pumpkinRgb : { red : Int, green : Int, blue : Int }
 pumpkinRgb =
-    { red = 0xD3
-    , green = 0x54
-    , blue = 0x00
-    }
+    { red = 0xD3, green = 0x54, blue = 0x00 }
 
 
-{-| ![](https://placehold.it/50/3498db/000000?text=+)
-#3498db
+{-| Elm UI Color
 -}
-peterRiver : Color
+peterRiver : Element.Color
 peterRiver =
-    rgb255 0x34 0x98 0xDB
+    Element.rgb255 0x34 0x98 0xDB
 
 
-{-| ![](https://placehold.it/50/3498db/000000?text=+)
-#3498db
+{-| "#3498db"
 -}
 peterRiverHex : String
 peterRiverHex =
     "#3498db"
 
 
-{-| ![](https://placehold.it/50/3498db/000000?text=+)
-#3498db
--}
+{-| -}
 peterRiverRgb : { red : Int, green : Int, blue : Int }
 peterRiverRgb =
-    { red = 0x34
-    , green = 0x98
-    , blue = 0xDB
-    }
+    { red = 0x34, green = 0x98, blue = 0xDB }
 
 
-{-| ![](https://placehold.it/50/2980b9/000000?text=+)
-#2980b9
+{-| Elm UI Color
 -}
-belizeHole : Color
+belizeHole : Element.Color
 belizeHole =
-    rgb255 0x29 0x80 0xB9
+    Element.rgb255 0x29 0x80 0xB9
 
 
-{-| ![](https://placehold.it/50/2980b9/000000?text=+)
-#2980b9
+{-| "#2980b9"
 -}
 belizeHoleHex : String
 belizeHoleHex =
     "#2980b9"
 
 
-{-| ![](https://placehold.it/50/2980b9/000000?text=+)
-#2980b9
--}
+{-| -}
 belizeHoleRgb : { red : Int, green : Int, blue : Int }
 belizeHoleRgb =
-    { red = 0x29
-    , green = 0x80
-    , blue = 0xB9
-    }
+    { red = 0x29, green = 0x80, blue = 0xB9 }
 
 
-{-| ![](https://placehold.it/50/e74c3c/000000?text=+)
-#e74c3c
+{-| Elm UI Color
 -}
-alizarin : Color
+alizarin : Element.Color
 alizarin =
-    rgb255 0xE7 0x4C 0x3C
+    Element.rgb255 0xE7 0x4C 0x3C
 
 
-{-| ![](https://placehold.it/50/e74c3c/000000?text=+)
-#e74c3c
+{-| "#e74c3c"
 -}
 alizarinHex : String
 alizarinHex =
     "#e74c3c"
 
 
-{-| ![](https://placehold.it/50/e74c3c/000000?text=+)
-#e74c3c
--}
+{-| -}
 alizarinRgb : { red : Int, green : Int, blue : Int }
 alizarinRgb =
-    { red = 0xE7
-    , green = 0x4C
-    , blue = 0x3C
-    }
+    { red = 0xE7, green = 0x4C, blue = 0x3C }
 
 
-{-| ![](https://placehold.it/50/c0392b/000000?text=+)
-#c0392b
+{-| Elm UI Color
 -}
-pomegranate : Color
+pomegranate : Element.Color
 pomegranate =
-    rgb255 0xC0 0x39 0x2B
+    Element.rgb255 0xC0 0x39 0x2B
 
 
-{-| ![](https://placehold.it/50/c0392b/000000?text=+)
-#c0392b
+{-| "#c0392b"
 -}
 pomegranateHex : String
 pomegranateHex =
     "#c0392b"
 
 
-{-| ![](https://placehold.it/50/c0392b/000000?text=+)
-#c0392b
--}
+{-| -}
 pomegranateRgb : { red : Int, green : Int, blue : Int }
 pomegranateRgb =
-    { red = 0xC0
-    , green = 0x39
-    , blue = 0x2B
-    }
+    { red = 0xC0, green = 0x39, blue = 0x2B }
 
 
-{-| ![](https://placehold.it/50/9b59b6/000000?text=+)
-#9b59b6
+{-| Elm UI Color
 -}
-amethyst : Color
+amethyst : Element.Color
 amethyst =
-    rgb255 0x9B 0x59 0xB6
+    Element.rgb255 0x9B 0x59 0xB6
 
 
-{-| ![](https://placehold.it/50/9b59b6/000000?text=+)
-#9b59b6
+{-| "#9b59b6"
 -}
 amethystHex : String
 amethystHex =
     "#9b59b6"
 
 
-{-| ![](https://placehold.it/50/9b59b6/000000?text=+)
-#9b59b6
--}
+{-| -}
 amethystRgb : { red : Int, green : Int, blue : Int }
 amethystRgb =
-    { red = 0x9B
-    , green = 0x59
-    , blue = 0xB6
-    }
+    { red = 0x9B, green = 0x59, blue = 0xB6 }
 
 
-{-| ![](https://placehold.it/50/8e44ad/000000?text=+)
-#8e44ad
+{-| Elm UI Color
 -}
-wisteria : Color
+wisteria : Element.Color
 wisteria =
-    rgb255 0x8E 0x44 0xAD
+    Element.rgb255 0x8E 0x44 0xAD
 
 
-{-| ![](https://placehold.it/50/8e44ad/000000?text=+)
-#8e44ad
+{-| "#8e44ad"
 -}
 wisteriaHex : String
 wisteriaHex =
     "#8e44ad"
 
 
-{-| ![](https://placehold.it/50/8e44ad/000000?text=+)
-#8e44ad
--}
+{-| -}
 wisteriaRgb : { red : Int, green : Int, blue : Int }
 wisteriaRgb =
-    { red = 0x8E
-    , green = 0x44
-    , blue = 0xAD
-    }
+    { red = 0x8E, green = 0x44, blue = 0xAD }
 
 
-{-| ![](https://placehold.it/50/ecf0f1/000000?text=+)
-#ecf0f1
+{-| Elm UI Color
 -}
-clouds : Color
+clouds : Element.Color
 clouds =
-    rgb255 0xEC 0xF0 0xF1
+    Element.rgb255 0xEC 0xF0 0xF1
 
 
-{-| ![](https://placehold.it/50/ecf0f1/000000?text=+)
-#ecf0f1
+{-| "#ecf0f1"
 -}
 cloudsHex : String
 cloudsHex =
     "#ecf0f1"
 
 
-{-| ![](https://placehold.it/50/ecf0f1/000000?text=+)
-#ecf0f1
--}
+{-| -}
 cloudsRgb : { red : Int, green : Int, blue : Int }
 cloudsRgb =
-    { red = 0xEC
-    , green = 0xF0
-    , blue = 0xF1
-    }
+    { red = 0xEC, green = 0xF0, blue = 0xF1 }
 
 
-{-| ![](https://placehold.it/50/bdc3c7/000000?text=+)
-#bdc3c7
+{-| Elm UI Color
 -}
-silver : Color
+silver : Element.Color
 silver =
-    rgb255 0xBD 0xC3 0xC7
+    Element.rgb255 0xBD 0xC3 0xC7
 
 
-{-| ![](https://placehold.it/50/bdc3c7/000000?text=+)
-#bdc3c7
+{-| "#bdc3c7"
 -}
 silverHex : String
 silverHex =
     "#bdc3c7"
 
 
-{-| ![](https://placehold.it/50/bdc3c7/000000?text=+)
-#bdc3c7
--}
+{-| -}
 silverRgb : { red : Int, green : Int, blue : Int }
 silverRgb =
-    { red = 0xBD
-    , green = 0xC3
-    , blue = 0xC7
-    }
+    { red = 0xBD, green = 0xC3, blue = 0xC7 }
 
 
-{-| ![](https://placehold.it/50/34495e/000000?text=+)
-#34495e
+{-| Elm UI Color
 -}
-wetAsphalt : Color
+wetAsphalt : Element.Color
 wetAsphalt =
-    rgb255 0x34 0x49 0x5E
+    Element.rgb255 0x34 0x49 0x5E
 
 
-{-| ![](https://placehold.it/50/34495e/000000?text=+)
-#34495e
+{-| "#34495e"
 -}
 wetAsphaltHex : String
 wetAsphaltHex =
     "#34495e"
 
 
-{-| ![](https://placehold.it/50/34495e/000000?text=+)
-#34495e
--}
+{-| -}
 wetAsphaltRgb : { red : Int, green : Int, blue : Int }
 wetAsphaltRgb =
-    { red = 0x34
-    , green = 0x49
-    , blue = 0x5E
-    }
+    { red = 0x34, green = 0x49, blue = 0x5E }
 
 
-{-| ![](https://placehold.it/50/2c3e50/000000?text=+)
-#2c3e50
+{-| Elm UI Color
 -}
-midnightBlue : Color
+midnightBlue : Element.Color
 midnightBlue =
-    rgb255 0x2C 0x3E 0x50
+    Element.rgb255 0x2C 0x3E 0x50
 
 
-{-| ![](https://placehold.it/50/2c3e50/000000?text=+)
-#2c3e50
+{-| "#2c3e50"
 -}
 midnightBlueHex : String
 midnightBlueHex =
     "#2c3e50"
 
 
-{-| ![](https://placehold.it/50/2c3e50/000000?text=+)
-#2c3e50
--}
+{-| -}
 midnightBlueRgb : { red : Int, green : Int, blue : Int }
 midnightBlueRgb =
-    { red = 0x2C
-    , green = 0x3E
-    , blue = 0x50
-    }
+    { red = 0x2C, green = 0x3E, blue = 0x50 }
 
 
-{-| ![](https://placehold.it/50/95a5a6/000000?text=+)
-#95a5a6
+{-| Elm UI Color
 -}
-concrete : Color
+concrete : Element.Color
 concrete =
-    rgb255 0x95 0xA5 0xA6
+    Element.rgb255 0x95 0xA5 0xA6
 
 
-{-| ![](https://placehold.it/50/95a5a6/000000?text=+)
-#95a5a6
+{-| "#95a5a6"
 -}
 concreteHex : String
 concreteHex =
     "#95a5a6"
 
 
-{-| ![](https://placehold.it/50/95a5a6/000000?text=+)
-#95a5a6
--}
+{-| -}
 concreteRgb : { red : Int, green : Int, blue : Int }
 concreteRgb =
-    { red = 0x95
-    , green = 0xA5
-    , blue = 0xA6
-    }
+    { red = 0x95, green = 0xA5, blue = 0xA6 }
 
 
-{-| ![](https://placehold.it/50/7f8c8d/000000?text=+)
-#7f8c8d
+{-| Elm UI Color
 -}
-asbestos : Color
+asbestos : Element.Color
 asbestos =
-    rgb255 0x7F 0x8C 0x8D
+    Element.rgb255 0x7F 0x8C 0x8D
 
 
-{-| ![](https://placehold.it/50/7f8c8d/000000?text=+)
-#7f8c8d
+{-| "#7f8c8d"
 -}
 asbestosHex : String
 asbestosHex =
     "#7f8c8d"
 
 
-{-| ![](https://placehold.it/50/7f8c8d/000000?text=+)
-#7f8c8d
--}
+{-| -}
 asbestosRgb : { red : Int, green : Int, blue : Int }
 asbestosRgb =
-    { red = 0x7F
-    , green = 0x8C
-    , blue = 0x8D
-    }
+    { red = 0x7F, green = 0x8C, blue = 0x8D }

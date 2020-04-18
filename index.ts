@@ -79,105 +79,109 @@ function gen({ moduleName, namesAndColors }) {
 
   const colorDefs = namesAndColors.map(([name, [r, g, b]]) => {
     return `
-{-| ${colMd([r, g, b])}
-#${r}${g}${b}
+{-| Elm UI Color
 -}
-${name}: Color
-${name} = rgb255 0x${r} 0x${g} 0x${b}
+${name}: Element.Color
+${name} = Element.rgb255 0x${r} 0x${g} 0x${b}
 
-{-| ${colMd([r, g, b])}
-#${r}${g}${b}
+{-| "#${r}${g}${b}"
 -}
 ${name}Hex: String
 ${name}Hex = "#${r}${g}${b}"
 
-{-| ${colMd([r, g, b])}
-#${r}${g}${b}
+{-|
 -}
 ${name}Rgb: ${rgbType()}
-${name}Rgb =
-    { red = 0x${r}
-    , green = 0x${g}
-    , blue = 0x${b}
-    }
-
+${name}Rgb = { red = 0x${r}, green = 0x${g}, blue = 0x${b} }
 
     `;
   });
 
   const elm = `module FlatColors.${moduleName} exposing (${exposing})
 
-{-| ${moduleName.replace("Palette", " Palette")}
+{-| ${humanize(moduleName)}
+
+${renderColorsAsImages(namesAndColors)}
 
 ${renderColorDocs(namesAndColors)}
 
-# Elm UI Colors
-@docs ${colorNames}
+# All Colors
 
-# All Elm UI Colors
-@docs all, allLight, allDark
+${renderColorsAsImages(namesAndColors)}
 
-# Hex Strings
-@docs ${colorNames.map((c: string) => c + "Hex")}
+@docs all, allHex, allRgb
 
-# All Hex Strings
-@docs allHex, allLightHex, allDarkHex
+# Light Colors
 
-# Rgb Colors
-@docs ${colorNames.map((c: string) => c + "Rgb")}
+${renderColorsAsImages(namesAndColorsLight)}
 
-# All Rgb Colors
-@docs allRgb, allLightRgb, allDarkRgb
+@docs allLight, allLightHex, allLightRgb
+
+# Dark Colors
+
+${renderColorsAsImages(namesAndColorsDark)}
+
+@docs allDark, allDarkHex, allDarkRgb
+
 -}
 
-import Element exposing (rgb255, Color)
+import Element
 
 ${allDef(namesAndColors, {
-  type: "Color",
+  type: "Element.Color",
   name: "all",
-  suffix: ""
+  suffix: "",
+  desc: "All Elm UI Colors"
 })}
 ${allDef(namesAndColorsLight, {
-  type: "Color",
+  type: "Element.Color",
   name: "allLight",
-  suffix: ""
+  suffix: "",
+  desc: "Light Elm UI Colors"
 })}
 ${allDef(namesAndColorsDark, {
-  type: "Color",
+  type: "Element.Color",
   name: "allDark",
-  suffix: ""
+  suffix: "",
+  desc: "Dark Elm UI Colors"
 })}
 
 ${allDef(namesAndColors, {
   type: "String",
   name: "allHex",
-  suffix: "Hex"
+  suffix: "Hex",
+  desc: "All Hex Strings"
 })}
 ${allDef(namesAndColorsLight, {
   type: "String",
   name: "allLightHex",
-  suffix: "Hex"
+  suffix: "Hex",
+  desc: "Light Hex Strings"
 })}
 ${allDef(namesAndColorsDark, {
   type: "String",
   name: "allDarkHex",
-  suffix: "Hex"
+  suffix: "Hex",
+  desc: "Dark Hex Strings"
 })}
 
 ${allDef(namesAndColors, {
   type: rgbType(),
   name: "allRgb",
-  suffix: "Rgb"
+  suffix: "Rgb",
+  desc: "All RGB Values"
 })}
 ${allDef(namesAndColorsLight, {
   type: rgbType(),
   name: "allLightRgb",
-  suffix: "Rgb"
+  suffix: "Rgb",
+  desc: "Light RGB Values"
 })}
 ${allDef(namesAndColorsDark, {
   type: rgbType(),
   name: "allDarkRgb",
-  suffix: "Rgb"
+  suffix: "Rgb",
+  desc: "Dark RGB Values"
 })}
 
 ${colorDefs.join("\n")}
@@ -191,9 +195,9 @@ function rgbType() {
   return "{red: Int, green: Int, blue: Int}";
 }
 
-function allDef(namesAndColors: any, { type, name, suffix }) {
+function allDef(namesAndColors: any, { desc, type, name, suffix }) {
   return `
-{-| ${renderColorDocs(namesAndColors)}
+{-| ${desc}
 -}
 ${name} : List ${type}
 ${name} =
@@ -202,20 +206,37 @@ ${name} =
   `;
 }
 
-function renderColorDocs(namesAndColors: any) {
+function renderColorsAsImages(namesAndColors: any, suffix = "") {
   if (namesAndColors.length > 10) {
     const light = namesAndColors
       .filter((_: any, i: number) => i % 2 === 0)
-      .map(([name, color]) => colMd(color, name))
+      .map(([name, color]) => colMd(color, name, suffix))
       .join("");
     const dark = namesAndColors
       .filter((_: any, i: number) => i % 2 !== 0)
-      .map(([name, color]) => colMd(color, name))
+      .map(([name, color]) => colMd(color, name, suffix))
       .join("");
     return light + "\n\n" + dark;
   } else {
-    return namesAndColors.map(([name, color]) => colMd(color, name)).join("");
+    return namesAndColors
+      .map(([name, color]) => colMd(color, name, suffix))
+      .join("");
   }
+}
+
+function renderColorDocs(namesAndColors: any) {
+  return namesAndColors
+    .map(([name, color]) => {
+      return `# ${humanize(name)}
+
+${colMd(color, name)}
+
+#${color.join("")}
+
+@docs ${name}, ${name}Hex, ${name}Rgb
+`;
+    })
+    .join("\n");
 }
 
 function writeAndValidate(filename: string, contents: string) {
@@ -235,9 +256,9 @@ function toElmName(name: string) {
 function genReadme(palettes: any) {
   const subsections = palettes
     .map(([paletteName, colors]) => {
-      return `## ${paletteName}
+      return `## ${humanize(paletteName)}
 
-${renderColorDocs(colors)}
+${renderColorsAsImages(colors, "FlatColors-" + paletteName)}
 
     `;
     })
@@ -247,11 +268,11 @@ ${renderColorDocs(colors)}
     "./README.md",
     `# Flat UI color palettes for Elm
 
-This library exposes all 280 Flat UI colors for [elm-ui](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/), as hex strings and RGB color records.
+This library exposes all 280 Flat UI colors for [Elm UI](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/), as hex strings and RGB color records.
 
 Kudos to the people behind [Flat UI Colors](https://flatuicolors.com/).
 
-## Use with elm-ui
+## Use with Elm UI
 
 \`\`\`elm
 import FlatColors.AmericanPalette as FlatColors
@@ -293,8 +314,10 @@ ${subsections}
   );
 }
 
-function colMd(color: string[], name = "") {
-  return `![${name}](https://placehold.it/50/${color.join("")}/000000?text=+)`;
+function colMd(color: string[], name = "", suffix = "") {
+  return `[![${name}](https://placehold.it/50/${color.join(
+    ""
+  )}/000000?text=+)](${suffix}#${slug(name)})`;
 }
 
 function updateElmJson(palettes: any) {
@@ -304,4 +327,18 @@ function updateElmJson(palettes: any) {
     "./elm.json",
     JSON.stringify({ ...json, "exposed-modules": exposed }, null, 4)
   );
+}
+
+function humanize(string: string): string {
+  return string
+    .split(/(?=[A-Z])/)
+    .map(t => t[0].toUpperCase() + t.slice(1).toLowerCase())
+    .join(" ");
+}
+
+function slug(string: string): string {
+  return string
+    .split(/(?=[A-Z])/)
+    .join("-")
+    .toLowerCase();
 }
