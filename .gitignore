@@ -1,2 +1,5 @@
 node_modules
 elm-stuff
+.idea
+example/package-lock.json
+example/package.json

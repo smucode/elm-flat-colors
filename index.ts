@@ -101,25 +101,25 @@ ${name}Rgb = { red = 0x${r}, green = 0x${g}, blue = 0x${b} }
 
 {-| ${humanize(moduleName)}
 
-${renderColorsAsImages(namesAndColors)}
+${renderColorsAsImages(namesAndColors, true)}
 
 ${renderColorDocs(namesAndColors)}
 
 # All Colors
 
-${renderColorsAsImages(namesAndColors)}
+${renderColorsAsImages(namesAndColors, true)}
 
 @docs all, allHex, allRgb
 
 # Light Colors
 
-${renderColorsAsImages(namesAndColorsLight)}
+${renderColorsAsImages(namesAndColorsLight, false)}
 
 @docs allLight, allLightHex, allLightRgb
 
 # Dark Colors
 
-${renderColorsAsImages(namesAndColorsDark)}
+${renderColorsAsImages(namesAndColorsDark, false)}
 
 @docs allDark, allDarkHex, allDarkRgb
 
@@ -206,20 +206,25 @@ ${name} =
   `;
 }
 
-function renderColorsAsImages(namesAndColors: any, suffix = "") {
-  if (namesAndColors.length > 10) {
+function renderColorsAsImages(
+  namesAndColors: any,
+  splitLightDark: boolean,
+  suffix = "",
+  size = 50
+) {
+  if (splitLightDark) {
     const light = namesAndColors
       .filter((_: any, i: number) => i % 2 === 0)
-      .map(([name, color]) => colMd(color, name, suffix))
+      .map(([name, color]) => colMd(color, name, suffix, size))
       .join("");
     const dark = namesAndColors
       .filter((_: any, i: number) => i % 2 !== 0)
-      .map(([name, color]) => colMd(color, name, suffix))
+      .map(([name, color]) => colMd(color, name, suffix, size))
       .join("");
     return light + "\n\n" + dark;
   } else {
     return namesAndColors
-      .map(([name, color]) => colMd(color, name, suffix))
+      .map(([name, color]) => colMd(color, name, suffix, size))
       .join("");
   }
 }
@@ -258,19 +263,33 @@ function genReadme(palettes: any) {
     .map(([paletteName, colors]) => {
       return `## ${humanize(paletteName)}
 
-${renderColorsAsImages(colors, "FlatColors-" + paletteName)}
+${renderColorsAsImages(colors, true, "FlatColors-" + paletteName)}
 
     `;
     })
     .join("\n");
 
+  const colorGrid = palettes
+    .map(([paletteName, colors]) =>
+      renderColorsAsImages(colors, false, "FlatColors-" + paletteName, 10)
+    )
+    .join("");
+
   fs.writeFileSync(
     "./README.md",
     `# Flat UI color palettes for Elm
 
-This library exposes all 280 Flat UI colors for [Elm UI](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/), as hex strings and RGB color records.
+This library exposes all 280 Flat UI colors for use with [Elm UI](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/), [elm/html](https://package.elm-lang.org/packages/elm/html/latest/) and any other library.
 
-Kudos to the people behind [Flat UI Colors](https://flatuicolors.com/).
+${colorGrid}
+
+Kudos to the folks behind [Flat UI Colors](https://flatuicolors.com/).
+
+## Installation
+
+\`\`\`
+elm install smucode/elm-flat-colors
+\`\`\`
 
 ## Use with Elm UI
 
@@ -308,14 +327,29 @@ color =
     Color.rgb255 red green blue
 \`\`\`
 
+## Using color lists
+
+\`\`\`elm
+import FlatColors.AmericanPalette as FlatColors
+
+cssGradient : String
+cssGradient =
+    let
+        colors =
+            String.join "," FlatColors.allHex
+    in
+    "linear-gradient(" ++ colors ++ ")"
+\`\`\`
+
+
 ${subsections}
 
 `
   );
 }
 
-function colMd(color: string[], name = "", suffix = "") {
-  return `[![${name}](https://placehold.it/50/${color.join(
+function colMd(color: string[], name = "", suffix = "", size = 50) {
+  return `[![${name}](https://placehold.it/${size}/${color.join(
     ""
   )}/000000?text=+)](${suffix}#${slug(name)})`;
 }
