@@ -269,19 +269,13 @@ ${renderColorsAsImages(colors, true, "FlatColors-" + paletteName)}
     })
     .join("\n");
 
-  const colorGrid = palettes
-    .map(([paletteName, colors]) =>
-      renderColorsAsImages(colors, false, "FlatColors-" + paletteName, 10)
-    )
-    .join("");
-
   fs.writeFileSync(
     "./README.md",
     `# Flat UI color palettes for Elm
 
 This library exposes all 280 Flat UI colors for use with [Elm UI](https://package.elm-lang.org/packages/mdgriffith/elm-ui/latest/), [elm/html](https://package.elm-lang.org/packages/elm/html/latest/) and any other library.
 
-${colorGrid}
+[![](https://raw.github.com/smucode/elm-flat-colors/master/preview.png)](#american-palette)
 
 Kudos to the folks behind [Flat UI Colors](https://flatuicolors.com/).
 

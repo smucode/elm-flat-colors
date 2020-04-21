@@ -3,3 +3,4 @@ elm-stuff
 .idea
 example/package-lock.json
 example/package.json
+.DS_Store

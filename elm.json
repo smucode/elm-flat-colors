@@ -1,7 +1,7 @@
 {
     "type": "package",
     "name": "smucode/elm-flat-colors",
-    "summary": "🌈 280 handpicked colors in 14 palettes for Elm UI, elm/html and others",
+    "summary": "🎨 280 handpicked colors in 14 palettes for Elm UI, elm/html and others",
     "license": "Apache-2.0",
     "version": "1.0.0",
     "source-directories": [
