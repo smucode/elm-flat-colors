@@ -18,8 +18,8 @@
     "Elm-UI",
     "Flat-UI"
   ],
-  "author": "SMU <flat-colors@smuco.de",
-  "license": "Apache-2.0",
+  "author": "SMU <elm-flat-colors@smuco.de",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/smucode/elm-flat-colors/issues"
   },

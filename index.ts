@@ -1,66 +1,26 @@
 import * as fs from "fs";
 import { execSync } from "child_process";
 
-const palettes = generateElm();
+const config = readConfig();
+
+config.sort((a, b) => a.name.localeCompare(b.name)).forEach(generateElm);
 
 execSync(`npx elm make --output=/dev/null ./src/FlatColors/*`);
 
 execSync(`npx elm-analyse ./src/FlatColors/*`);
 
-genReadme(palettes);
+genReadme(config);
 
-updateElmJson(palettes);
+updateElmJson(config);
 
-function generateElm() {
-  const dir = "./Flat-UI-Colors/";
-  return fs
-    .readdirSync(dir)
-    .filter(f => f.match(/^(\w+)Palette\w*.min.css$/))
-    .map(filename => {
-      const moduleName = filename.replace(".min.css", "").replace("v1", "");
+function generateElm(config: Config) {
+  const moduleName = toModuleName(config.name);
 
-      const log = (msg: string) => console.log(`[${moduleName}]: ${msg}`);
-      const exit = (msg: string) => {
-        log(msg);
-        process.exit(1);
-      };
-      const matches = fs
-        .readFileSync(dir + filename.replace(".min", ""))
-        .toString()
-        .matchAll(/\.([\w-]+)\-bg \{[\s]+background\-color[\s]?\: \#(\w{6})/g);
+  const colorNames = config.colors.map(({ elmName }) => elmName);
 
-      if (!matches) {
-        exit("got no matches");
-      }
+  const colorsLight = takeLight(config.colors);
 
-      const namesAndColors = Array.from(matches, ([_, name, color]) => [
-        toElmName(name),
-        color.match(/.{2}/g)
-      ]);
-
-      if (namesAndColors.length !== 20) {
-        exit(
-          "wrong number of matches, expecting 20 but got " +
-            namesAndColors.length
-        );
-      }
-
-      gen({ moduleName, namesAndColors });
-
-      return [moduleName, namesAndColors];
-    });
-}
-
-function gen({ moduleName, namesAndColors }) {
-  const colorNames = namesAndColors.map(([name]) => name);
-
-  const namesAndColorsLight = namesAndColors.filter(
-    (_: any, i: number) => i % 2 === 0
-  );
-
-  const namesAndColorsDark = namesAndColors.filter(
-    (_: any, i: number) => i % 2 !== 0
-  );
+  const colorsDark = takeDark(config.colors);
 
   const exposing = [
     ...colorNames.map((m: string) => [m, m + "Hex", m + "Rgb"]),
@@ -77,49 +37,51 @@ function gen({ moduleName, namesAndColors }) {
     ]
   ].flat();
 
-  const colorDefs = namesAndColors.map(([name, [r, g, b]]) => {
+  const colorDefs = config.colors.map(c => {
+    const [r, g, b] = hexToRgb(c.hex);
+
     return `
 {-| Elm UI Color
 -}
-${name}: Element.Color
-${name} = Element.rgb255 0x${r} 0x${g} 0x${b}
+${c.elmName}: Element.Color
+${c.elmName} = Element.rgb255 0x${r} 0x${g} 0x${b}
 
 {-| "#${r}${g}${b}"
 -}
-${name}Hex: String
-${name}Hex = "#${r}${g}${b}"
+${c.elmName}Hex: String
+${c.elmName}Hex = "#${r}${g}${b}"
 
 {-|
 -}
-${name}Rgb: ${rgbType()}
-${name}Rgb = { red = 0x${r}, green = 0x${g}, blue = 0x${b} }
+${c.elmName}Rgb: ${rgbType()}
+${c.elmName}Rgb = { red = 0x${r}, green = 0x${g}, blue = 0x${b} }
 
     `;
   });
 
   const elm = `module FlatColors.${moduleName} exposing (${exposing})
 
-{-| ${humanize(moduleName)}
+{-| ${config.name}
 
-${renderColorsAsImages(namesAndColors, true)}
+${renderColorsAsImages(config.colors, true)}
 
-${renderColorDocs(namesAndColors)}
+${renderColorDocs(config.colors)}
 
 # All Colors
 
-${renderColorsAsImages(namesAndColors, true)}
+${renderColorsAsImages(config.colors, true)}
 
 @docs all, allHex, allRgb
 
 # Light Colors
 
-${renderColorsAsImages(namesAndColorsLight, false)}
+${renderColorsAsImages(colorsLight, false)}
 
 @docs allLight, allLightHex, allLightRgb
 
 # Dark Colors
 
-${renderColorsAsImages(namesAndColorsDark, false)}
+${renderColorsAsImages(colorsDark, false)}
 
 @docs allDark, allDarkHex, allDarkRgb
 
@@ -127,57 +89,57 @@ ${renderColorsAsImages(namesAndColorsDark, false)}
 
 import Element
 
-${allDef(namesAndColors, {
+${allDef(config.colors, {
   type: "Element.Color",
   name: "all",
   suffix: "",
   desc: "All Elm UI Colors"
 })}
-${allDef(namesAndColorsLight, {
+${allDef(colorsLight, {
   type: "Element.Color",
   name: "allLight",
   suffix: "",
   desc: "Light Elm UI Colors"
 })}
-${allDef(namesAndColorsDark, {
+${allDef(colorsDark, {
   type: "Element.Color",
   name: "allDark",
   suffix: "",
   desc: "Dark Elm UI Colors"
 })}
 
-${allDef(namesAndColors, {
+${allDef(config.colors, {
   type: "String",
   name: "allHex",
   suffix: "Hex",
   desc: "All Hex Strings"
 })}
-${allDef(namesAndColorsLight, {
+${allDef(colorsLight, {
   type: "String",
   name: "allLightHex",
   suffix: "Hex",
   desc: "Light Hex Strings"
 })}
-${allDef(namesAndColorsDark, {
+${allDef(colorsDark, {
   type: "String",
   name: "allDarkHex",
   suffix: "Hex",
   desc: "Dark Hex Strings"
 })}
 
-${allDef(namesAndColors, {
+${allDef(config.colors, {
   type: rgbType(),
   name: "allRgb",
   suffix: "Rgb",
   desc: "All RGB Values"
 })}
-${allDef(namesAndColorsLight, {
+${allDef(colorsLight, {
   type: rgbType(),
   name: "allLightRgb",
   suffix: "Rgb",
   desc: "Light RGB Values"
 })}
-${allDef(namesAndColorsDark, {
+${allDef(colorsDark, {
   type: rgbType(),
   name: "allDarkRgb",
   suffix: "Rgb",
@@ -195,50 +157,46 @@ function rgbType() {
   return "{red: Int, green: Int, blue: Int}";
 }
 
-function allDef(namesAndColors: any, { desc, type, name, suffix }) {
+function allDef(colors: Color[], { desc, type, name, suffix }) {
   return `
 {-| ${desc}
 -}
 ${name} : List ${type}
 ${name} =
-    [ ${namesAndColors.map(([name]) => name + suffix).join("\n    , ")}
+    [ ${colors.map(c => c.elmName + suffix).join("\n    , ")}
     ]
   `;
 }
 
 function renderColorsAsImages(
-  namesAndColors: any,
+  colors: Color[],
   splitLightDark: boolean,
   suffix = "",
   size = 50
 ) {
   if (splitLightDark) {
-    const light = namesAndColors
-      .filter((_: any, i: number) => i % 2 === 0)
-      .map(([name, color]) => colMd(color, name, suffix, size))
+    const light = takeLight(colors)
+      .map(color => colMd(color, suffix, size))
       .join("");
-    const dark = namesAndColors
-      .filter((_: any, i: number) => i % 2 !== 0)
-      .map(([name, color]) => colMd(color, name, suffix, size))
+    const dark = takeDark(colors)
+      .map(color => colMd(color, suffix, size))
       .join("");
     return light + "\n\n" + dark;
   } else {
-    return namesAndColors
-      .map(([name, color]) => colMd(color, name, suffix, size))
-      .join("");
+    return colors.map(color => colMd(color, suffix, size)).join("");
   }
 }
 
-function renderColorDocs(namesAndColors: any) {
-  return namesAndColors
-    .map(([name, color]) => {
-      return `# ${humanize(name)}
+function renderColorDocs(colors: Color[]) {
+  return colors
+    .map(c => {
+      return `# ${c.displayName}
 
-${colMd(color, name)}
+${colMd(c)}
 
-#${color.join("")}
+${c.hex}
 
-@docs ${name}, ${name}Hex, ${name}Rgb
+@docs ${c.elmName}, ${c.elmName}Hex, ${c.elmName}Rgb
 `;
     })
     .join("\n");
@@ -250,20 +208,12 @@ function writeAndValidate(filename: string, contents: string) {
   execSync("npx elm-format --yes " + filename);
 }
 
-function toElmName(name: string) {
-  const ucFirst = name
-    .split("-")
-    .map(n => n[0].toUpperCase() + n.slice(1).toLowerCase())
-    .join("");
-  return ucFirst[0].toLowerCase() + ucFirst.slice(1);
-}
+function genReadme(config: Config[]) {
+  const subsections = config
+    .map(({ name, colors }) => {
+      return `## ${name}
 
-function genReadme(palettes: any) {
-  const subsections = palettes
-    .map(([paletteName, colors]) => {
-      return `## ${humanize(paletteName)}
-
-${renderColorsAsImages(colors, true, "FlatColors-" + paletteName)}
+${renderColorsAsImages(colors, true, "FlatColors-" + toModuleName(name))}
 
     `;
     })
@@ -342,14 +292,32 @@ ${subsections}
   );
 }
 
-function colMd(color: string[], name = "", suffix = "", size = 50) {
-  return `[![${name}](https://placehold.it/${size}/${color.join(
-    ""
-  )}/000000?text=+)](${suffix}#${slug(name)})`;
+interface Config {
+  author: string;
+  name: string;
+  dribbble: string;
+  colors: Color[];
 }
 
-function updateElmJson(palettes: any) {
-  const exposed = palettes.map(([n]) => "FlatColors." + n);
+interface Color {
+  displayName: string;
+  elmName: string;
+  hex: string;
+  slug: string;
+}
+
+function colMd(color: Color, suffix = "", size = 50) {
+  return `[![${
+    color.displayName
+  }](https://placehold.it/${size}/${color.hex.slice(
+    1
+  )}/000000?text=+)](${suffix}#${color.slug})`;
+}
+
+function updateElmJson(config: Config[]) {
+  const exposed = config.map(
+    ({ name }) => "FlatColors." + upperCaseFirst(toModuleName(name))
+  );
   const json = JSON.parse(fs.readFileSync("./elm.json").toString());
   fs.writeFileSync(
     "./elm.json",
@@ -357,16 +325,71 @@ function updateElmJson(palettes: any) {
   );
 }
 
-function humanize(string: string): string {
-  return string
-    .split(/(?=[A-Z])/)
-    .map(t => t[0].toUpperCase() + t.slice(1).toLowerCase())
-    .join(" ");
+function upperCaseFirst(str: string): string {
+  return str[0].toUpperCase() + str.slice(1);
 }
 
-function slug(string: string): string {
-  return string
-    .split(/(?=[A-Z])/)
-    .join("-")
-    .toLowerCase();
+function lowerCaseFirst(str: string): string {
+  return str[0].toLowerCase() + str.slice(1);
+}
+
+function exit(msg: string) {
+  console.log(msg);
+  process.exit(1);
+}
+
+function readConfig(): Config[] {
+  const config = JSON.parse(
+    fs.readFileSync("./flat-ui-colors.json").toString()
+  );
+  return config.map((c: any) => {
+    if (c.colors.length !== 20) {
+      exit("wrong number of colors, expecting 20 but got " + c.colors.length);
+    }
+    return {
+      ...c,
+      colors: c.colors.map(({ name, hex }) => {
+        if (!name || !hex) {
+          exit("name or hex not set");
+        }
+        const parts = name
+          .toLowerCase()
+          .replace("!", "")
+          .replace("'", "")
+          .replace(/\-/g, " ")
+          .replace(/[ó]/g, "o")
+          .replace(/[è]/g, "e")
+          .replace(/[âáā]/g, "a")
+          .split(" ");
+        return {
+          hex,
+          displayName: name
+            .split(" ")
+            .map(upperCaseFirst)
+            .join(" "),
+          elmName: lowerCaseFirst(parts.map(upperCaseFirst).join("")),
+          slug: parts.join("-")
+        };
+      })
+    };
+  });
+}
+
+function hexToRgb(hex: string) {
+  return hex.slice(1).match(/.{2}/g);
+}
+
+function toModuleName(name: string) {
+  return name
+    .split(" ")
+    .map(upperCaseFirst)
+    .join("");
+}
+
+function takeLight(colors: Color[]) {
+  return [].concat(colors.slice(0, 5), colors.slice(10, 15));
+}
+
+function takeDark(colors: Color[]) {
+  return [].concat(colors.slice(5, 10), colors.slice(15, 20));
 }
