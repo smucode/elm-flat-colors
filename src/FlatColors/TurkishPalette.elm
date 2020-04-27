@@ -421,401 +421,421 @@ allDarkRgb =
     ]
 
 
-{-| Elm UI Color
+{-| rgb255 0xcd 0x84 0xf1
 -}
 brightLilac : Element.Color
 brightLilac =
     Element.rgb255 0xCD 0x84 0xF1
 
 
-{-| "#cd84f1"
+{-| #cd84f1
 -}
 brightLilacHex : String
 brightLilacHex =
     "#cd84f1"
 
 
-{-| -}
+{-| { red = 0xcd, green = 0x84, blue = 0xf1 }
+-}
 brightLilacRgb : { red : Int, green : Int, blue : Int }
 brightLilacRgb =
     { red = 0xCD, green = 0x84, blue = 0xF1 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xff 0xcc 0xcc
 -}
 prettyPlease : Element.Color
 prettyPlease =
     Element.rgb255 0xFF 0xCC 0xCC
 
 
-{-| "#ffcccc"
+{-| #ffcccc
 -}
 prettyPleaseHex : String
 prettyPleaseHex =
     "#ffcccc"
 
 
-{-| -}
+{-| { red = 0xff, green = 0xcc, blue = 0xcc }
+-}
 prettyPleaseRgb : { red : Int, green : Int, blue : Int }
 prettyPleaseRgb =
     { red = 0xFF, green = 0xCC, blue = 0xCC }
 
 
-{-| Elm UI Color
+{-| rgb255 0xff 0x4d 0x4d
 -}
 lightRed : Element.Color
 lightRed =
     Element.rgb255 0xFF 0x4D 0x4D
 
 
-{-| "#ff4d4d"
+{-| #ff4d4d
 -}
 lightRedHex : String
 lightRedHex =
     "#ff4d4d"
 
 
-{-| -}
+{-| { red = 0xff, green = 0x4d, blue = 0x4d }
+-}
 lightRedRgb : { red : Int, green : Int, blue : Int }
 lightRedRgb =
     { red = 0xFF, green = 0x4D, blue = 0x4D }
 
 
-{-| Elm UI Color
+{-| rgb255 0xff 0xaf 0x40
 -}
 mandarinSorbet : Element.Color
 mandarinSorbet =
     Element.rgb255 0xFF 0xAF 0x40
 
 
-{-| "#ffaf40"
+{-| #ffaf40
 -}
 mandarinSorbetHex : String
 mandarinSorbetHex =
     "#ffaf40"
 
 
-{-| -}
+{-| { red = 0xff, green = 0xaf, blue = 0x40 }
+-}
 mandarinSorbetRgb : { red : Int, green : Int, blue : Int }
 mandarinSorbetRgb =
     { red = 0xFF, green = 0xAF, blue = 0x40 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xff 0xfa 0x65
 -}
 unmellowYellow : Element.Color
 unmellowYellow =
     Element.rgb255 0xFF 0xFA 0x65
 
 
-{-| "#fffa65"
+{-| #fffa65
 -}
 unmellowYellowHex : String
 unmellowYellowHex =
     "#fffa65"
 
 
-{-| -}
+{-| { red = 0xff, green = 0xfa, blue = 0x65 }
+-}
 unmellowYellowRgb : { red : Int, green : Int, blue : Int }
 unmellowYellowRgb =
     { red = 0xFF, green = 0xFA, blue = 0x65 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xc5 0x6c 0xf0
 -}
 lightPurple : Element.Color
 lightPurple =
     Element.rgb255 0xC5 0x6C 0xF0
 
 
-{-| "#c56cf0"
+{-| #c56cf0
 -}
 lightPurpleHex : String
 lightPurpleHex =
     "#c56cf0"
 
 
-{-| -}
+{-| { red = 0xc5, green = 0x6c, blue = 0xf0 }
+-}
 lightPurpleRgb : { red : Int, green : Int, blue : Int }
 lightPurpleRgb =
     { red = 0xC5, green = 0x6C, blue = 0xF0 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xff 0xb8 0xb8
 -}
 youngSalmon : Element.Color
 youngSalmon =
     Element.rgb255 0xFF 0xB8 0xB8
 
 
-{-| "#ffb8b8"
+{-| #ffb8b8
 -}
 youngSalmonHex : String
 youngSalmonHex =
     "#ffb8b8"
 
 
-{-| -}
+{-| { red = 0xff, green = 0xb8, blue = 0xb8 }
+-}
 youngSalmonRgb : { red : Int, green : Int, blue : Int }
 youngSalmonRgb =
     { red = 0xFF, green = 0xB8, blue = 0xB8 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xff 0x38 0x38
 -}
 redOrange : Element.Color
 redOrange =
     Element.rgb255 0xFF 0x38 0x38
 
 
-{-| "#ff3838"
+{-| #ff3838
 -}
 redOrangeHex : String
 redOrangeHex =
     "#ff3838"
 
 
-{-| -}
+{-| { red = 0xff, green = 0x38, blue = 0x38 }
+-}
 redOrangeRgb : { red : Int, green : Int, blue : Int }
 redOrangeRgb =
     { red = 0xFF, green = 0x38, blue = 0x38 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xff 0x9f 0x1a
 -}
 radiantYellow : Element.Color
 radiantYellow =
     Element.rgb255 0xFF 0x9F 0x1A
 
 
-{-| "#ff9f1a"
+{-| #ff9f1a
 -}
 radiantYellowHex : String
 radiantYellowHex =
     "#ff9f1a"
 
 
-{-| -}
+{-| { red = 0xff, green = 0x9f, blue = 0x1a }
+-}
 radiantYellowRgb : { red : Int, green : Int, blue : Int }
 radiantYellowRgb =
     { red = 0xFF, green = 0x9F, blue = 0x1A }
 
 
-{-| Elm UI Color
+{-| rgb255 0xff 0xf2 0x00
 -}
 dornYellow : Element.Color
 dornYellow =
     Element.rgb255 0xFF 0xF2 0x00
 
 
-{-| "#fff200"
+{-| #fff200
 -}
 dornYellowHex : String
 dornYellowHex =
     "#fff200"
 
 
-{-| -}
+{-| { red = 0xff, green = 0xf2, blue = 0x00 }
+-}
 dornYellowRgb : { red : Int, green : Int, blue : Int }
 dornYellowRgb =
     { red = 0xFF, green = 0xF2, blue = 0x00 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x32 0xff 0x7e
 -}
 wintergreen : Element.Color
 wintergreen =
     Element.rgb255 0x32 0xFF 0x7E
 
 
-{-| "#32ff7e"
+{-| #32ff7e
 -}
 wintergreenHex : String
 wintergreenHex =
     "#32ff7e"
 
 
-{-| -}
+{-| { red = 0x32, green = 0xff, blue = 0x7e }
+-}
 wintergreenRgb : { red : Int, green : Int, blue : Int }
 wintergreenRgb =
     { red = 0x32, green = 0xFF, blue = 0x7E }
 
 
-{-| Elm UI Color
+{-| rgb255 0x7e 0xff 0xf5
 -}
 electricBlue : Element.Color
 electricBlue =
     Element.rgb255 0x7E 0xFF 0xF5
 
 
-{-| "#7efff5"
+{-| #7efff5
 -}
 electricBlueHex : String
 electricBlueHex =
     "#7efff5"
 
 
-{-| -}
+{-| { red = 0x7e, green = 0xff, blue = 0xf5 }
+-}
 electricBlueRgb : { red : Int, green : Int, blue : Int }
 electricBlueRgb =
     { red = 0x7E, green = 0xFF, blue = 0xF5 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x18 0xdc 0xff
 -}
 neonBlue : Element.Color
 neonBlue =
     Element.rgb255 0x18 0xDC 0xFF
 
 
-{-| "#18dcff"
+{-| #18dcff
 -}
 neonBlueHex : String
 neonBlueHex =
     "#18dcff"
 
 
-{-| -}
+{-| { red = 0x18, green = 0xdc, blue = 0xff }
+-}
 neonBlueRgb : { red : Int, green : Int, blue : Int }
 neonBlueRgb =
     { red = 0x18, green = 0xDC, blue = 0xFF }
 
 
-{-| Elm UI Color
+{-| rgb255 0x7d 0x5f 0xff
 -}
 lightSlateBlue : Element.Color
 lightSlateBlue =
     Element.rgb255 0x7D 0x5F 0xFF
 
 
-{-| "#7d5fff"
+{-| #7d5fff
 -}
 lightSlateBlueHex : String
 lightSlateBlueHex =
     "#7d5fff"
 
 
-{-| -}
+{-| { red = 0x7d, green = 0x5f, blue = 0xff }
+-}
 lightSlateBlueRgb : { red : Int, green : Int, blue : Int }
 lightSlateBlueRgb =
     { red = 0x7D, green = 0x5F, blue = 0xFF }
 
 
-{-| Elm UI Color
+{-| rgb255 0x4b 0x4b 0x4b
 -}
 shadowedSteel : Element.Color
 shadowedSteel =
     Element.rgb255 0x4B 0x4B 0x4B
 
 
-{-| "#4b4b4b"
+{-| #4b4b4b
 -}
 shadowedSteelHex : String
 shadowedSteelHex =
     "#4b4b4b"
 
 
-{-| -}
+{-| { red = 0x4b, green = 0x4b, blue = 0x4b }
+-}
 shadowedSteelRgb : { red : Int, green : Int, blue : Int }
 shadowedSteelRgb =
     { red = 0x4B, green = 0x4B, blue = 0x4B }
 
 
-{-| Elm UI Color
+{-| rgb255 0x3a 0xe3 0x74
 -}
 weirdGreen : Element.Color
 weirdGreen =
     Element.rgb255 0x3A 0xE3 0x74
 
 
-{-| "#3ae374"
+{-| #3ae374
 -}
 weirdGreenHex : String
 weirdGreenHex =
     "#3ae374"
 
 
-{-| -}
+{-| { red = 0x3a, green = 0xe3, blue = 0x74 }
+-}
 weirdGreenRgb : { red : Int, green : Int, blue : Int }
 weirdGreenRgb =
     { red = 0x3A, green = 0xE3, blue = 0x74 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x67 0xe6 0xdc
 -}
 hammamBlue : Element.Color
 hammamBlue =
     Element.rgb255 0x67 0xE6 0xDC
 
 
-{-| "#67e6dc"
+{-| #67e6dc
 -}
 hammamBlueHex : String
 hammamBlueHex =
     "#67e6dc"
 
 
-{-| -}
+{-| { red = 0x67, green = 0xe6, blue = 0xdc }
+-}
 hammamBlueRgb : { red : Int, green : Int, blue : Int }
 hammamBlueRgb =
     { red = 0x67, green = 0xE6, blue = 0xDC }
 
 
-{-| Elm UI Color
+{-| rgb255 0x17 0xc0 0xeb
 -}
 spiroDiscoBall : Element.Color
 spiroDiscoBall =
     Element.rgb255 0x17 0xC0 0xEB
 
 
-{-| "#17c0eb"
+{-| #17c0eb
 -}
 spiroDiscoBallHex : String
 spiroDiscoBallHex =
     "#17c0eb"
 
 
-{-| -}
+{-| { red = 0x17, green = 0xc0, blue = 0xeb }
+-}
 spiroDiscoBallRgb : { red : Int, green : Int, blue : Int }
 spiroDiscoBallRgb =
     { red = 0x17, green = 0xC0, blue = 0xEB }
 
 
-{-| Elm UI Color
+{-| rgb255 0x71 0x58 0xe2
 -}
 lightIndigo : Element.Color
 lightIndigo =
     Element.rgb255 0x71 0x58 0xE2
 
 
-{-| "#7158e2"
+{-| #7158e2
 -}
 lightIndigoHex : String
 lightIndigoHex =
     "#7158e2"
 
 
-{-| -}
+{-| { red = 0x71, green = 0x58, blue = 0xe2 }
+-}
 lightIndigoRgb : { red : Int, green : Int, blue : Int }
 lightIndigoRgb =
     { red = 0x71, green = 0x58, blue = 0xE2 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x3d 0x3d 0x3d
 -}
 balticSea : Element.Color
 balticSea =
     Element.rgb255 0x3D 0x3D 0x3D
 
 
-{-| "#3d3d3d"
+{-| #3d3d3d
 -}
 balticSeaHex : String
 balticSeaHex =
     "#3d3d3d"
 
 
-{-| -}
+{-| { red = 0x3d, green = 0x3d, blue = 0x3d }
+-}
 balticSeaRgb : { red : Int, green : Int, blue : Int }
 balticSeaRgb =
     { red = 0x3D, green = 0x3D, blue = 0x3D }

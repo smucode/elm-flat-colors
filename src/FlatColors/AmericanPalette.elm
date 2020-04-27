@@ -421,401 +421,421 @@ allDarkRgb =
     ]
 
 
-{-| Elm UI Color
+{-| rgb255 0x55 0xef 0xc4
 -}
 lightGreenishBlue : Element.Color
 lightGreenishBlue =
     Element.rgb255 0x55 0xEF 0xC4
 
 
-{-| "#55efc4"
+{-| #55efc4
 -}
 lightGreenishBlueHex : String
 lightGreenishBlueHex =
     "#55efc4"
 
 
-{-| -}
+{-| { red = 0x55, green = 0xef, blue = 0xc4 }
+-}
 lightGreenishBlueRgb : { red : Int, green : Int, blue : Int }
 lightGreenishBlueRgb =
     { red = 0x55, green = 0xEF, blue = 0xC4 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x81 0xec 0xec
 -}
 fadedPoster : Element.Color
 fadedPoster =
     Element.rgb255 0x81 0xEC 0xEC
 
 
-{-| "#81ecec"
+{-| #81ecec
 -}
 fadedPosterHex : String
 fadedPosterHex =
     "#81ecec"
 
 
-{-| -}
+{-| { red = 0x81, green = 0xec, blue = 0xec }
+-}
 fadedPosterRgb : { red : Int, green : Int, blue : Int }
 fadedPosterRgb =
     { red = 0x81, green = 0xEC, blue = 0xEC }
 
 
-{-| Elm UI Color
+{-| rgb255 0x74 0xb9 0xff
 -}
 greenDarnerTail : Element.Color
 greenDarnerTail =
     Element.rgb255 0x74 0xB9 0xFF
 
 
-{-| "#74b9ff"
+{-| #74b9ff
 -}
 greenDarnerTailHex : String
 greenDarnerTailHex =
     "#74b9ff"
 
 
-{-| -}
+{-| { red = 0x74, green = 0xb9, blue = 0xff }
+-}
 greenDarnerTailRgb : { red : Int, green : Int, blue : Int }
 greenDarnerTailRgb =
     { red = 0x74, green = 0xB9, blue = 0xFF }
 
 
-{-| Elm UI Color
+{-| rgb255 0xa2 0x9b 0xfe
 -}
 shyMoment : Element.Color
 shyMoment =
     Element.rgb255 0xA2 0x9B 0xFE
 
 
-{-| "#a29bfe"
+{-| #a29bfe
 -}
 shyMomentHex : String
 shyMomentHex =
     "#a29bfe"
 
 
-{-| -}
+{-| { red = 0xa2, green = 0x9b, blue = 0xfe }
+-}
 shyMomentRgb : { red : Int, green : Int, blue : Int }
 shyMomentRgb =
     { red = 0xA2, green = 0x9B, blue = 0xFE }
 
 
-{-| Elm UI Color
+{-| rgb255 0xdf 0xe6 0xe9
 -}
 cityLights : Element.Color
 cityLights =
     Element.rgb255 0xDF 0xE6 0xE9
 
 
-{-| "#dfe6e9"
+{-| #dfe6e9
 -}
 cityLightsHex : String
 cityLightsHex =
     "#dfe6e9"
 
 
-{-| -}
+{-| { red = 0xdf, green = 0xe6, blue = 0xe9 }
+-}
 cityLightsRgb : { red : Int, green : Int, blue : Int }
 cityLightsRgb =
     { red = 0xDF, green = 0xE6, blue = 0xE9 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x00 0xb8 0x94
 -}
 mintLeaf : Element.Color
 mintLeaf =
     Element.rgb255 0x00 0xB8 0x94
 
 
-{-| "#00b894"
+{-| #00b894
 -}
 mintLeafHex : String
 mintLeafHex =
     "#00b894"
 
 
-{-| -}
+{-| { red = 0x00, green = 0xb8, blue = 0x94 }
+-}
 mintLeafRgb : { red : Int, green : Int, blue : Int }
 mintLeafRgb =
     { red = 0x00, green = 0xB8, blue = 0x94 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x00 0xce 0xc9
 -}
 robinsEggBlue : Element.Color
 robinsEggBlue =
     Element.rgb255 0x00 0xCE 0xC9
 
 
-{-| "#00cec9"
+{-| #00cec9
 -}
 robinsEggBlueHex : String
 robinsEggBlueHex =
     "#00cec9"
 
 
-{-| -}
+{-| { red = 0x00, green = 0xce, blue = 0xc9 }
+-}
 robinsEggBlueRgb : { red : Int, green : Int, blue : Int }
 robinsEggBlueRgb =
     { red = 0x00, green = 0xCE, blue = 0xC9 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x09 0x84 0xe3
 -}
 electronBlue : Element.Color
 electronBlue =
     Element.rgb255 0x09 0x84 0xE3
 
 
-{-| "#0984e3"
+{-| #0984e3
 -}
 electronBlueHex : String
 electronBlueHex =
     "#0984e3"
 
 
-{-| -}
+{-| { red = 0x09, green = 0x84, blue = 0xe3 }
+-}
 electronBlueRgb : { red : Int, green : Int, blue : Int }
 electronBlueRgb =
     { red = 0x09, green = 0x84, blue = 0xE3 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x6c 0x5c 0xe7
 -}
 exodusFruit : Element.Color
 exodusFruit =
     Element.rgb255 0x6C 0x5C 0xE7
 
 
-{-| "#6c5ce7"
+{-| #6c5ce7
 -}
 exodusFruitHex : String
 exodusFruitHex =
     "#6c5ce7"
 
 
-{-| -}
+{-| { red = 0x6c, green = 0x5c, blue = 0xe7 }
+-}
 exodusFruitRgb : { red : Int, green : Int, blue : Int }
 exodusFruitRgb =
     { red = 0x6C, green = 0x5C, blue = 0xE7 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xb2 0xbe 0xc3
 -}
 soothingBreeze : Element.Color
 soothingBreeze =
     Element.rgb255 0xB2 0xBE 0xC3
 
 
-{-| "#b2bec3"
+{-| #b2bec3
 -}
 soothingBreezeHex : String
 soothingBreezeHex =
     "#b2bec3"
 
 
-{-| -}
+{-| { red = 0xb2, green = 0xbe, blue = 0xc3 }
+-}
 soothingBreezeRgb : { red : Int, green : Int, blue : Int }
 soothingBreezeRgb =
     { red = 0xB2, green = 0xBE, blue = 0xC3 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xff 0xea 0xa7
 -}
 sourLemon : Element.Color
 sourLemon =
     Element.rgb255 0xFF 0xEA 0xA7
 
 
-{-| "#ffeaa7"
+{-| #ffeaa7
 -}
 sourLemonHex : String
 sourLemonHex =
     "#ffeaa7"
 
 
-{-| -}
+{-| { red = 0xff, green = 0xea, blue = 0xa7 }
+-}
 sourLemonRgb : { red : Int, green : Int, blue : Int }
 sourLemonRgb =
     { red = 0xFF, green = 0xEA, blue = 0xA7 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xfa 0xb1 0xa0
 -}
 firstDate : Element.Color
 firstDate =
     Element.rgb255 0xFA 0xB1 0xA0
 
 
-{-| "#fab1a0"
+{-| #fab1a0
 -}
 firstDateHex : String
 firstDateHex =
     "#fab1a0"
 
 
-{-| -}
+{-| { red = 0xfa, green = 0xb1, blue = 0xa0 }
+-}
 firstDateRgb : { red : Int, green : Int, blue : Int }
 firstDateRgb =
     { red = 0xFA, green = 0xB1, blue = 0xA0 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xff 0x76 0x75
 -}
 pinkGlamour : Element.Color
 pinkGlamour =
     Element.rgb255 0xFF 0x76 0x75
 
 
-{-| "#ff7675"
+{-| #ff7675
 -}
 pinkGlamourHex : String
 pinkGlamourHex =
     "#ff7675"
 
 
-{-| -}
+{-| { red = 0xff, green = 0x76, blue = 0x75 }
+-}
 pinkGlamourRgb : { red : Int, green : Int, blue : Int }
 pinkGlamourRgb =
     { red = 0xFF, green = 0x76, blue = 0x75 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xfd 0x79 0xa8
 -}
 pico8Pink : Element.Color
 pico8Pink =
     Element.rgb255 0xFD 0x79 0xA8
 
 
-{-| "#fd79a8"
+{-| #fd79a8
 -}
 pico8PinkHex : String
 pico8PinkHex =
     "#fd79a8"
 
 
-{-| -}
+{-| { red = 0xfd, green = 0x79, blue = 0xa8 }
+-}
 pico8PinkRgb : { red : Int, green : Int, blue : Int }
 pico8PinkRgb =
     { red = 0xFD, green = 0x79, blue = 0xA8 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x63 0x6e 0x72
 -}
 americanRiver : Element.Color
 americanRiver =
     Element.rgb255 0x63 0x6E 0x72
 
 
-{-| "#636e72"
+{-| #636e72
 -}
 americanRiverHex : String
 americanRiverHex =
     "#636e72"
 
 
-{-| -}
+{-| { red = 0x63, green = 0x6e, blue = 0x72 }
+-}
 americanRiverRgb : { red : Int, green : Int, blue : Int }
 americanRiverRgb =
     { red = 0x63, green = 0x6E, blue = 0x72 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xfd 0xcb 0x6e
 -}
 brightYarrow : Element.Color
 brightYarrow =
     Element.rgb255 0xFD 0xCB 0x6E
 
 
-{-| "#fdcb6e"
+{-| #fdcb6e
 -}
 brightYarrowHex : String
 brightYarrowHex =
     "#fdcb6e"
 
 
-{-| -}
+{-| { red = 0xfd, green = 0xcb, blue = 0x6e }
+-}
 brightYarrowRgb : { red : Int, green : Int, blue : Int }
 brightYarrowRgb =
     { red = 0xFD, green = 0xCB, blue = 0x6E }
 
 
-{-| Elm UI Color
+{-| rgb255 0xe1 0x70 0x55
 -}
 orangeville : Element.Color
 orangeville =
     Element.rgb255 0xE1 0x70 0x55
 
 
-{-| "#e17055"
+{-| #e17055
 -}
 orangevilleHex : String
 orangevilleHex =
     "#e17055"
 
 
-{-| -}
+{-| { red = 0xe1, green = 0x70, blue = 0x55 }
+-}
 orangevilleRgb : { red : Int, green : Int, blue : Int }
 orangevilleRgb =
     { red = 0xE1, green = 0x70, blue = 0x55 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xd6 0x30 0x31
 -}
 chiGong : Element.Color
 chiGong =
     Element.rgb255 0xD6 0x30 0x31
 
 
-{-| "#d63031"
+{-| #d63031
 -}
 chiGongHex : String
 chiGongHex =
     "#d63031"
 
 
-{-| -}
+{-| { red = 0xd6, green = 0x30, blue = 0x31 }
+-}
 chiGongRgb : { red : Int, green : Int, blue : Int }
 chiGongRgb =
     { red = 0xD6, green = 0x30, blue = 0x31 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xe8 0x43 0x93
 -}
 prunusAvium : Element.Color
 prunusAvium =
     Element.rgb255 0xE8 0x43 0x93
 
 
-{-| "#e84393"
+{-| #e84393
 -}
 prunusAviumHex : String
 prunusAviumHex =
     "#e84393"
 
 
-{-| -}
+{-| { red = 0xe8, green = 0x43, blue = 0x93 }
+-}
 prunusAviumRgb : { red : Int, green : Int, blue : Int }
 prunusAviumRgb =
     { red = 0xE8, green = 0x43, blue = 0x93 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x2d 0x34 0x36
 -}
 draculaOrchid : Element.Color
 draculaOrchid =
     Element.rgb255 0x2D 0x34 0x36
 
 
-{-| "#2d3436"
+{-| #2d3436
 -}
 draculaOrchidHex : String
 draculaOrchidHex =
     "#2d3436"
 
 
-{-| -}
+{-| { red = 0x2d, green = 0x34, blue = 0x36 }
+-}
 draculaOrchidRgb : { red : Int, green : Int, blue : Int }
 draculaOrchidRgb =
     { red = 0x2D, green = 0x34, blue = 0x36 }

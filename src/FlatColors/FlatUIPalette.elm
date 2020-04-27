@@ -421,401 +421,421 @@ allDarkRgb =
     ]
 
 
-{-| Elm UI Color
+{-| rgb255 0x1a 0xbc 0x9c
 -}
 turquoise : Element.Color
 turquoise =
     Element.rgb255 0x1A 0xBC 0x9C
 
 
-{-| "#1abc9c"
+{-| #1abc9c
 -}
 turquoiseHex : String
 turquoiseHex =
     "#1abc9c"
 
 
-{-| -}
+{-| { red = 0x1a, green = 0xbc, blue = 0x9c }
+-}
 turquoiseRgb : { red : Int, green : Int, blue : Int }
 turquoiseRgb =
     { red = 0x1A, green = 0xBC, blue = 0x9C }
 
 
-{-| Elm UI Color
+{-| rgb255 0x2e 0xcc 0x71
 -}
 emerald : Element.Color
 emerald =
     Element.rgb255 0x2E 0xCC 0x71
 
 
-{-| "#2ecc71"
+{-| #2ecc71
 -}
 emeraldHex : String
 emeraldHex =
     "#2ecc71"
 
 
-{-| -}
+{-| { red = 0x2e, green = 0xcc, blue = 0x71 }
+-}
 emeraldRgb : { red : Int, green : Int, blue : Int }
 emeraldRgb =
     { red = 0x2E, green = 0xCC, blue = 0x71 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x34 0x98 0xdb
 -}
 peterRiver : Element.Color
 peterRiver =
     Element.rgb255 0x34 0x98 0xDB
 
 
-{-| "#3498db"
+{-| #3498db
 -}
 peterRiverHex : String
 peterRiverHex =
     "#3498db"
 
 
-{-| -}
+{-| { red = 0x34, green = 0x98, blue = 0xdb }
+-}
 peterRiverRgb : { red : Int, green : Int, blue : Int }
 peterRiverRgb =
     { red = 0x34, green = 0x98, blue = 0xDB }
 
 
-{-| Elm UI Color
+{-| rgb255 0x9b 0x59 0xb6
 -}
 amethyst : Element.Color
 amethyst =
     Element.rgb255 0x9B 0x59 0xB6
 
 
-{-| "#9b59b6"
+{-| #9b59b6
 -}
 amethystHex : String
 amethystHex =
     "#9b59b6"
 
 
-{-| -}
+{-| { red = 0x9b, green = 0x59, blue = 0xb6 }
+-}
 amethystRgb : { red : Int, green : Int, blue : Int }
 amethystRgb =
     { red = 0x9B, green = 0x59, blue = 0xB6 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x34 0x49 0x5e
 -}
 wetAsphalt : Element.Color
 wetAsphalt =
     Element.rgb255 0x34 0x49 0x5E
 
 
-{-| "#34495e"
+{-| #34495e
 -}
 wetAsphaltHex : String
 wetAsphaltHex =
     "#34495e"
 
 
-{-| -}
+{-| { red = 0x34, green = 0x49, blue = 0x5e }
+-}
 wetAsphaltRgb : { red : Int, green : Int, blue : Int }
 wetAsphaltRgb =
     { red = 0x34, green = 0x49, blue = 0x5E }
 
 
-{-| Elm UI Color
+{-| rgb255 0x16 0xa0 0x85
 -}
 greenSea : Element.Color
 greenSea =
     Element.rgb255 0x16 0xA0 0x85
 
 
-{-| "#16a085"
+{-| #16a085
 -}
 greenSeaHex : String
 greenSeaHex =
     "#16a085"
 
 
-{-| -}
+{-| { red = 0x16, green = 0xa0, blue = 0x85 }
+-}
 greenSeaRgb : { red : Int, green : Int, blue : Int }
 greenSeaRgb =
     { red = 0x16, green = 0xA0, blue = 0x85 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x27 0xae 0x60
 -}
 nephritis : Element.Color
 nephritis =
     Element.rgb255 0x27 0xAE 0x60
 
 
-{-| "#27ae60"
+{-| #27ae60
 -}
 nephritisHex : String
 nephritisHex =
     "#27ae60"
 
 
-{-| -}
+{-| { red = 0x27, green = 0xae, blue = 0x60 }
+-}
 nephritisRgb : { red : Int, green : Int, blue : Int }
 nephritisRgb =
     { red = 0x27, green = 0xAE, blue = 0x60 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x29 0x80 0xb9
 -}
 belizeHole : Element.Color
 belizeHole =
     Element.rgb255 0x29 0x80 0xB9
 
 
-{-| "#2980b9"
+{-| #2980b9
 -}
 belizeHoleHex : String
 belizeHoleHex =
     "#2980b9"
 
 
-{-| -}
+{-| { red = 0x29, green = 0x80, blue = 0xb9 }
+-}
 belizeHoleRgb : { red : Int, green : Int, blue : Int }
 belizeHoleRgb =
     { red = 0x29, green = 0x80, blue = 0xB9 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x8e 0x44 0xad
 -}
 wisteria : Element.Color
 wisteria =
     Element.rgb255 0x8E 0x44 0xAD
 
 
-{-| "#8e44ad"
+{-| #8e44ad
 -}
 wisteriaHex : String
 wisteriaHex =
     "#8e44ad"
 
 
-{-| -}
+{-| { red = 0x8e, green = 0x44, blue = 0xad }
+-}
 wisteriaRgb : { red : Int, green : Int, blue : Int }
 wisteriaRgb =
     { red = 0x8E, green = 0x44, blue = 0xAD }
 
 
-{-| Elm UI Color
+{-| rgb255 0x2c 0x3e 0x50
 -}
 midnightBlue : Element.Color
 midnightBlue =
     Element.rgb255 0x2C 0x3E 0x50
 
 
-{-| "#2c3e50"
+{-| #2c3e50
 -}
 midnightBlueHex : String
 midnightBlueHex =
     "#2c3e50"
 
 
-{-| -}
+{-| { red = 0x2c, green = 0x3e, blue = 0x50 }
+-}
 midnightBlueRgb : { red : Int, green : Int, blue : Int }
 midnightBlueRgb =
     { red = 0x2C, green = 0x3E, blue = 0x50 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xf1 0xc4 0x0f
 -}
 sunFlower : Element.Color
 sunFlower =
     Element.rgb255 0xF1 0xC4 0x0F
 
 
-{-| "#f1c40f"
+{-| #f1c40f
 -}
 sunFlowerHex : String
 sunFlowerHex =
     "#f1c40f"
 
 
-{-| -}
+{-| { red = 0xf1, green = 0xc4, blue = 0x0f }
+-}
 sunFlowerRgb : { red : Int, green : Int, blue : Int }
 sunFlowerRgb =
     { red = 0xF1, green = 0xC4, blue = 0x0F }
 
 
-{-| Elm UI Color
+{-| rgb255 0xe6 0x7e 0x22
 -}
 carrot : Element.Color
 carrot =
     Element.rgb255 0xE6 0x7E 0x22
 
 
-{-| "#e67e22"
+{-| #e67e22
 -}
 carrotHex : String
 carrotHex =
     "#e67e22"
 
 
-{-| -}
+{-| { red = 0xe6, green = 0x7e, blue = 0x22 }
+-}
 carrotRgb : { red : Int, green : Int, blue : Int }
 carrotRgb =
     { red = 0xE6, green = 0x7E, blue = 0x22 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xe7 0x4c 0x3c
 -}
 alizarin : Element.Color
 alizarin =
     Element.rgb255 0xE7 0x4C 0x3C
 
 
-{-| "#e74c3c"
+{-| #e74c3c
 -}
 alizarinHex : String
 alizarinHex =
     "#e74c3c"
 
 
-{-| -}
+{-| { red = 0xe7, green = 0x4c, blue = 0x3c }
+-}
 alizarinRgb : { red : Int, green : Int, blue : Int }
 alizarinRgb =
     { red = 0xE7, green = 0x4C, blue = 0x3C }
 
 
-{-| Elm UI Color
+{-| rgb255 0xec 0xf0 0xf1
 -}
 clouds : Element.Color
 clouds =
     Element.rgb255 0xEC 0xF0 0xF1
 
 
-{-| "#ecf0f1"
+{-| #ecf0f1
 -}
 cloudsHex : String
 cloudsHex =
     "#ecf0f1"
 
 
-{-| -}
+{-| { red = 0xec, green = 0xf0, blue = 0xf1 }
+-}
 cloudsRgb : { red : Int, green : Int, blue : Int }
 cloudsRgb =
     { red = 0xEC, green = 0xF0, blue = 0xF1 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x95 0xa5 0xa6
 -}
 concrete : Element.Color
 concrete =
     Element.rgb255 0x95 0xA5 0xA6
 
 
-{-| "#95a5a6"
+{-| #95a5a6
 -}
 concreteHex : String
 concreteHex =
     "#95a5a6"
 
 
-{-| -}
+{-| { red = 0x95, green = 0xa5, blue = 0xa6 }
+-}
 concreteRgb : { red : Int, green : Int, blue : Int }
 concreteRgb =
     { red = 0x95, green = 0xA5, blue = 0xA6 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xf3 0x9c 0x12
 -}
 orange : Element.Color
 orange =
     Element.rgb255 0xF3 0x9C 0x12
 
 
-{-| "#f39c12"
+{-| #f39c12
 -}
 orangeHex : String
 orangeHex =
     "#f39c12"
 
 
-{-| -}
+{-| { red = 0xf3, green = 0x9c, blue = 0x12 }
+-}
 orangeRgb : { red : Int, green : Int, blue : Int }
 orangeRgb =
     { red = 0xF3, green = 0x9C, blue = 0x12 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xd3 0x54 0x00
 -}
 pumpkin : Element.Color
 pumpkin =
     Element.rgb255 0xD3 0x54 0x00
 
 
-{-| "#d35400"
+{-| #d35400
 -}
 pumpkinHex : String
 pumpkinHex =
     "#d35400"
 
 
-{-| -}
+{-| { red = 0xd3, green = 0x54, blue = 0x00 }
+-}
 pumpkinRgb : { red : Int, green : Int, blue : Int }
 pumpkinRgb =
     { red = 0xD3, green = 0x54, blue = 0x00 }
 
 
-{-| Elm UI Color
+{-| rgb255 0xc0 0x39 0x2b
 -}
 pomegranate : Element.Color
 pomegranate =
     Element.rgb255 0xC0 0x39 0x2B
 
 
-{-| "#c0392b"
+{-| #c0392b
 -}
 pomegranateHex : String
 pomegranateHex =
     "#c0392b"
 
 
-{-| -}
+{-| { red = 0xc0, green = 0x39, blue = 0x2b }
+-}
 pomegranateRgb : { red : Int, green : Int, blue : Int }
 pomegranateRgb =
     { red = 0xC0, green = 0x39, blue = 0x2B }
 
 
-{-| Elm UI Color
+{-| rgb255 0xbd 0xc3 0xc7
 -}
 silver : Element.Color
 silver =
     Element.rgb255 0xBD 0xC3 0xC7
 
 
-{-| "#bdc3c7"
+{-| #bdc3c7
 -}
 silverHex : String
 silverHex =
     "#bdc3c7"
 
 
-{-| -}
+{-| { red = 0xbd, green = 0xc3, blue = 0xc7 }
+-}
 silverRgb : { red : Int, green : Int, blue : Int }
 silverRgb =
     { red = 0xBD, green = 0xC3, blue = 0xC7 }
 
 
-{-| Elm UI Color
+{-| rgb255 0x7f 0x8c 0x8d
 -}
 asbestos : Element.Color
 asbestos =
     Element.rgb255 0x7F 0x8C 0x8D
 
 
-{-| "#7f8c8d"
+{-| #7f8c8d
 -}
 asbestosHex : String
 asbestosHex =
     "#7f8c8d"
 
 
-{-| -}
+{-| { red = 0x7f, green = 0x8c, blue = 0x8d }
+-}
 asbestosRgb : { red : Int, green : Int, blue : Int }
 asbestosRgb =
     { red = 0x7F, green = 0x8C, blue = 0x8D }

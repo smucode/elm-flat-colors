@@ -41,17 +41,17 @@ function generateElm(config: Config) {
     const [r, g, b] = hexToRgb(c.hex);
 
     return `
-{-| Elm UI Color
+{-| rgb255 0x${r} 0x${g} 0x${b}
 -}
 ${c.elmName}: Element.Color
 ${c.elmName} = Element.rgb255 0x${r} 0x${g} 0x${b}
 
-{-| "#${r}${g}${b}"
+{-| #${r}${g}${b}
 -}
 ${c.elmName}Hex: String
 ${c.elmName}Hex = "#${r}${g}${b}"
 
-{-|
+{-| { red = 0x${r}, green = 0x${g}, blue = 0x${b} }
 -}
 ${c.elmName}Rgb: ${rgbType()}
 ${c.elmName}Rgb = { red = 0x${r}, green = 0x${g}, blue = 0x${b} }
