@@ -24,7 +24,7 @@ module FlatColors.CanadianPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| Canadian Palette
+{-| Canadian Palette by [Dmitri Litvinov](https://dribbble.com/dmitrilitvinov)
 
 [![Jigglypuff](https://placehold.it/50/ff9ff3/000000?text=+)](#jigglypuff)[![Casandora Yellow](https://placehold.it/50/feca57/000000?text=+)](#casandora-yellow)[![Pastel Red](https://placehold.it/50/ff6b6b/000000?text=+)](#pastel-red)[![Megaman](https://placehold.it/50/48dbfb/000000?text=+)](#megaman)[![Wild Caribbean Green](https://placehold.it/50/1dd1a1/000000?text=+)](#wild-caribbean-green)[![Jade Dust](https://placehold.it/50/00d2d3/000000?text=+)](#jade-dust)[![Joust Blue](https://placehold.it/50/54a0ff/000000?text=+)](#joust-blue)[![Nasu Purple](https://placehold.it/50/5f27cd/000000?text=+)](#nasu-purple)[![Light Blue Ballerina](https://placehold.it/50/c8d6e5/000000?text=+)](#light-blue-ballerina)[![Fuel Town](https://placehold.it/50/576574/000000?text=+)](#fuel-town)
 

@@ -24,7 +24,7 @@ module FlatColors.RussianPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| Russian Palette
+{-| Russian Palette by [Alexander Zaytsev](https://dribbble.com/anwaltzzz)
 
 [![Creamy Peach](https://placehold.it/50/f3a683/000000?text=+)](#creamy-peach)[![Rosy Highlight](https://placehold.it/50/f7d794/000000?text=+)](#rosy-highlight)[![Soft Blue](https://placehold.it/50/778beb/000000?text=+)](#soft-blue)[![Brewed Mustard](https://placehold.it/50/e77f67/000000?text=+)](#brewed-mustard)[![Old Geranium](https://placehold.it/50/cf6a87/000000?text=+)](#old-geranium)[![Purple Mountain Majesty](https://placehold.it/50/786fa6/000000?text=+)](#purple-mountain-majesty)[![Rogue Pink](https://placehold.it/50/f8a5c2/000000?text=+)](#rogue-pink)[![Squeaky](https://placehold.it/50/63cdda/000000?text=+)](#squeaky)[![Apple Valley](https://placehold.it/50/ea8685/000000?text=+)](#apple-valley)[![Pencil Lead](https://placehold.it/50/596275/000000?text=+)](#pencil-lead)
 

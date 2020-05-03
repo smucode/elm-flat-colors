@@ -24,7 +24,7 @@ module FlatColors.BritishPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| British Palette
+{-| British Palette by [Jan Losert](https://dribbble.com/janlosert)
 
 [![Protoss Pylon](https://placehold.it/50/00a8ff/000000?text=+)](#protoss-pylon)[![Periwinkle](https://placehold.it/50/9c88ff/000000?text=+)](#periwinkle)[![Rise-N-Shine](https://placehold.it/50/fbc531/000000?text=+)](#rise-n-shine)[![Download Progress](https://placehold.it/50/4cd137/000000?text=+)](#download-progress)[![Seabrook](https://placehold.it/50/487eb0/000000?text=+)](#seabrook)[![Nasturcian Flower](https://placehold.it/50/e84118/000000?text=+)](#nasturcian-flower)[![Lynx White](https://placehold.it/50/f5f6fa/000000?text=+)](#lynx-white)[![Blueberry Soda](https://placehold.it/50/7f8fa6/000000?text=+)](#blueberry-soda)[![Mazarine Blue](https://placehold.it/50/273c75/000000?text=+)](#mazarine-blue)[![Blue Nights](https://placehold.it/50/353b48/000000?text=+)](#blue-nights)
 

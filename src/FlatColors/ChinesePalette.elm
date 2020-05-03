@@ -24,7 +24,7 @@ module FlatColors.ChinesePalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| Chinese Palette
+{-| Chinese Palette by [Wenjun](https://dribbble.com/wenjunliao)
 
 [![Golden Sand](https://placehold.it/50/eccc68/000000?text=+)](#golden-sand)[![Coral](https://placehold.it/50/ff7f50/000000?text=+)](#coral)[![Wild Watermelon](https://placehold.it/50/ff6b81/000000?text=+)](#wild-watermelon)[![Peace](https://placehold.it/50/a4b0be/000000?text=+)](#peace)[![Grisaille](https://placehold.it/50/57606f/000000?text=+)](#grisaille)[![Lime Soap](https://placehold.it/50/7bed9f/000000?text=+)](#lime-soap)[![French Sky Blue](https://placehold.it/50/70a1ff/000000?text=+)](#french-sky-blue)[![Saturated Sky](https://placehold.it/50/5352ed/000000?text=+)](#saturated-sky)[![White](https://placehold.it/50/ffffff/000000?text=+)](#white)[![City Lights](https://placehold.it/50/dfe4ea/000000?text=+)](#city-lights)
 

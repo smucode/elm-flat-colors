@@ -4,7 +4,11 @@ This library exposes all 280 Flat UI colors for use with [Elm UI](https://packag
 
 [![](https://raw.github.com/smucode/elm-flat-colors/master/preview.png)](#american-palette)
 
-Kudos to the folks behind [Flat UI Colors](https://flatuicolors.com/).
+## Credits
+
+This library is based on [Flat UI Colors](https://signtr.info/click?redirect=http%3A%2F%2Fflatuicolors.com&dID=1588403025810&linkName=Flat%20UI%20Colors), check their website for the latest color palettes.
+
+Flat UI Colors is brought to you by [Asteya Network](https://signtr.info/click?redirect=http%3A%2F%2Fasteya.network&dID=1588403025810&linkName=Asteya%20Network), they build simple tools for people's productivity.
 
 ## Installation
 

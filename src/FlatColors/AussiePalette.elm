@@ -24,7 +24,7 @@ module FlatColors.AussiePalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| Aussie Palette
+{-| Aussie Palette by [Kate Hoolahan](https://dribbble.com/hoolah)
 
 [![Beekeeper](https://placehold.it/50/f6e58d/000000?text=+)](#beekeeper)[![Spiced Nectarine](https://placehold.it/50/ffbe76/000000?text=+)](#spiced-nectarine)[![Pink Glamour](https://placehold.it/50/ff7979/000000?text=+)](#pink-glamour)[![June Bud](https://placehold.it/50/badc58/000000?text=+)](#june-bud)[![Coastal Breeze](https://placehold.it/50/dff9fb/000000?text=+)](#coastal-breeze)[![Middle Blue](https://placehold.it/50/7ed6df/000000?text=+)](#middle-blue)[![Heliotrope](https://placehold.it/50/e056fd/000000?text=+)](#heliotrope)[![Exodus Fruit](https://placehold.it/50/686de0/000000?text=+)](#exodus-fruit)[![Deep Koamaru](https://placehold.it/50/30336b/000000?text=+)](#deep-koamaru)[![Soaring Eagle](https://placehold.it/50/95afc0/000000?text=+)](#soaring-eagle)
 

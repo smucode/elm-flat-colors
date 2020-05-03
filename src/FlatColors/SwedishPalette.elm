@@ -24,7 +24,7 @@ module FlatColors.SwedishPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| Swedish Palette
+{-| Swedish Palette by [Jesper Dahlqvist](https://dribbble.com/yehsper)
 
 [![Highlighter Pink](https://placehold.it/50/ef5777/000000?text=+)](#highlighter-pink)[![Dark Periwinkle](https://placehold.it/50/575fcf/000000?text=+)](#dark-periwinkle)[![Megaman](https://placehold.it/50/4bcffa/000000?text=+)](#megaman)[![Fresh Turquoise](https://placehold.it/50/34e7e4/000000?text=+)](#fresh-turquoise)[![Minty Green](https://placehold.it/50/0be881/000000?text=+)](#minty-green)[![Nârenji Orange](https://placehold.it/50/ffc048/000000?text=+)](#narenji-orange)[![Yriel Yellow](https://placehold.it/50/ffdd59/000000?text=+)](#yriel-yellow)[![Sunset Orange](https://placehold.it/50/ff5e57/000000?text=+)](#sunset-orange)[![Hint Of Elusive Blue](https://placehold.it/50/d2dae2/000000?text=+)](#hint-of-elusive-blue)[![Good Night!](https://placehold.it/50/485460/000000?text=+)](#good-night)
 

@@ -33,11 +33,11 @@ function generateElm(config: Config) {
       "allDarkHex",
       "allRgb",
       "allLightRgb",
-      "allDarkRgb"
-    ]
+      "allDarkRgb",
+    ],
   ].flat();
 
-  const colorDefs = config.colors.map(c => {
+  const colorDefs = config.colors.map((c) => {
     const [r, g, b] = hexToRgb(c.hex);
 
     return `
@@ -61,7 +61,11 @@ ${c.elmName}Rgb = { red = 0x${r}, green = 0x${g}, blue = 0x${b} }
 
   const elm = `module FlatColors.${moduleName} exposing (${exposing})
 
-{-| ${config.name}
+{-| ${config.name} by ${
+    config.dribbble
+      ? "[" + config.author + "](https://dribbble.com/" + config.dribbble + ")"
+      : config.author
+  }
 
 ${renderColorsAsImages(config.colors, true)}
 
@@ -93,57 +97,57 @@ ${allDef(config.colors, {
   type: "Element.Color",
   name: "all",
   suffix: "",
-  desc: "All Elm UI Colors"
+  desc: "All Elm UI Colors",
 })}
 ${allDef(colorsLight, {
   type: "Element.Color",
   name: "allLight",
   suffix: "",
-  desc: "Light Elm UI Colors"
+  desc: "Light Elm UI Colors",
 })}
 ${allDef(colorsDark, {
   type: "Element.Color",
   name: "allDark",
   suffix: "",
-  desc: "Dark Elm UI Colors"
+  desc: "Dark Elm UI Colors",
 })}
 
 ${allDef(config.colors, {
   type: "String",
   name: "allHex",
   suffix: "Hex",
-  desc: "All Hex Strings"
+  desc: "All Hex Strings",
 })}
 ${allDef(colorsLight, {
   type: "String",
   name: "allLightHex",
   suffix: "Hex",
-  desc: "Light Hex Strings"
+  desc: "Light Hex Strings",
 })}
 ${allDef(colorsDark, {
   type: "String",
   name: "allDarkHex",
   suffix: "Hex",
-  desc: "Dark Hex Strings"
+  desc: "Dark Hex Strings",
 })}
 
 ${allDef(config.colors, {
   type: rgbType(),
   name: "allRgb",
   suffix: "Rgb",
-  desc: "All RGB Values"
+  desc: "All RGB Values",
 })}
 ${allDef(colorsLight, {
   type: rgbType(),
   name: "allLightRgb",
   suffix: "Rgb",
-  desc: "Light RGB Values"
+  desc: "Light RGB Values",
 })}
 ${allDef(colorsDark, {
   type: rgbType(),
   name: "allDarkRgb",
   suffix: "Rgb",
-  desc: "Dark RGB Values"
+  desc: "Dark RGB Values",
 })}
 
 ${colorDefs.join("\n")}
@@ -163,7 +167,7 @@ function allDef(colors: Color[], { desc, type, name, suffix }) {
 -}
 ${name} : List ${type}
 ${name} =
-    [ ${colors.map(c => c.elmName + suffix).join("\n    , ")}
+    [ ${colors.map((c) => c.elmName + suffix).join("\n    , ")}
     ]
   `;
 }
@@ -176,20 +180,20 @@ function renderColorsAsImages(
 ) {
   if (splitLightDark) {
     const light = takeLight(colors)
-      .map(color => colMd(color, suffix, size))
+      .map((color) => colMd(color, suffix, size))
       .join("");
     const dark = takeDark(colors)
-      .map(color => colMd(color, suffix, size))
+      .map((color) => colMd(color, suffix, size))
       .join("");
     return light + "\n\n" + dark;
   } else {
-    return colors.map(color => colMd(color, suffix, size)).join("");
+    return colors.map((color) => colMd(color, suffix, size)).join("");
   }
 }
 
 function renderColorDocs(colors: Color[]) {
   return colors
-    .map(c => {
+    .map((c) => {
       return `# ${c.displayName}
 
 ${colMd(c)}
@@ -227,7 +231,11 @@ This library exposes all 280 Flat UI colors for use with [Elm UI](https://packag
 
 [![](https://raw.github.com/smucode/elm-flat-colors/master/preview.png)](#american-palette)
 
-Kudos to the folks behind [Flat UI Colors](https://flatuicolors.com/).
+## Credits
+
+This library is based on [Flat UI Colors](https://signtr.info/click?redirect=http%3A%2F%2Fflatuicolors.com&dID=1588403025810&linkName=Flat%20UI%20Colors), check their website for the latest color palettes.
+
+Flat UI Colors is brought to you by [Asteya Network](https://signtr.info/click?redirect=http%3A%2F%2Fasteya.network&dID=1588403025810&linkName=Asteya%20Network), they build simple tools for people's productivity.
 
 ## Installation
 
@@ -340,7 +348,7 @@ function exit(msg: string) {
 
 function readConfig(): Config[] {
   const config = JSON.parse(
-    fs.readFileSync("./flat-ui-colors.json").toString()
+    fs.readFileSync("../flat-ui-colors/flat-ui-colors.json").toString()
   );
   return config.map((c: any) => {
     if (c.colors.length !== 20) {
@@ -363,14 +371,11 @@ function readConfig(): Config[] {
           .split(" ");
         return {
           hex,
-          displayName: name
-            .split(" ")
-            .map(upperCaseFirst)
-            .join(" "),
+          displayName: name.split(" ").map(upperCaseFirst).join(" "),
           elmName: lowerCaseFirst(parts.map(upperCaseFirst).join("")),
-          slug: parts.join("-")
+          slug: parts.join("-"),
         };
-      })
+      }),
     };
   });
 }
@@ -380,10 +385,7 @@ function hexToRgb(hex: string) {
 }
 
 function toModuleName(name: string) {
-  return name
-    .split(" ")
-    .map(upperCaseFirst)
-    .join("");
+  return name.split(" ").map(upperCaseFirst).join("");
 }
 
 function takeLight(colors: Color[]) {

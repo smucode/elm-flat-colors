@@ -24,7 +24,7 @@ module FlatColors.IndianPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| Indian Palette
+{-| Indian Palette by [Ranganath Krishnamani](https://dribbble.com/rkrishnamani)
 
 [![Orchid Orange](https://placehold.it/50/FEA47F/000000?text=+)](#orchid-orange)[![Spiro Disco Ball](https://placehold.it/50/25CCF7/000000?text=+)](#spiro-disco-ball)[![Honey Glow](https://placehold.it/50/EAB543/000000?text=+)](#honey-glow)[![Sweet Garden](https://placehold.it/50/55E6C1/000000?text=+)](#sweet-garden)[![Falling Star](https://placehold.it/50/CAD3C8/000000?text=+)](#falling-star)[![Fiery Fuchsia](https://placehold.it/50/B33771/000000?text=+)](#fiery-fuchsia)[![Bluebell](https://placehold.it/50/3B3B98/000000?text=+)](#bluebell)[![Georgia Peach](https://placehold.it/50/FD7272/000000?text=+)](#georgia-peach)[![Oasis Stream](https://placehold.it/50/9AECDB/000000?text=+)](#oasis-stream)[![Bright Ube](https://placehold.it/50/D6A2E8/000000?text=+)](#bright-ube)
 

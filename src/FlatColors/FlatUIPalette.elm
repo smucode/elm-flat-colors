@@ -24,7 +24,7 @@ module FlatColors.FlatUIPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| Flat UI Palette
+{-| Flat UI Palette by Flat UI Colors
 
 [![TURQUOISE](https://placehold.it/50/1abc9c/000000?text=+)](#turquoise)[![EMERALD](https://placehold.it/50/2ecc71/000000?text=+)](#emerald)[![PETER RIVER](https://placehold.it/50/3498db/000000?text=+)](#peter-river)[![AMETHYST](https://placehold.it/50/9b59b6/000000?text=+)](#amethyst)[![WET ASPHALT](https://placehold.it/50/34495e/000000?text=+)](#wet-asphalt)[![SUN FLOWER](https://placehold.it/50/f1c40f/000000?text=+)](#sun-flower)[![CARROT](https://placehold.it/50/e67e22/000000?text=+)](#carrot)[![ALIZARIN](https://placehold.it/50/e74c3c/000000?text=+)](#alizarin)[![CLOUDS](https://placehold.it/50/ecf0f1/000000?text=+)](#clouds)[![CONCRETE](https://placehold.it/50/95a5a6/000000?text=+)](#concrete)
 

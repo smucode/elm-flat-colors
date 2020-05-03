@@ -24,7 +24,7 @@ module FlatColors.DutchPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| Dutch Palette
+{-| Dutch Palette by [Jeroen Van Eerden](https://dribbble.com/jeroenvaneerden)
 
 [![Sunflower](https://placehold.it/50/FFC312/000000?text=+)](#sunflower)[![Energos](https://placehold.it/50/C4E538/000000?text=+)](#energos)[![Blue Martina](https://placehold.it/50/12CBC4/000000?text=+)](#blue-martina)[![Lavender Rose](https://placehold.it/50/FDA7DF/000000?text=+)](#lavender-rose)[![Bara Red](https://placehold.it/50/ED4C67/000000?text=+)](#bara-red)[![Puffins Bill](https://placehold.it/50/EE5A24/000000?text=+)](#puffins-bill)[![Pixelated Grass](https://placehold.it/50/009432/000000?text=+)](#pixelated-grass)[![Merchant Marine Blue](https://placehold.it/50/0652DD/000000?text=+)](#merchant-marine-blue)[![Forgotten Purple](https://placehold.it/50/9980FA/000000?text=+)](#forgotten-purple)[![Hollyhock](https://placehold.it/50/833471/000000?text=+)](#hollyhock)
 

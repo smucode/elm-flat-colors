@@ -24,7 +24,7 @@ module FlatColors.SpanishPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| Spanish Palette
+{-| Spanish Palette by [Miguel Camacho](https://dribbble.com/miguelcm)
 
 [![Jacksons Purple](https://placehold.it/50/40407a/000000?text=+)](#jacksons-purple)[![C64 Purple](https://placehold.it/50/706fd3/000000?text=+)](#c64-purple)[![Swan White](https://placehold.it/50/f7f1e3/000000?text=+)](#swan-white)[![Summer Sky](https://placehold.it/50/34ace0/000000?text=+)](#summer-sky)[![Celestial Green](https://placehold.it/50/33d9b2/000000?text=+)](#celestial-green)[![Fluorescent Red](https://placehold.it/50/ff5252/000000?text=+)](#fluorescent-red)[![Synthetic Pumpkin](https://placehold.it/50/ff793f/000000?text=+)](#synthetic-pumpkin)[![Crocodile Tooth](https://placehold.it/50/d1ccc0/000000?text=+)](#crocodile-tooth)[![Mandarin Sorbet](https://placehold.it/50/ffb142/000000?text=+)](#mandarin-sorbet)[![Spiced Butternut](https://placehold.it/50/ffda79/000000?text=+)](#spiced-butternut)
 

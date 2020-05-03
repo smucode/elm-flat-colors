@@ -24,7 +24,7 @@ module FlatColors.TurkishPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| Turkish Palette
+{-| Turkish Palette by [Tamer Köseli](https://dribbble.com/tamerkoseli)
 
 [![Bright Lilac](https://placehold.it/50/cd84f1/000000?text=+)](#bright-lilac)[![Pretty Please](https://placehold.it/50/ffcccc/000000?text=+)](#pretty-please)[![Light Red](https://placehold.it/50/ff4d4d/000000?text=+)](#light-red)[![Mandarin Sorbet](https://placehold.it/50/ffaf40/000000?text=+)](#mandarin-sorbet)[![Unmellow Yellow](https://placehold.it/50/fffa65/000000?text=+)](#unmellow-yellow)[![Wintergreen](https://placehold.it/50/32ff7e/000000?text=+)](#wintergreen)[![Electric Blue](https://placehold.it/50/7efff5/000000?text=+)](#electric-blue)[![Neon Blue](https://placehold.it/50/18dcff/000000?text=+)](#neon-blue)[![Light Slate Blue](https://placehold.it/50/7d5fff/000000?text=+)](#light-slate-blue)[![Shadowed Steel](https://placehold.it/50/4b4b4b/000000?text=+)](#shadowed-steel)
 

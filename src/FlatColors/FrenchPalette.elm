@@ -24,7 +24,7 @@ module FlatColors.FrenchPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| French Palette
+{-| French Palette by [Léa Poisson](https://dribbble.com/goldfishlife)
 
 [![Flat Flesh](https://placehold.it/50/fad390/000000?text=+)](#flat-flesh)[![Melon Melody](https://placehold.it/50/f8c291/000000?text=+)](#melon-melody)[![Livid](https://placehold.it/50/6a89cc/000000?text=+)](#livid)[![Spray](https://placehold.it/50/82ccdd/000000?text=+)](#spray)[![Paradise Green](https://placehold.it/50/b8e994/000000?text=+)](#paradise-green)[![Iceland Poppy](https://placehold.it/50/fa983a/000000?text=+)](#iceland-poppy)[![Tomato Red](https://placehold.it/50/eb2f06/000000?text=+)](#tomato-red)[![Yuè Guāng Lán Blue](https://placehold.it/50/1e3799/000000?text=+)](#yue-guang-lan-blue)[![Good Samaritan](https://placehold.it/50/3c6382/000000?text=+)](#good-samaritan)[![Waterfall](https://placehold.it/50/38ada9/000000?text=+)](#waterfall)
 

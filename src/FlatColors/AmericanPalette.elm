@@ -24,7 +24,7 @@ module FlatColors.AmericanPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| American Palette
+{-| American Palette by [Kevin Yang](https://dribbble.com/eatsleepvector)
 
 [![Light Greenish Blue](https://placehold.it/50/55efc4/000000?text=+)](#light-greenish-blue)[![Faded Poster](https://placehold.it/50/81ecec/000000?text=+)](#faded-poster)[![Green Darner Tail](https://placehold.it/50/74b9ff/000000?text=+)](#green-darner-tail)[![Shy Moment](https://placehold.it/50/a29bfe/000000?text=+)](#shy-moment)[![City Lights](https://placehold.it/50/dfe6e9/000000?text=+)](#city-lights)[![Sour Lemon](https://placehold.it/50/ffeaa7/000000?text=+)](#sour-lemon)[![First Date](https://placehold.it/50/fab1a0/000000?text=+)](#first-date)[![Pink Glamour](https://placehold.it/50/ff7675/000000?text=+)](#pink-glamour)[![Pico-8 Pink](https://placehold.it/50/fd79a8/000000?text=+)](#pico-8-pink)[![American River](https://placehold.it/50/636e72/000000?text=+)](#american-river)
 

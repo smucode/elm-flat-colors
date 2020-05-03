@@ -24,7 +24,7 @@ module FlatColors.GermanPalette exposing
     , allDark, allDarkHex, allDarkRgb
     )
 
-{-| German Palette
+{-| German Palette by [Martin David](https://dribbble.com/srioz)
 
 [![Fusion Red](https://placehold.it/50/fc5c65/000000?text=+)](#fusion-red)[![Orange Hibiscus](https://placehold.it/50/fd9644/000000?text=+)](#orange-hibiscus)[![Flirtatious](https://placehold.it/50/fed330/000000?text=+)](#flirtatious)[![Reptile Green](https://placehold.it/50/26de81/000000?text=+)](#reptile-green)[![Maximum Blue Green](https://placehold.it/50/2bcbba/000000?text=+)](#maximum-blue-green)[![High Blue](https://placehold.it/50/45aaf2/000000?text=+)](#high-blue)[![C64 NTSC](https://placehold.it/50/4b7bec/000000?text=+)](#c64-ntsc)[![Lighter Purple](https://placehold.it/50/a55eea/000000?text=+)](#lighter-purple)[![Twinkle Blue](https://placehold.it/50/d1d8e0/000000?text=+)](#twinkle-blue)[![Blue Grey](https://placehold.it/50/778ca3/000000?text=+)](#blue-grey)
 
