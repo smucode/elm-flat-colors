@@ -26,14 +26,14 @@ module FlatColors.ChinesePalette exposing
 
 {-| Chinese Palette by [Wenjun](https://dribbble.com/wenjunliao)
 
-[![Golden Sand](https://placehold.it/50/eccc68/000000?text=+)](#golden-sand)[![Coral](https://placehold.it/50/ff7f50/000000?text=+)](#coral)[![Wild Watermelon](https://placehold.it/50/ff6b81/000000?text=+)](#wild-watermelon)[![Peace](https://placehold.it/50/a4b0be/000000?text=+)](#peace)[![Grisaille](https://placehold.it/50/57606f/000000?text=+)](#grisaille)[![Lime Soap](https://placehold.it/50/7bed9f/000000?text=+)](#lime-soap)[![French Sky Blue](https://placehold.it/50/70a1ff/000000?text=+)](#french-sky-blue)[![Saturated Sky](https://placehold.it/50/5352ed/000000?text=+)](#saturated-sky)[![White](https://placehold.it/50/ffffff/000000?text=+)](#white)[![City Lights](https://placehold.it/50/dfe4ea/000000?text=+)](#city-lights)
+[![Golden Sand](https://via.placeholder.com/50/eccc68/000000?text=+)](#golden-sand)[![Coral](https://via.placeholder.com/50/ff7f50/000000?text=+)](#coral)[![Wild Watermelon](https://via.placeholder.com/50/ff6b81/000000?text=+)](#wild-watermelon)[![Peace](https://via.placeholder.com/50/a4b0be/000000?text=+)](#peace)[![Grisaille](https://via.placeholder.com/50/57606f/000000?text=+)](#grisaille)[![Lime Soap](https://via.placeholder.com/50/7bed9f/000000?text=+)](#lime-soap)[![French Sky Blue](https://via.placeholder.com/50/70a1ff/000000?text=+)](#french-sky-blue)[![Saturated Sky](https://via.placeholder.com/50/5352ed/000000?text=+)](#saturated-sky)[![White](https://via.placeholder.com/50/ffffff/000000?text=+)](#white)[![City Lights](https://via.placeholder.com/50/dfe4ea/000000?text=+)](#city-lights)
 
-[![Orange](https://placehold.it/50/ffa502/000000?text=+)](#orange)[![Bruschetta Tomato](https://placehold.it/50/ff6348/000000?text=+)](#bruschetta-tomato)[![Watermelon](https://placehold.it/50/ff4757/000000?text=+)](#watermelon)[![Bay Wharf](https://placehold.it/50/747d8c/000000?text=+)](#bay-wharf)[![Prestige Blue](https://placehold.it/50/2f3542/000000?text=+)](#prestige-blue)[![UFO Green](https://placehold.it/50/2ed573/000000?text=+)](#ufo-green)[![Clear Chill](https://placehold.it/50/1e90ff/000000?text=+)](#clear-chill)[![Bright Greek](https://placehold.it/50/3742fa/000000?text=+)](#bright-greek)[![Anti-Flash White](https://placehold.it/50/f1f2f6/000000?text=+)](#anti-flash-white)[![Twinkle Blue](https://placehold.it/50/ced6e0/000000?text=+)](#twinkle-blue)
+[![Orange](https://via.placeholder.com/50/ffa502/000000?text=+)](#orange)[![Bruschetta Tomato](https://via.placeholder.com/50/ff6348/000000?text=+)](#bruschetta-tomato)[![Watermelon](https://via.placeholder.com/50/ff4757/000000?text=+)](#watermelon)[![Bay Wharf](https://via.placeholder.com/50/747d8c/000000?text=+)](#bay-wharf)[![Prestige Blue](https://via.placeholder.com/50/2f3542/000000?text=+)](#prestige-blue)[![UFO Green](https://via.placeholder.com/50/2ed573/000000?text=+)](#ufo-green)[![Clear Chill](https://via.placeholder.com/50/1e90ff/000000?text=+)](#clear-chill)[![Bright Greek](https://via.placeholder.com/50/3742fa/000000?text=+)](#bright-greek)[![Anti-Flash White](https://via.placeholder.com/50/f1f2f6/000000?text=+)](#anti-flash-white)[![Twinkle Blue](https://via.placeholder.com/50/ced6e0/000000?text=+)](#twinkle-blue)
 
 
 # Golden Sand
 
-[![Golden Sand](https://placehold.it/50/eccc68/000000?text=+)](#golden-sand)
+[![Golden Sand](https://via.placeholder.com/50/eccc68/000000?text=+)](#golden-sand)
 
 #eccc68
 
@@ -42,7 +42,7 @@ module FlatColors.ChinesePalette exposing
 
 # Coral
 
-[![Coral](https://placehold.it/50/ff7f50/000000?text=+)](#coral)
+[![Coral](https://via.placeholder.com/50/ff7f50/000000?text=+)](#coral)
 
 #ff7f50
 
@@ -51,7 +51,7 @@ module FlatColors.ChinesePalette exposing
 
 # Wild Watermelon
 
-[![Wild Watermelon](https://placehold.it/50/ff6b81/000000?text=+)](#wild-watermelon)
+[![Wild Watermelon](https://via.placeholder.com/50/ff6b81/000000?text=+)](#wild-watermelon)
 
 #ff6b81
 
@@ -60,7 +60,7 @@ module FlatColors.ChinesePalette exposing
 
 # Peace
 
-[![Peace](https://placehold.it/50/a4b0be/000000?text=+)](#peace)
+[![Peace](https://via.placeholder.com/50/a4b0be/000000?text=+)](#peace)
 
 #a4b0be
 
@@ -69,7 +69,7 @@ module FlatColors.ChinesePalette exposing
 
 # Grisaille
 
-[![Grisaille](https://placehold.it/50/57606f/000000?text=+)](#grisaille)
+[![Grisaille](https://via.placeholder.com/50/57606f/000000?text=+)](#grisaille)
 
 #57606f
 
@@ -78,7 +78,7 @@ module FlatColors.ChinesePalette exposing
 
 # Orange
 
-[![Orange](https://placehold.it/50/ffa502/000000?text=+)](#orange)
+[![Orange](https://via.placeholder.com/50/ffa502/000000?text=+)](#orange)
 
 #ffa502
 
@@ -87,7 +87,7 @@ module FlatColors.ChinesePalette exposing
 
 # Bruschetta Tomato
 
-[![Bruschetta Tomato](https://placehold.it/50/ff6348/000000?text=+)](#bruschetta-tomato)
+[![Bruschetta Tomato](https://via.placeholder.com/50/ff6348/000000?text=+)](#bruschetta-tomato)
 
 #ff6348
 
@@ -96,7 +96,7 @@ module FlatColors.ChinesePalette exposing
 
 # Watermelon
 
-[![Watermelon](https://placehold.it/50/ff4757/000000?text=+)](#watermelon)
+[![Watermelon](https://via.placeholder.com/50/ff4757/000000?text=+)](#watermelon)
 
 #ff4757
 
@@ -105,7 +105,7 @@ module FlatColors.ChinesePalette exposing
 
 # Bay Wharf
 
-[![Bay Wharf](https://placehold.it/50/747d8c/000000?text=+)](#bay-wharf)
+[![Bay Wharf](https://via.placeholder.com/50/747d8c/000000?text=+)](#bay-wharf)
 
 #747d8c
 
@@ -114,7 +114,7 @@ module FlatColors.ChinesePalette exposing
 
 # Prestige Blue
 
-[![Prestige Blue](https://placehold.it/50/2f3542/000000?text=+)](#prestige-blue)
+[![Prestige Blue](https://via.placeholder.com/50/2f3542/000000?text=+)](#prestige-blue)
 
 #2f3542
 
@@ -123,7 +123,7 @@ module FlatColors.ChinesePalette exposing
 
 # Lime Soap
 
-[![Lime Soap](https://placehold.it/50/7bed9f/000000?text=+)](#lime-soap)
+[![Lime Soap](https://via.placeholder.com/50/7bed9f/000000?text=+)](#lime-soap)
 
 #7bed9f
 
@@ -132,7 +132,7 @@ module FlatColors.ChinesePalette exposing
 
 # French Sky Blue
 
-[![French Sky Blue](https://placehold.it/50/70a1ff/000000?text=+)](#french-sky-blue)
+[![French Sky Blue](https://via.placeholder.com/50/70a1ff/000000?text=+)](#french-sky-blue)
 
 #70a1ff
 
@@ -141,7 +141,7 @@ module FlatColors.ChinesePalette exposing
 
 # Saturated Sky
 
-[![Saturated Sky](https://placehold.it/50/5352ed/000000?text=+)](#saturated-sky)
+[![Saturated Sky](https://via.placeholder.com/50/5352ed/000000?text=+)](#saturated-sky)
 
 #5352ed
 
@@ -150,7 +150,7 @@ module FlatColors.ChinesePalette exposing
 
 # White
 
-[![White](https://placehold.it/50/ffffff/000000?text=+)](#white)
+[![White](https://via.placeholder.com/50/ffffff/000000?text=+)](#white)
 
 #ffffff
 
@@ -159,7 +159,7 @@ module FlatColors.ChinesePalette exposing
 
 # City Lights
 
-[![City Lights](https://placehold.it/50/dfe4ea/000000?text=+)](#city-lights)
+[![City Lights](https://via.placeholder.com/50/dfe4ea/000000?text=+)](#city-lights)
 
 #dfe4ea
 
@@ -168,7 +168,7 @@ module FlatColors.ChinesePalette exposing
 
 # UFO Green
 
-[![UFO Green](https://placehold.it/50/2ed573/000000?text=+)](#ufo-green)
+[![UFO Green](https://via.placeholder.com/50/2ed573/000000?text=+)](#ufo-green)
 
 #2ed573
 
@@ -177,7 +177,7 @@ module FlatColors.ChinesePalette exposing
 
 # Clear Chill
 
-[![Clear Chill](https://placehold.it/50/1e90ff/000000?text=+)](#clear-chill)
+[![Clear Chill](https://via.placeholder.com/50/1e90ff/000000?text=+)](#clear-chill)
 
 #1e90ff
 
@@ -186,7 +186,7 @@ module FlatColors.ChinesePalette exposing
 
 # Bright Greek
 
-[![Bright Greek](https://placehold.it/50/3742fa/000000?text=+)](#bright-greek)
+[![Bright Greek](https://via.placeholder.com/50/3742fa/000000?text=+)](#bright-greek)
 
 #3742fa
 
@@ -195,7 +195,7 @@ module FlatColors.ChinesePalette exposing
 
 # Anti-Flash White
 
-[![Anti-Flash White](https://placehold.it/50/f1f2f6/000000?text=+)](#anti-flash-white)
+[![Anti-Flash White](https://via.placeholder.com/50/f1f2f6/000000?text=+)](#anti-flash-white)
 
 #f1f2f6
 
@@ -204,7 +204,7 @@ module FlatColors.ChinesePalette exposing
 
 # Twinkle Blue
 
-[![Twinkle Blue](https://placehold.it/50/ced6e0/000000?text=+)](#twinkle-blue)
+[![Twinkle Blue](https://via.placeholder.com/50/ced6e0/000000?text=+)](#twinkle-blue)
 
 #ced6e0
 
@@ -213,23 +213,23 @@ module FlatColors.ChinesePalette exposing
 
 # All Colors
 
-[![Golden Sand](https://placehold.it/50/eccc68/000000?text=+)](#golden-sand)[![Coral](https://placehold.it/50/ff7f50/000000?text=+)](#coral)[![Wild Watermelon](https://placehold.it/50/ff6b81/000000?text=+)](#wild-watermelon)[![Peace](https://placehold.it/50/a4b0be/000000?text=+)](#peace)[![Grisaille](https://placehold.it/50/57606f/000000?text=+)](#grisaille)[![Lime Soap](https://placehold.it/50/7bed9f/000000?text=+)](#lime-soap)[![French Sky Blue](https://placehold.it/50/70a1ff/000000?text=+)](#french-sky-blue)[![Saturated Sky](https://placehold.it/50/5352ed/000000?text=+)](#saturated-sky)[![White](https://placehold.it/50/ffffff/000000?text=+)](#white)[![City Lights](https://placehold.it/50/dfe4ea/000000?text=+)](#city-lights)
+[![Golden Sand](https://via.placeholder.com/50/eccc68/000000?text=+)](#golden-sand)[![Coral](https://via.placeholder.com/50/ff7f50/000000?text=+)](#coral)[![Wild Watermelon](https://via.placeholder.com/50/ff6b81/000000?text=+)](#wild-watermelon)[![Peace](https://via.placeholder.com/50/a4b0be/000000?text=+)](#peace)[![Grisaille](https://via.placeholder.com/50/57606f/000000?text=+)](#grisaille)[![Lime Soap](https://via.placeholder.com/50/7bed9f/000000?text=+)](#lime-soap)[![French Sky Blue](https://via.placeholder.com/50/70a1ff/000000?text=+)](#french-sky-blue)[![Saturated Sky](https://via.placeholder.com/50/5352ed/000000?text=+)](#saturated-sky)[![White](https://via.placeholder.com/50/ffffff/000000?text=+)](#white)[![City Lights](https://via.placeholder.com/50/dfe4ea/000000?text=+)](#city-lights)
 
-[![Orange](https://placehold.it/50/ffa502/000000?text=+)](#orange)[![Bruschetta Tomato](https://placehold.it/50/ff6348/000000?text=+)](#bruschetta-tomato)[![Watermelon](https://placehold.it/50/ff4757/000000?text=+)](#watermelon)[![Bay Wharf](https://placehold.it/50/747d8c/000000?text=+)](#bay-wharf)[![Prestige Blue](https://placehold.it/50/2f3542/000000?text=+)](#prestige-blue)[![UFO Green](https://placehold.it/50/2ed573/000000?text=+)](#ufo-green)[![Clear Chill](https://placehold.it/50/1e90ff/000000?text=+)](#clear-chill)[![Bright Greek](https://placehold.it/50/3742fa/000000?text=+)](#bright-greek)[![Anti-Flash White](https://placehold.it/50/f1f2f6/000000?text=+)](#anti-flash-white)[![Twinkle Blue](https://placehold.it/50/ced6e0/000000?text=+)](#twinkle-blue)
+[![Orange](https://via.placeholder.com/50/ffa502/000000?text=+)](#orange)[![Bruschetta Tomato](https://via.placeholder.com/50/ff6348/000000?text=+)](#bruschetta-tomato)[![Watermelon](https://via.placeholder.com/50/ff4757/000000?text=+)](#watermelon)[![Bay Wharf](https://via.placeholder.com/50/747d8c/000000?text=+)](#bay-wharf)[![Prestige Blue](https://via.placeholder.com/50/2f3542/000000?text=+)](#prestige-blue)[![UFO Green](https://via.placeholder.com/50/2ed573/000000?text=+)](#ufo-green)[![Clear Chill](https://via.placeholder.com/50/1e90ff/000000?text=+)](#clear-chill)[![Bright Greek](https://via.placeholder.com/50/3742fa/000000?text=+)](#bright-greek)[![Anti-Flash White](https://via.placeholder.com/50/f1f2f6/000000?text=+)](#anti-flash-white)[![Twinkle Blue](https://via.placeholder.com/50/ced6e0/000000?text=+)](#twinkle-blue)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Golden Sand](https://placehold.it/50/eccc68/000000?text=+)](#golden-sand)[![Coral](https://placehold.it/50/ff7f50/000000?text=+)](#coral)[![Wild Watermelon](https://placehold.it/50/ff6b81/000000?text=+)](#wild-watermelon)[![Peace](https://placehold.it/50/a4b0be/000000?text=+)](#peace)[![Grisaille](https://placehold.it/50/57606f/000000?text=+)](#grisaille)[![Lime Soap](https://placehold.it/50/7bed9f/000000?text=+)](#lime-soap)[![French Sky Blue](https://placehold.it/50/70a1ff/000000?text=+)](#french-sky-blue)[![Saturated Sky](https://placehold.it/50/5352ed/000000?text=+)](#saturated-sky)[![White](https://placehold.it/50/ffffff/000000?text=+)](#white)[![City Lights](https://placehold.it/50/dfe4ea/000000?text=+)](#city-lights)
+[![Golden Sand](https://via.placeholder.com/50/eccc68/000000?text=+)](#golden-sand)[![Coral](https://via.placeholder.com/50/ff7f50/000000?text=+)](#coral)[![Wild Watermelon](https://via.placeholder.com/50/ff6b81/000000?text=+)](#wild-watermelon)[![Peace](https://via.placeholder.com/50/a4b0be/000000?text=+)](#peace)[![Grisaille](https://via.placeholder.com/50/57606f/000000?text=+)](#grisaille)[![Lime Soap](https://via.placeholder.com/50/7bed9f/000000?text=+)](#lime-soap)[![French Sky Blue](https://via.placeholder.com/50/70a1ff/000000?text=+)](#french-sky-blue)[![Saturated Sky](https://via.placeholder.com/50/5352ed/000000?text=+)](#saturated-sky)[![White](https://via.placeholder.com/50/ffffff/000000?text=+)](#white)[![City Lights](https://via.placeholder.com/50/dfe4ea/000000?text=+)](#city-lights)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Orange](https://placehold.it/50/ffa502/000000?text=+)](#orange)[![Bruschetta Tomato](https://placehold.it/50/ff6348/000000?text=+)](#bruschetta-tomato)[![Watermelon](https://placehold.it/50/ff4757/000000?text=+)](#watermelon)[![Bay Wharf](https://placehold.it/50/747d8c/000000?text=+)](#bay-wharf)[![Prestige Blue](https://placehold.it/50/2f3542/000000?text=+)](#prestige-blue)[![UFO Green](https://placehold.it/50/2ed573/000000?text=+)](#ufo-green)[![Clear Chill](https://placehold.it/50/1e90ff/000000?text=+)](#clear-chill)[![Bright Greek](https://placehold.it/50/3742fa/000000?text=+)](#bright-greek)[![Anti-Flash White](https://placehold.it/50/f1f2f6/000000?text=+)](#anti-flash-white)[![Twinkle Blue](https://placehold.it/50/ced6e0/000000?text=+)](#twinkle-blue)
+[![Orange](https://via.placeholder.com/50/ffa502/000000?text=+)](#orange)[![Bruschetta Tomato](https://via.placeholder.com/50/ff6348/000000?text=+)](#bruschetta-tomato)[![Watermelon](https://via.placeholder.com/50/ff4757/000000?text=+)](#watermelon)[![Bay Wharf](https://via.placeholder.com/50/747d8c/000000?text=+)](#bay-wharf)[![Prestige Blue](https://via.placeholder.com/50/2f3542/000000?text=+)](#prestige-blue)[![UFO Green](https://via.placeholder.com/50/2ed573/000000?text=+)](#ufo-green)[![Clear Chill](https://via.placeholder.com/50/1e90ff/000000?text=+)](#clear-chill)[![Bright Greek](https://via.placeholder.com/50/3742fa/000000?text=+)](#bright-greek)[![Anti-Flash White](https://via.placeholder.com/50/f1f2f6/000000?text=+)](#anti-flash-white)[![Twinkle Blue](https://via.placeholder.com/50/ced6e0/000000?text=+)](#twinkle-blue)
 
 @docs allDark, allDarkHex, allDarkRgb
 

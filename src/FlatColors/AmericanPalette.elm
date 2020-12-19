@@ -26,14 +26,14 @@ module FlatColors.AmericanPalette exposing
 
 {-| American Palette by [Kevin Yang](https://dribbble.com/eatsleepvector)
 
-[![Light Greenish Blue](https://placehold.it/50/55efc4/000000?text=+)](#light-greenish-blue)[![Faded Poster](https://placehold.it/50/81ecec/000000?text=+)](#faded-poster)[![Green Darner Tail](https://placehold.it/50/74b9ff/000000?text=+)](#green-darner-tail)[![Shy Moment](https://placehold.it/50/a29bfe/000000?text=+)](#shy-moment)[![City Lights](https://placehold.it/50/dfe6e9/000000?text=+)](#city-lights)[![Sour Lemon](https://placehold.it/50/ffeaa7/000000?text=+)](#sour-lemon)[![First Date](https://placehold.it/50/fab1a0/000000?text=+)](#first-date)[![Pink Glamour](https://placehold.it/50/ff7675/000000?text=+)](#pink-glamour)[![Pico-8 Pink](https://placehold.it/50/fd79a8/000000?text=+)](#pico-8-pink)[![American River](https://placehold.it/50/636e72/000000?text=+)](#american-river)
+[![Light Greenish Blue](https://via.placeholder.com/50/55efc4/000000?text=+)](#light-greenish-blue)[![Faded Poster](https://via.placeholder.com/50/81ecec/000000?text=+)](#faded-poster)[![Green Darner Tail](https://via.placeholder.com/50/74b9ff/000000?text=+)](#green-darner-tail)[![Shy Moment](https://via.placeholder.com/50/a29bfe/000000?text=+)](#shy-moment)[![City Lights](https://via.placeholder.com/50/dfe6e9/000000?text=+)](#city-lights)[![Sour Lemon](https://via.placeholder.com/50/ffeaa7/000000?text=+)](#sour-lemon)[![First Date](https://via.placeholder.com/50/fab1a0/000000?text=+)](#first-date)[![Pink Glamour](https://via.placeholder.com/50/ff7675/000000?text=+)](#pink-glamour)[![Pico-8 Pink](https://via.placeholder.com/50/fd79a8/000000?text=+)](#pico-8-pink)[![American River](https://via.placeholder.com/50/636e72/000000?text=+)](#american-river)
 
-[![Mint Leaf](https://placehold.it/50/00b894/000000?text=+)](#mint-leaf)[![Robin's Egg Blue](https://placehold.it/50/00cec9/000000?text=+)](#robins-egg-blue)[![Electron Blue](https://placehold.it/50/0984e3/000000?text=+)](#electron-blue)[![Exodus Fruit](https://placehold.it/50/6c5ce7/000000?text=+)](#exodus-fruit)[![Soothing Breeze](https://placehold.it/50/b2bec3/000000?text=+)](#soothing-breeze)[![Bright Yarrow](https://placehold.it/50/fdcb6e/000000?text=+)](#bright-yarrow)[![Orangeville](https://placehold.it/50/e17055/000000?text=+)](#orangeville)[![Chi-Gong](https://placehold.it/50/d63031/000000?text=+)](#chi-gong)[![Prunus Avium](https://placehold.it/50/e84393/000000?text=+)](#prunus-avium)[![Dracula Orchid](https://placehold.it/50/2d3436/000000?text=+)](#dracula-orchid)
+[![Mint Leaf](https://via.placeholder.com/50/00b894/000000?text=+)](#mint-leaf)[![Robin's Egg Blue](https://via.placeholder.com/50/00cec9/000000?text=+)](#robins-egg-blue)[![Electron Blue](https://via.placeholder.com/50/0984e3/000000?text=+)](#electron-blue)[![Exodus Fruit](https://via.placeholder.com/50/6c5ce7/000000?text=+)](#exodus-fruit)[![Soothing Breeze](https://via.placeholder.com/50/b2bec3/000000?text=+)](#soothing-breeze)[![Bright Yarrow](https://via.placeholder.com/50/fdcb6e/000000?text=+)](#bright-yarrow)[![Orangeville](https://via.placeholder.com/50/e17055/000000?text=+)](#orangeville)[![Chi-Gong](https://via.placeholder.com/50/d63031/000000?text=+)](#chi-gong)[![Prunus Avium](https://via.placeholder.com/50/e84393/000000?text=+)](#prunus-avium)[![Dracula Orchid](https://via.placeholder.com/50/2d3436/000000?text=+)](#dracula-orchid)
 
 
 # Light Greenish Blue
 
-[![Light Greenish Blue](https://placehold.it/50/55efc4/000000?text=+)](#light-greenish-blue)
+[![Light Greenish Blue](https://via.placeholder.com/50/55efc4/000000?text=+)](#light-greenish-blue)
 
 #55efc4
 
@@ -42,7 +42,7 @@ module FlatColors.AmericanPalette exposing
 
 # Faded Poster
 
-[![Faded Poster](https://placehold.it/50/81ecec/000000?text=+)](#faded-poster)
+[![Faded Poster](https://via.placeholder.com/50/81ecec/000000?text=+)](#faded-poster)
 
 #81ecec
 
@@ -51,7 +51,7 @@ module FlatColors.AmericanPalette exposing
 
 # Green Darner Tail
 
-[![Green Darner Tail](https://placehold.it/50/74b9ff/000000?text=+)](#green-darner-tail)
+[![Green Darner Tail](https://via.placeholder.com/50/74b9ff/000000?text=+)](#green-darner-tail)
 
 #74b9ff
 
@@ -60,7 +60,7 @@ module FlatColors.AmericanPalette exposing
 
 # Shy Moment
 
-[![Shy Moment](https://placehold.it/50/a29bfe/000000?text=+)](#shy-moment)
+[![Shy Moment](https://via.placeholder.com/50/a29bfe/000000?text=+)](#shy-moment)
 
 #a29bfe
 
@@ -69,7 +69,7 @@ module FlatColors.AmericanPalette exposing
 
 # City Lights
 
-[![City Lights](https://placehold.it/50/dfe6e9/000000?text=+)](#city-lights)
+[![City Lights](https://via.placeholder.com/50/dfe6e9/000000?text=+)](#city-lights)
 
 #dfe6e9
 
@@ -78,7 +78,7 @@ module FlatColors.AmericanPalette exposing
 
 # Mint Leaf
 
-[![Mint Leaf](https://placehold.it/50/00b894/000000?text=+)](#mint-leaf)
+[![Mint Leaf](https://via.placeholder.com/50/00b894/000000?text=+)](#mint-leaf)
 
 #00b894
 
@@ -87,7 +87,7 @@ module FlatColors.AmericanPalette exposing
 
 # Robin's Egg Blue
 
-[![Robin's Egg Blue](https://placehold.it/50/00cec9/000000?text=+)](#robins-egg-blue)
+[![Robin's Egg Blue](https://via.placeholder.com/50/00cec9/000000?text=+)](#robins-egg-blue)
 
 #00cec9
 
@@ -96,7 +96,7 @@ module FlatColors.AmericanPalette exposing
 
 # Electron Blue
 
-[![Electron Blue](https://placehold.it/50/0984e3/000000?text=+)](#electron-blue)
+[![Electron Blue](https://via.placeholder.com/50/0984e3/000000?text=+)](#electron-blue)
 
 #0984e3
 
@@ -105,7 +105,7 @@ module FlatColors.AmericanPalette exposing
 
 # Exodus Fruit
 
-[![Exodus Fruit](https://placehold.it/50/6c5ce7/000000?text=+)](#exodus-fruit)
+[![Exodus Fruit](https://via.placeholder.com/50/6c5ce7/000000?text=+)](#exodus-fruit)
 
 #6c5ce7
 
@@ -114,7 +114,7 @@ module FlatColors.AmericanPalette exposing
 
 # Soothing Breeze
 
-[![Soothing Breeze](https://placehold.it/50/b2bec3/000000?text=+)](#soothing-breeze)
+[![Soothing Breeze](https://via.placeholder.com/50/b2bec3/000000?text=+)](#soothing-breeze)
 
 #b2bec3
 
@@ -123,7 +123,7 @@ module FlatColors.AmericanPalette exposing
 
 # Sour Lemon
 
-[![Sour Lemon](https://placehold.it/50/ffeaa7/000000?text=+)](#sour-lemon)
+[![Sour Lemon](https://via.placeholder.com/50/ffeaa7/000000?text=+)](#sour-lemon)
 
 #ffeaa7
 
@@ -132,7 +132,7 @@ module FlatColors.AmericanPalette exposing
 
 # First Date
 
-[![First Date](https://placehold.it/50/fab1a0/000000?text=+)](#first-date)
+[![First Date](https://via.placeholder.com/50/fab1a0/000000?text=+)](#first-date)
 
 #fab1a0
 
@@ -141,7 +141,7 @@ module FlatColors.AmericanPalette exposing
 
 # Pink Glamour
 
-[![Pink Glamour](https://placehold.it/50/ff7675/000000?text=+)](#pink-glamour)
+[![Pink Glamour](https://via.placeholder.com/50/ff7675/000000?text=+)](#pink-glamour)
 
 #ff7675
 
@@ -150,7 +150,7 @@ module FlatColors.AmericanPalette exposing
 
 # Pico-8 Pink
 
-[![Pico-8 Pink](https://placehold.it/50/fd79a8/000000?text=+)](#pico-8-pink)
+[![Pico-8 Pink](https://via.placeholder.com/50/fd79a8/000000?text=+)](#pico-8-pink)
 
 #fd79a8
 
@@ -159,7 +159,7 @@ module FlatColors.AmericanPalette exposing
 
 # American River
 
-[![American River](https://placehold.it/50/636e72/000000?text=+)](#american-river)
+[![American River](https://via.placeholder.com/50/636e72/000000?text=+)](#american-river)
 
 #636e72
 
@@ -168,7 +168,7 @@ module FlatColors.AmericanPalette exposing
 
 # Bright Yarrow
 
-[![Bright Yarrow](https://placehold.it/50/fdcb6e/000000?text=+)](#bright-yarrow)
+[![Bright Yarrow](https://via.placeholder.com/50/fdcb6e/000000?text=+)](#bright-yarrow)
 
 #fdcb6e
 
@@ -177,7 +177,7 @@ module FlatColors.AmericanPalette exposing
 
 # Orangeville
 
-[![Orangeville](https://placehold.it/50/e17055/000000?text=+)](#orangeville)
+[![Orangeville](https://via.placeholder.com/50/e17055/000000?text=+)](#orangeville)
 
 #e17055
 
@@ -186,7 +186,7 @@ module FlatColors.AmericanPalette exposing
 
 # Chi-Gong
 
-[![Chi-Gong](https://placehold.it/50/d63031/000000?text=+)](#chi-gong)
+[![Chi-Gong](https://via.placeholder.com/50/d63031/000000?text=+)](#chi-gong)
 
 #d63031
 
@@ -195,7 +195,7 @@ module FlatColors.AmericanPalette exposing
 
 # Prunus Avium
 
-[![Prunus Avium](https://placehold.it/50/e84393/000000?text=+)](#prunus-avium)
+[![Prunus Avium](https://via.placeholder.com/50/e84393/000000?text=+)](#prunus-avium)
 
 #e84393
 
@@ -204,7 +204,7 @@ module FlatColors.AmericanPalette exposing
 
 # Dracula Orchid
 
-[![Dracula Orchid](https://placehold.it/50/2d3436/000000?text=+)](#dracula-orchid)
+[![Dracula Orchid](https://via.placeholder.com/50/2d3436/000000?text=+)](#dracula-orchid)
 
 #2d3436
 
@@ -213,23 +213,23 @@ module FlatColors.AmericanPalette exposing
 
 # All Colors
 
-[![Light Greenish Blue](https://placehold.it/50/55efc4/000000?text=+)](#light-greenish-blue)[![Faded Poster](https://placehold.it/50/81ecec/000000?text=+)](#faded-poster)[![Green Darner Tail](https://placehold.it/50/74b9ff/000000?text=+)](#green-darner-tail)[![Shy Moment](https://placehold.it/50/a29bfe/000000?text=+)](#shy-moment)[![City Lights](https://placehold.it/50/dfe6e9/000000?text=+)](#city-lights)[![Sour Lemon](https://placehold.it/50/ffeaa7/000000?text=+)](#sour-lemon)[![First Date](https://placehold.it/50/fab1a0/000000?text=+)](#first-date)[![Pink Glamour](https://placehold.it/50/ff7675/000000?text=+)](#pink-glamour)[![Pico-8 Pink](https://placehold.it/50/fd79a8/000000?text=+)](#pico-8-pink)[![American River](https://placehold.it/50/636e72/000000?text=+)](#american-river)
+[![Light Greenish Blue](https://via.placeholder.com/50/55efc4/000000?text=+)](#light-greenish-blue)[![Faded Poster](https://via.placeholder.com/50/81ecec/000000?text=+)](#faded-poster)[![Green Darner Tail](https://via.placeholder.com/50/74b9ff/000000?text=+)](#green-darner-tail)[![Shy Moment](https://via.placeholder.com/50/a29bfe/000000?text=+)](#shy-moment)[![City Lights](https://via.placeholder.com/50/dfe6e9/000000?text=+)](#city-lights)[![Sour Lemon](https://via.placeholder.com/50/ffeaa7/000000?text=+)](#sour-lemon)[![First Date](https://via.placeholder.com/50/fab1a0/000000?text=+)](#first-date)[![Pink Glamour](https://via.placeholder.com/50/ff7675/000000?text=+)](#pink-glamour)[![Pico-8 Pink](https://via.placeholder.com/50/fd79a8/000000?text=+)](#pico-8-pink)[![American River](https://via.placeholder.com/50/636e72/000000?text=+)](#american-river)
 
-[![Mint Leaf](https://placehold.it/50/00b894/000000?text=+)](#mint-leaf)[![Robin's Egg Blue](https://placehold.it/50/00cec9/000000?text=+)](#robins-egg-blue)[![Electron Blue](https://placehold.it/50/0984e3/000000?text=+)](#electron-blue)[![Exodus Fruit](https://placehold.it/50/6c5ce7/000000?text=+)](#exodus-fruit)[![Soothing Breeze](https://placehold.it/50/b2bec3/000000?text=+)](#soothing-breeze)[![Bright Yarrow](https://placehold.it/50/fdcb6e/000000?text=+)](#bright-yarrow)[![Orangeville](https://placehold.it/50/e17055/000000?text=+)](#orangeville)[![Chi-Gong](https://placehold.it/50/d63031/000000?text=+)](#chi-gong)[![Prunus Avium](https://placehold.it/50/e84393/000000?text=+)](#prunus-avium)[![Dracula Orchid](https://placehold.it/50/2d3436/000000?text=+)](#dracula-orchid)
+[![Mint Leaf](https://via.placeholder.com/50/00b894/000000?text=+)](#mint-leaf)[![Robin's Egg Blue](https://via.placeholder.com/50/00cec9/000000?text=+)](#robins-egg-blue)[![Electron Blue](https://via.placeholder.com/50/0984e3/000000?text=+)](#electron-blue)[![Exodus Fruit](https://via.placeholder.com/50/6c5ce7/000000?text=+)](#exodus-fruit)[![Soothing Breeze](https://via.placeholder.com/50/b2bec3/000000?text=+)](#soothing-breeze)[![Bright Yarrow](https://via.placeholder.com/50/fdcb6e/000000?text=+)](#bright-yarrow)[![Orangeville](https://via.placeholder.com/50/e17055/000000?text=+)](#orangeville)[![Chi-Gong](https://via.placeholder.com/50/d63031/000000?text=+)](#chi-gong)[![Prunus Avium](https://via.placeholder.com/50/e84393/000000?text=+)](#prunus-avium)[![Dracula Orchid](https://via.placeholder.com/50/2d3436/000000?text=+)](#dracula-orchid)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Light Greenish Blue](https://placehold.it/50/55efc4/000000?text=+)](#light-greenish-blue)[![Faded Poster](https://placehold.it/50/81ecec/000000?text=+)](#faded-poster)[![Green Darner Tail](https://placehold.it/50/74b9ff/000000?text=+)](#green-darner-tail)[![Shy Moment](https://placehold.it/50/a29bfe/000000?text=+)](#shy-moment)[![City Lights](https://placehold.it/50/dfe6e9/000000?text=+)](#city-lights)[![Sour Lemon](https://placehold.it/50/ffeaa7/000000?text=+)](#sour-lemon)[![First Date](https://placehold.it/50/fab1a0/000000?text=+)](#first-date)[![Pink Glamour](https://placehold.it/50/ff7675/000000?text=+)](#pink-glamour)[![Pico-8 Pink](https://placehold.it/50/fd79a8/000000?text=+)](#pico-8-pink)[![American River](https://placehold.it/50/636e72/000000?text=+)](#american-river)
+[![Light Greenish Blue](https://via.placeholder.com/50/55efc4/000000?text=+)](#light-greenish-blue)[![Faded Poster](https://via.placeholder.com/50/81ecec/000000?text=+)](#faded-poster)[![Green Darner Tail](https://via.placeholder.com/50/74b9ff/000000?text=+)](#green-darner-tail)[![Shy Moment](https://via.placeholder.com/50/a29bfe/000000?text=+)](#shy-moment)[![City Lights](https://via.placeholder.com/50/dfe6e9/000000?text=+)](#city-lights)[![Sour Lemon](https://via.placeholder.com/50/ffeaa7/000000?text=+)](#sour-lemon)[![First Date](https://via.placeholder.com/50/fab1a0/000000?text=+)](#first-date)[![Pink Glamour](https://via.placeholder.com/50/ff7675/000000?text=+)](#pink-glamour)[![Pico-8 Pink](https://via.placeholder.com/50/fd79a8/000000?text=+)](#pico-8-pink)[![American River](https://via.placeholder.com/50/636e72/000000?text=+)](#american-river)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Mint Leaf](https://placehold.it/50/00b894/000000?text=+)](#mint-leaf)[![Robin's Egg Blue](https://placehold.it/50/00cec9/000000?text=+)](#robins-egg-blue)[![Electron Blue](https://placehold.it/50/0984e3/000000?text=+)](#electron-blue)[![Exodus Fruit](https://placehold.it/50/6c5ce7/000000?text=+)](#exodus-fruit)[![Soothing Breeze](https://placehold.it/50/b2bec3/000000?text=+)](#soothing-breeze)[![Bright Yarrow](https://placehold.it/50/fdcb6e/000000?text=+)](#bright-yarrow)[![Orangeville](https://placehold.it/50/e17055/000000?text=+)](#orangeville)[![Chi-Gong](https://placehold.it/50/d63031/000000?text=+)](#chi-gong)[![Prunus Avium](https://placehold.it/50/e84393/000000?text=+)](#prunus-avium)[![Dracula Orchid](https://placehold.it/50/2d3436/000000?text=+)](#dracula-orchid)
+[![Mint Leaf](https://via.placeholder.com/50/00b894/000000?text=+)](#mint-leaf)[![Robin's Egg Blue](https://via.placeholder.com/50/00cec9/000000?text=+)](#robins-egg-blue)[![Electron Blue](https://via.placeholder.com/50/0984e3/000000?text=+)](#electron-blue)[![Exodus Fruit](https://via.placeholder.com/50/6c5ce7/000000?text=+)](#exodus-fruit)[![Soothing Breeze](https://via.placeholder.com/50/b2bec3/000000?text=+)](#soothing-breeze)[![Bright Yarrow](https://via.placeholder.com/50/fdcb6e/000000?text=+)](#bright-yarrow)[![Orangeville](https://via.placeholder.com/50/e17055/000000?text=+)](#orangeville)[![Chi-Gong](https://via.placeholder.com/50/d63031/000000?text=+)](#chi-gong)[![Prunus Avium](https://via.placeholder.com/50/e84393/000000?text=+)](#prunus-avium)[![Dracula Orchid](https://via.placeholder.com/50/2d3436/000000?text=+)](#dracula-orchid)
 
 @docs allDark, allDarkHex, allDarkRgb
 

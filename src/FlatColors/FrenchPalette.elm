@@ -26,14 +26,14 @@ module FlatColors.FrenchPalette exposing
 
 {-| French Palette by [Léa Poisson](https://dribbble.com/goldfishlife)
 
-[![Flat Flesh](https://placehold.it/50/fad390/000000?text=+)](#flat-flesh)[![Melon Melody](https://placehold.it/50/f8c291/000000?text=+)](#melon-melody)[![Livid](https://placehold.it/50/6a89cc/000000?text=+)](#livid)[![Spray](https://placehold.it/50/82ccdd/000000?text=+)](#spray)[![Paradise Green](https://placehold.it/50/b8e994/000000?text=+)](#paradise-green)[![Iceland Poppy](https://placehold.it/50/fa983a/000000?text=+)](#iceland-poppy)[![Tomato Red](https://placehold.it/50/eb2f06/000000?text=+)](#tomato-red)[![Yuè Guāng Lán Blue](https://placehold.it/50/1e3799/000000?text=+)](#yue-guang-lan-blue)[![Good Samaritan](https://placehold.it/50/3c6382/000000?text=+)](#good-samaritan)[![Waterfall](https://placehold.it/50/38ada9/000000?text=+)](#waterfall)
+[![Flat Flesh](https://via.placeholder.com/50/fad390/000000?text=+)](#flat-flesh)[![Melon Melody](https://via.placeholder.com/50/f8c291/000000?text=+)](#melon-melody)[![Livid](https://via.placeholder.com/50/6a89cc/000000?text=+)](#livid)[![Spray](https://via.placeholder.com/50/82ccdd/000000?text=+)](#spray)[![Paradise Green](https://via.placeholder.com/50/b8e994/000000?text=+)](#paradise-green)[![Iceland Poppy](https://via.placeholder.com/50/fa983a/000000?text=+)](#iceland-poppy)[![Tomato Red](https://via.placeholder.com/50/eb2f06/000000?text=+)](#tomato-red)[![Yuè Guāng Lán Blue](https://via.placeholder.com/50/1e3799/000000?text=+)](#yue-guang-lan-blue)[![Good Samaritan](https://via.placeholder.com/50/3c6382/000000?text=+)](#good-samaritan)[![Waterfall](https://via.placeholder.com/50/38ada9/000000?text=+)](#waterfall)
 
-[![Squash Blossom](https://placehold.it/50/f6b93b/000000?text=+)](#squash-blossom)[![Mandarin Red](https://placehold.it/50/e55039/000000?text=+)](#mandarin-red)[![Azraq Blue](https://placehold.it/50/4a69bd/000000?text=+)](#azraq-blue)[![Dupain](https://placehold.it/50/60a3bc/000000?text=+)](#dupain)[![Aurora Green](https://placehold.it/50/78e08f/000000?text=+)](#aurora-green)[![Carrot Orange](https://placehold.it/50/e58e26/000000?text=+)](#carrot-orange)[![Jalapeno Red](https://placehold.it/50/b71540/000000?text=+)](#jalapeno-red)[![Dark Sapphire](https://placehold.it/50/0c2461/000000?text=+)](#dark-sapphire)[![Forest Blues](https://placehold.it/50/0a3d62/000000?text=+)](#forest-blues)[![Reef Encounter](https://placehold.it/50/079992/000000?text=+)](#reef-encounter)
+[![Squash Blossom](https://via.placeholder.com/50/f6b93b/000000?text=+)](#squash-blossom)[![Mandarin Red](https://via.placeholder.com/50/e55039/000000?text=+)](#mandarin-red)[![Azraq Blue](https://via.placeholder.com/50/4a69bd/000000?text=+)](#azraq-blue)[![Dupain](https://via.placeholder.com/50/60a3bc/000000?text=+)](#dupain)[![Aurora Green](https://via.placeholder.com/50/78e08f/000000?text=+)](#aurora-green)[![Carrot Orange](https://via.placeholder.com/50/e58e26/000000?text=+)](#carrot-orange)[![Jalapeno Red](https://via.placeholder.com/50/b71540/000000?text=+)](#jalapeno-red)[![Dark Sapphire](https://via.placeholder.com/50/0c2461/000000?text=+)](#dark-sapphire)[![Forest Blues](https://via.placeholder.com/50/0a3d62/000000?text=+)](#forest-blues)[![Reef Encounter](https://via.placeholder.com/50/079992/000000?text=+)](#reef-encounter)
 
 
 # Flat Flesh
 
-[![Flat Flesh](https://placehold.it/50/fad390/000000?text=+)](#flat-flesh)
+[![Flat Flesh](https://via.placeholder.com/50/fad390/000000?text=+)](#flat-flesh)
 
 #fad390
 
@@ -42,7 +42,7 @@ module FlatColors.FrenchPalette exposing
 
 # Melon Melody
 
-[![Melon Melody](https://placehold.it/50/f8c291/000000?text=+)](#melon-melody)
+[![Melon Melody](https://via.placeholder.com/50/f8c291/000000?text=+)](#melon-melody)
 
 #f8c291
 
@@ -51,7 +51,7 @@ module FlatColors.FrenchPalette exposing
 
 # Livid
 
-[![Livid](https://placehold.it/50/6a89cc/000000?text=+)](#livid)
+[![Livid](https://via.placeholder.com/50/6a89cc/000000?text=+)](#livid)
 
 #6a89cc
 
@@ -60,7 +60,7 @@ module FlatColors.FrenchPalette exposing
 
 # Spray
 
-[![Spray](https://placehold.it/50/82ccdd/000000?text=+)](#spray)
+[![Spray](https://via.placeholder.com/50/82ccdd/000000?text=+)](#spray)
 
 #82ccdd
 
@@ -69,7 +69,7 @@ module FlatColors.FrenchPalette exposing
 
 # Paradise Green
 
-[![Paradise Green](https://placehold.it/50/b8e994/000000?text=+)](#paradise-green)
+[![Paradise Green](https://via.placeholder.com/50/b8e994/000000?text=+)](#paradise-green)
 
 #b8e994
 
@@ -78,7 +78,7 @@ module FlatColors.FrenchPalette exposing
 
 # Squash Blossom
 
-[![Squash Blossom](https://placehold.it/50/f6b93b/000000?text=+)](#squash-blossom)
+[![Squash Blossom](https://via.placeholder.com/50/f6b93b/000000?text=+)](#squash-blossom)
 
 #f6b93b
 
@@ -87,7 +87,7 @@ module FlatColors.FrenchPalette exposing
 
 # Mandarin Red
 
-[![Mandarin Red](https://placehold.it/50/e55039/000000?text=+)](#mandarin-red)
+[![Mandarin Red](https://via.placeholder.com/50/e55039/000000?text=+)](#mandarin-red)
 
 #e55039
 
@@ -96,7 +96,7 @@ module FlatColors.FrenchPalette exposing
 
 # Azraq Blue
 
-[![Azraq Blue](https://placehold.it/50/4a69bd/000000?text=+)](#azraq-blue)
+[![Azraq Blue](https://via.placeholder.com/50/4a69bd/000000?text=+)](#azraq-blue)
 
 #4a69bd
 
@@ -105,7 +105,7 @@ module FlatColors.FrenchPalette exposing
 
 # Dupain
 
-[![Dupain](https://placehold.it/50/60a3bc/000000?text=+)](#dupain)
+[![Dupain](https://via.placeholder.com/50/60a3bc/000000?text=+)](#dupain)
 
 #60a3bc
 
@@ -114,7 +114,7 @@ module FlatColors.FrenchPalette exposing
 
 # Aurora Green
 
-[![Aurora Green](https://placehold.it/50/78e08f/000000?text=+)](#aurora-green)
+[![Aurora Green](https://via.placeholder.com/50/78e08f/000000?text=+)](#aurora-green)
 
 #78e08f
 
@@ -123,7 +123,7 @@ module FlatColors.FrenchPalette exposing
 
 # Iceland Poppy
 
-[![Iceland Poppy](https://placehold.it/50/fa983a/000000?text=+)](#iceland-poppy)
+[![Iceland Poppy](https://via.placeholder.com/50/fa983a/000000?text=+)](#iceland-poppy)
 
 #fa983a
 
@@ -132,7 +132,7 @@ module FlatColors.FrenchPalette exposing
 
 # Tomato Red
 
-[![Tomato Red](https://placehold.it/50/eb2f06/000000?text=+)](#tomato-red)
+[![Tomato Red](https://via.placeholder.com/50/eb2f06/000000?text=+)](#tomato-red)
 
 #eb2f06
 
@@ -141,7 +141,7 @@ module FlatColors.FrenchPalette exposing
 
 # Yuè Guāng Lán Blue
 
-[![Yuè Guāng Lán Blue](https://placehold.it/50/1e3799/000000?text=+)](#yue-guang-lan-blue)
+[![Yuè Guāng Lán Blue](https://via.placeholder.com/50/1e3799/000000?text=+)](#yue-guang-lan-blue)
 
 #1e3799
 
@@ -150,7 +150,7 @@ module FlatColors.FrenchPalette exposing
 
 # Good Samaritan
 
-[![Good Samaritan](https://placehold.it/50/3c6382/000000?text=+)](#good-samaritan)
+[![Good Samaritan](https://via.placeholder.com/50/3c6382/000000?text=+)](#good-samaritan)
 
 #3c6382
 
@@ -159,7 +159,7 @@ module FlatColors.FrenchPalette exposing
 
 # Waterfall
 
-[![Waterfall](https://placehold.it/50/38ada9/000000?text=+)](#waterfall)
+[![Waterfall](https://via.placeholder.com/50/38ada9/000000?text=+)](#waterfall)
 
 #38ada9
 
@@ -168,7 +168,7 @@ module FlatColors.FrenchPalette exposing
 
 # Carrot Orange
 
-[![Carrot Orange](https://placehold.it/50/e58e26/000000?text=+)](#carrot-orange)
+[![Carrot Orange](https://via.placeholder.com/50/e58e26/000000?text=+)](#carrot-orange)
 
 #e58e26
 
@@ -177,7 +177,7 @@ module FlatColors.FrenchPalette exposing
 
 # Jalapeno Red
 
-[![Jalapeno Red](https://placehold.it/50/b71540/000000?text=+)](#jalapeno-red)
+[![Jalapeno Red](https://via.placeholder.com/50/b71540/000000?text=+)](#jalapeno-red)
 
 #b71540
 
@@ -186,7 +186,7 @@ module FlatColors.FrenchPalette exposing
 
 # Dark Sapphire
 
-[![Dark Sapphire](https://placehold.it/50/0c2461/000000?text=+)](#dark-sapphire)
+[![Dark Sapphire](https://via.placeholder.com/50/0c2461/000000?text=+)](#dark-sapphire)
 
 #0c2461
 
@@ -195,7 +195,7 @@ module FlatColors.FrenchPalette exposing
 
 # Forest Blues
 
-[![Forest Blues](https://placehold.it/50/0a3d62/000000?text=+)](#forest-blues)
+[![Forest Blues](https://via.placeholder.com/50/0a3d62/000000?text=+)](#forest-blues)
 
 #0a3d62
 
@@ -204,7 +204,7 @@ module FlatColors.FrenchPalette exposing
 
 # Reef Encounter
 
-[![Reef Encounter](https://placehold.it/50/079992/000000?text=+)](#reef-encounter)
+[![Reef Encounter](https://via.placeholder.com/50/079992/000000?text=+)](#reef-encounter)
 
 #079992
 
@@ -213,23 +213,23 @@ module FlatColors.FrenchPalette exposing
 
 # All Colors
 
-[![Flat Flesh](https://placehold.it/50/fad390/000000?text=+)](#flat-flesh)[![Melon Melody](https://placehold.it/50/f8c291/000000?text=+)](#melon-melody)[![Livid](https://placehold.it/50/6a89cc/000000?text=+)](#livid)[![Spray](https://placehold.it/50/82ccdd/000000?text=+)](#spray)[![Paradise Green](https://placehold.it/50/b8e994/000000?text=+)](#paradise-green)[![Iceland Poppy](https://placehold.it/50/fa983a/000000?text=+)](#iceland-poppy)[![Tomato Red](https://placehold.it/50/eb2f06/000000?text=+)](#tomato-red)[![Yuè Guāng Lán Blue](https://placehold.it/50/1e3799/000000?text=+)](#yue-guang-lan-blue)[![Good Samaritan](https://placehold.it/50/3c6382/000000?text=+)](#good-samaritan)[![Waterfall](https://placehold.it/50/38ada9/000000?text=+)](#waterfall)
+[![Flat Flesh](https://via.placeholder.com/50/fad390/000000?text=+)](#flat-flesh)[![Melon Melody](https://via.placeholder.com/50/f8c291/000000?text=+)](#melon-melody)[![Livid](https://via.placeholder.com/50/6a89cc/000000?text=+)](#livid)[![Spray](https://via.placeholder.com/50/82ccdd/000000?text=+)](#spray)[![Paradise Green](https://via.placeholder.com/50/b8e994/000000?text=+)](#paradise-green)[![Iceland Poppy](https://via.placeholder.com/50/fa983a/000000?text=+)](#iceland-poppy)[![Tomato Red](https://via.placeholder.com/50/eb2f06/000000?text=+)](#tomato-red)[![Yuè Guāng Lán Blue](https://via.placeholder.com/50/1e3799/000000?text=+)](#yue-guang-lan-blue)[![Good Samaritan](https://via.placeholder.com/50/3c6382/000000?text=+)](#good-samaritan)[![Waterfall](https://via.placeholder.com/50/38ada9/000000?text=+)](#waterfall)
 
-[![Squash Blossom](https://placehold.it/50/f6b93b/000000?text=+)](#squash-blossom)[![Mandarin Red](https://placehold.it/50/e55039/000000?text=+)](#mandarin-red)[![Azraq Blue](https://placehold.it/50/4a69bd/000000?text=+)](#azraq-blue)[![Dupain](https://placehold.it/50/60a3bc/000000?text=+)](#dupain)[![Aurora Green](https://placehold.it/50/78e08f/000000?text=+)](#aurora-green)[![Carrot Orange](https://placehold.it/50/e58e26/000000?text=+)](#carrot-orange)[![Jalapeno Red](https://placehold.it/50/b71540/000000?text=+)](#jalapeno-red)[![Dark Sapphire](https://placehold.it/50/0c2461/000000?text=+)](#dark-sapphire)[![Forest Blues](https://placehold.it/50/0a3d62/000000?text=+)](#forest-blues)[![Reef Encounter](https://placehold.it/50/079992/000000?text=+)](#reef-encounter)
+[![Squash Blossom](https://via.placeholder.com/50/f6b93b/000000?text=+)](#squash-blossom)[![Mandarin Red](https://via.placeholder.com/50/e55039/000000?text=+)](#mandarin-red)[![Azraq Blue](https://via.placeholder.com/50/4a69bd/000000?text=+)](#azraq-blue)[![Dupain](https://via.placeholder.com/50/60a3bc/000000?text=+)](#dupain)[![Aurora Green](https://via.placeholder.com/50/78e08f/000000?text=+)](#aurora-green)[![Carrot Orange](https://via.placeholder.com/50/e58e26/000000?text=+)](#carrot-orange)[![Jalapeno Red](https://via.placeholder.com/50/b71540/000000?text=+)](#jalapeno-red)[![Dark Sapphire](https://via.placeholder.com/50/0c2461/000000?text=+)](#dark-sapphire)[![Forest Blues](https://via.placeholder.com/50/0a3d62/000000?text=+)](#forest-blues)[![Reef Encounter](https://via.placeholder.com/50/079992/000000?text=+)](#reef-encounter)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Flat Flesh](https://placehold.it/50/fad390/000000?text=+)](#flat-flesh)[![Melon Melody](https://placehold.it/50/f8c291/000000?text=+)](#melon-melody)[![Livid](https://placehold.it/50/6a89cc/000000?text=+)](#livid)[![Spray](https://placehold.it/50/82ccdd/000000?text=+)](#spray)[![Paradise Green](https://placehold.it/50/b8e994/000000?text=+)](#paradise-green)[![Iceland Poppy](https://placehold.it/50/fa983a/000000?text=+)](#iceland-poppy)[![Tomato Red](https://placehold.it/50/eb2f06/000000?text=+)](#tomato-red)[![Yuè Guāng Lán Blue](https://placehold.it/50/1e3799/000000?text=+)](#yue-guang-lan-blue)[![Good Samaritan](https://placehold.it/50/3c6382/000000?text=+)](#good-samaritan)[![Waterfall](https://placehold.it/50/38ada9/000000?text=+)](#waterfall)
+[![Flat Flesh](https://via.placeholder.com/50/fad390/000000?text=+)](#flat-flesh)[![Melon Melody](https://via.placeholder.com/50/f8c291/000000?text=+)](#melon-melody)[![Livid](https://via.placeholder.com/50/6a89cc/000000?text=+)](#livid)[![Spray](https://via.placeholder.com/50/82ccdd/000000?text=+)](#spray)[![Paradise Green](https://via.placeholder.com/50/b8e994/000000?text=+)](#paradise-green)[![Iceland Poppy](https://via.placeholder.com/50/fa983a/000000?text=+)](#iceland-poppy)[![Tomato Red](https://via.placeholder.com/50/eb2f06/000000?text=+)](#tomato-red)[![Yuè Guāng Lán Blue](https://via.placeholder.com/50/1e3799/000000?text=+)](#yue-guang-lan-blue)[![Good Samaritan](https://via.placeholder.com/50/3c6382/000000?text=+)](#good-samaritan)[![Waterfall](https://via.placeholder.com/50/38ada9/000000?text=+)](#waterfall)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Squash Blossom](https://placehold.it/50/f6b93b/000000?text=+)](#squash-blossom)[![Mandarin Red](https://placehold.it/50/e55039/000000?text=+)](#mandarin-red)[![Azraq Blue](https://placehold.it/50/4a69bd/000000?text=+)](#azraq-blue)[![Dupain](https://placehold.it/50/60a3bc/000000?text=+)](#dupain)[![Aurora Green](https://placehold.it/50/78e08f/000000?text=+)](#aurora-green)[![Carrot Orange](https://placehold.it/50/e58e26/000000?text=+)](#carrot-orange)[![Jalapeno Red](https://placehold.it/50/b71540/000000?text=+)](#jalapeno-red)[![Dark Sapphire](https://placehold.it/50/0c2461/000000?text=+)](#dark-sapphire)[![Forest Blues](https://placehold.it/50/0a3d62/000000?text=+)](#forest-blues)[![Reef Encounter](https://placehold.it/50/079992/000000?text=+)](#reef-encounter)
+[![Squash Blossom](https://via.placeholder.com/50/f6b93b/000000?text=+)](#squash-blossom)[![Mandarin Red](https://via.placeholder.com/50/e55039/000000?text=+)](#mandarin-red)[![Azraq Blue](https://via.placeholder.com/50/4a69bd/000000?text=+)](#azraq-blue)[![Dupain](https://via.placeholder.com/50/60a3bc/000000?text=+)](#dupain)[![Aurora Green](https://via.placeholder.com/50/78e08f/000000?text=+)](#aurora-green)[![Carrot Orange](https://via.placeholder.com/50/e58e26/000000?text=+)](#carrot-orange)[![Jalapeno Red](https://via.placeholder.com/50/b71540/000000?text=+)](#jalapeno-red)[![Dark Sapphire](https://via.placeholder.com/50/0c2461/000000?text=+)](#dark-sapphire)[![Forest Blues](https://via.placeholder.com/50/0a3d62/000000?text=+)](#forest-blues)[![Reef Encounter](https://via.placeholder.com/50/079992/000000?text=+)](#reef-encounter)
 
 @docs allDark, allDarkHex, allDarkRgb
 

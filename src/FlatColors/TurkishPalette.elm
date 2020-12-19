@@ -26,14 +26,14 @@ module FlatColors.TurkishPalette exposing
 
 {-| Turkish Palette by [Tamer Köseli](https://dribbble.com/tamerkoseli)
 
-[![Bright Lilac](https://placehold.it/50/cd84f1/000000?text=+)](#bright-lilac)[![Pretty Please](https://placehold.it/50/ffcccc/000000?text=+)](#pretty-please)[![Light Red](https://placehold.it/50/ff4d4d/000000?text=+)](#light-red)[![Mandarin Sorbet](https://placehold.it/50/ffaf40/000000?text=+)](#mandarin-sorbet)[![Unmellow Yellow](https://placehold.it/50/fffa65/000000?text=+)](#unmellow-yellow)[![Wintergreen](https://placehold.it/50/32ff7e/000000?text=+)](#wintergreen)[![Electric Blue](https://placehold.it/50/7efff5/000000?text=+)](#electric-blue)[![Neon Blue](https://placehold.it/50/18dcff/000000?text=+)](#neon-blue)[![Light Slate Blue](https://placehold.it/50/7d5fff/000000?text=+)](#light-slate-blue)[![Shadowed Steel](https://placehold.it/50/4b4b4b/000000?text=+)](#shadowed-steel)
+[![Bright Lilac](https://via.placeholder.com/50/cd84f1/000000?text=+)](#bright-lilac)[![Pretty Please](https://via.placeholder.com/50/ffcccc/000000?text=+)](#pretty-please)[![Light Red](https://via.placeholder.com/50/ff4d4d/000000?text=+)](#light-red)[![Mandarin Sorbet](https://via.placeholder.com/50/ffaf40/000000?text=+)](#mandarin-sorbet)[![Unmellow Yellow](https://via.placeholder.com/50/fffa65/000000?text=+)](#unmellow-yellow)[![Wintergreen](https://via.placeholder.com/50/32ff7e/000000?text=+)](#wintergreen)[![Electric Blue](https://via.placeholder.com/50/7efff5/000000?text=+)](#electric-blue)[![Neon Blue](https://via.placeholder.com/50/18dcff/000000?text=+)](#neon-blue)[![Light Slate Blue](https://via.placeholder.com/50/7d5fff/000000?text=+)](#light-slate-blue)[![Shadowed Steel](https://via.placeholder.com/50/4b4b4b/000000?text=+)](#shadowed-steel)
 
-[![Light Purple](https://placehold.it/50/c56cf0/000000?text=+)](#light-purple)[![Young Salmon](https://placehold.it/50/ffb8b8/000000?text=+)](#young-salmon)[![Red Orange](https://placehold.it/50/ff3838/000000?text=+)](#red-orange)[![Radiant Yellow](https://placehold.it/50/ff9f1a/000000?text=+)](#radiant-yellow)[![Dorn Yellow](https://placehold.it/50/fff200/000000?text=+)](#dorn-yellow)[![Weird Green](https://placehold.it/50/3ae374/000000?text=+)](#weird-green)[![Hammam Blue](https://placehold.it/50/67e6dc/000000?text=+)](#hammam-blue)[![Spiro Disco Ball](https://placehold.it/50/17c0eb/000000?text=+)](#spiro-disco-ball)[![Light Indigo](https://placehold.it/50/7158e2/000000?text=+)](#light-indigo)[![Baltic Sea](https://placehold.it/50/3d3d3d/000000?text=+)](#baltic-sea)
+[![Light Purple](https://via.placeholder.com/50/c56cf0/000000?text=+)](#light-purple)[![Young Salmon](https://via.placeholder.com/50/ffb8b8/000000?text=+)](#young-salmon)[![Red Orange](https://via.placeholder.com/50/ff3838/000000?text=+)](#red-orange)[![Radiant Yellow](https://via.placeholder.com/50/ff9f1a/000000?text=+)](#radiant-yellow)[![Dorn Yellow](https://via.placeholder.com/50/fff200/000000?text=+)](#dorn-yellow)[![Weird Green](https://via.placeholder.com/50/3ae374/000000?text=+)](#weird-green)[![Hammam Blue](https://via.placeholder.com/50/67e6dc/000000?text=+)](#hammam-blue)[![Spiro Disco Ball](https://via.placeholder.com/50/17c0eb/000000?text=+)](#spiro-disco-ball)[![Light Indigo](https://via.placeholder.com/50/7158e2/000000?text=+)](#light-indigo)[![Baltic Sea](https://via.placeholder.com/50/3d3d3d/000000?text=+)](#baltic-sea)
 
 
 # Bright Lilac
 
-[![Bright Lilac](https://placehold.it/50/cd84f1/000000?text=+)](#bright-lilac)
+[![Bright Lilac](https://via.placeholder.com/50/cd84f1/000000?text=+)](#bright-lilac)
 
 #cd84f1
 
@@ -42,7 +42,7 @@ module FlatColors.TurkishPalette exposing
 
 # Pretty Please
 
-[![Pretty Please](https://placehold.it/50/ffcccc/000000?text=+)](#pretty-please)
+[![Pretty Please](https://via.placeholder.com/50/ffcccc/000000?text=+)](#pretty-please)
 
 #ffcccc
 
@@ -51,7 +51,7 @@ module FlatColors.TurkishPalette exposing
 
 # Light Red
 
-[![Light Red](https://placehold.it/50/ff4d4d/000000?text=+)](#light-red)
+[![Light Red](https://via.placeholder.com/50/ff4d4d/000000?text=+)](#light-red)
 
 #ff4d4d
 
@@ -60,7 +60,7 @@ module FlatColors.TurkishPalette exposing
 
 # Mandarin Sorbet
 
-[![Mandarin Sorbet](https://placehold.it/50/ffaf40/000000?text=+)](#mandarin-sorbet)
+[![Mandarin Sorbet](https://via.placeholder.com/50/ffaf40/000000?text=+)](#mandarin-sorbet)
 
 #ffaf40
 
@@ -69,7 +69,7 @@ module FlatColors.TurkishPalette exposing
 
 # Unmellow Yellow
 
-[![Unmellow Yellow](https://placehold.it/50/fffa65/000000?text=+)](#unmellow-yellow)
+[![Unmellow Yellow](https://via.placeholder.com/50/fffa65/000000?text=+)](#unmellow-yellow)
 
 #fffa65
 
@@ -78,7 +78,7 @@ module FlatColors.TurkishPalette exposing
 
 # Light Purple
 
-[![Light Purple](https://placehold.it/50/c56cf0/000000?text=+)](#light-purple)
+[![Light Purple](https://via.placeholder.com/50/c56cf0/000000?text=+)](#light-purple)
 
 #c56cf0
 
@@ -87,7 +87,7 @@ module FlatColors.TurkishPalette exposing
 
 # Young Salmon
 
-[![Young Salmon](https://placehold.it/50/ffb8b8/000000?text=+)](#young-salmon)
+[![Young Salmon](https://via.placeholder.com/50/ffb8b8/000000?text=+)](#young-salmon)
 
 #ffb8b8
 
@@ -96,7 +96,7 @@ module FlatColors.TurkishPalette exposing
 
 # Red Orange
 
-[![Red Orange](https://placehold.it/50/ff3838/000000?text=+)](#red-orange)
+[![Red Orange](https://via.placeholder.com/50/ff3838/000000?text=+)](#red-orange)
 
 #ff3838
 
@@ -105,7 +105,7 @@ module FlatColors.TurkishPalette exposing
 
 # Radiant Yellow
 
-[![Radiant Yellow](https://placehold.it/50/ff9f1a/000000?text=+)](#radiant-yellow)
+[![Radiant Yellow](https://via.placeholder.com/50/ff9f1a/000000?text=+)](#radiant-yellow)
 
 #ff9f1a
 
@@ -114,7 +114,7 @@ module FlatColors.TurkishPalette exposing
 
 # Dorn Yellow
 
-[![Dorn Yellow](https://placehold.it/50/fff200/000000?text=+)](#dorn-yellow)
+[![Dorn Yellow](https://via.placeholder.com/50/fff200/000000?text=+)](#dorn-yellow)
 
 #fff200
 
@@ -123,7 +123,7 @@ module FlatColors.TurkishPalette exposing
 
 # Wintergreen
 
-[![Wintergreen](https://placehold.it/50/32ff7e/000000?text=+)](#wintergreen)
+[![Wintergreen](https://via.placeholder.com/50/32ff7e/000000?text=+)](#wintergreen)
 
 #32ff7e
 
@@ -132,7 +132,7 @@ module FlatColors.TurkishPalette exposing
 
 # Electric Blue
 
-[![Electric Blue](https://placehold.it/50/7efff5/000000?text=+)](#electric-blue)
+[![Electric Blue](https://via.placeholder.com/50/7efff5/000000?text=+)](#electric-blue)
 
 #7efff5
 
@@ -141,7 +141,7 @@ module FlatColors.TurkishPalette exposing
 
 # Neon Blue
 
-[![Neon Blue](https://placehold.it/50/18dcff/000000?text=+)](#neon-blue)
+[![Neon Blue](https://via.placeholder.com/50/18dcff/000000?text=+)](#neon-blue)
 
 #18dcff
 
@@ -150,7 +150,7 @@ module FlatColors.TurkishPalette exposing
 
 # Light Slate Blue
 
-[![Light Slate Blue](https://placehold.it/50/7d5fff/000000?text=+)](#light-slate-blue)
+[![Light Slate Blue](https://via.placeholder.com/50/7d5fff/000000?text=+)](#light-slate-blue)
 
 #7d5fff
 
@@ -159,7 +159,7 @@ module FlatColors.TurkishPalette exposing
 
 # Shadowed Steel
 
-[![Shadowed Steel](https://placehold.it/50/4b4b4b/000000?text=+)](#shadowed-steel)
+[![Shadowed Steel](https://via.placeholder.com/50/4b4b4b/000000?text=+)](#shadowed-steel)
 
 #4b4b4b
 
@@ -168,7 +168,7 @@ module FlatColors.TurkishPalette exposing
 
 # Weird Green
 
-[![Weird Green](https://placehold.it/50/3ae374/000000?text=+)](#weird-green)
+[![Weird Green](https://via.placeholder.com/50/3ae374/000000?text=+)](#weird-green)
 
 #3ae374
 
@@ -177,7 +177,7 @@ module FlatColors.TurkishPalette exposing
 
 # Hammam Blue
 
-[![Hammam Blue](https://placehold.it/50/67e6dc/000000?text=+)](#hammam-blue)
+[![Hammam Blue](https://via.placeholder.com/50/67e6dc/000000?text=+)](#hammam-blue)
 
 #67e6dc
 
@@ -186,7 +186,7 @@ module FlatColors.TurkishPalette exposing
 
 # Spiro Disco Ball
 
-[![Spiro Disco Ball](https://placehold.it/50/17c0eb/000000?text=+)](#spiro-disco-ball)
+[![Spiro Disco Ball](https://via.placeholder.com/50/17c0eb/000000?text=+)](#spiro-disco-ball)
 
 #17c0eb
 
@@ -195,7 +195,7 @@ module FlatColors.TurkishPalette exposing
 
 # Light Indigo
 
-[![Light Indigo](https://placehold.it/50/7158e2/000000?text=+)](#light-indigo)
+[![Light Indigo](https://via.placeholder.com/50/7158e2/000000?text=+)](#light-indigo)
 
 #7158e2
 
@@ -204,7 +204,7 @@ module FlatColors.TurkishPalette exposing
 
 # Baltic Sea
 
-[![Baltic Sea](https://placehold.it/50/3d3d3d/000000?text=+)](#baltic-sea)
+[![Baltic Sea](https://via.placeholder.com/50/3d3d3d/000000?text=+)](#baltic-sea)
 
 #3d3d3d
 
@@ -213,23 +213,23 @@ module FlatColors.TurkishPalette exposing
 
 # All Colors
 
-[![Bright Lilac](https://placehold.it/50/cd84f1/000000?text=+)](#bright-lilac)[![Pretty Please](https://placehold.it/50/ffcccc/000000?text=+)](#pretty-please)[![Light Red](https://placehold.it/50/ff4d4d/000000?text=+)](#light-red)[![Mandarin Sorbet](https://placehold.it/50/ffaf40/000000?text=+)](#mandarin-sorbet)[![Unmellow Yellow](https://placehold.it/50/fffa65/000000?text=+)](#unmellow-yellow)[![Wintergreen](https://placehold.it/50/32ff7e/000000?text=+)](#wintergreen)[![Electric Blue](https://placehold.it/50/7efff5/000000?text=+)](#electric-blue)[![Neon Blue](https://placehold.it/50/18dcff/000000?text=+)](#neon-blue)[![Light Slate Blue](https://placehold.it/50/7d5fff/000000?text=+)](#light-slate-blue)[![Shadowed Steel](https://placehold.it/50/4b4b4b/000000?text=+)](#shadowed-steel)
+[![Bright Lilac](https://via.placeholder.com/50/cd84f1/000000?text=+)](#bright-lilac)[![Pretty Please](https://via.placeholder.com/50/ffcccc/000000?text=+)](#pretty-please)[![Light Red](https://via.placeholder.com/50/ff4d4d/000000?text=+)](#light-red)[![Mandarin Sorbet](https://via.placeholder.com/50/ffaf40/000000?text=+)](#mandarin-sorbet)[![Unmellow Yellow](https://via.placeholder.com/50/fffa65/000000?text=+)](#unmellow-yellow)[![Wintergreen](https://via.placeholder.com/50/32ff7e/000000?text=+)](#wintergreen)[![Electric Blue](https://via.placeholder.com/50/7efff5/000000?text=+)](#electric-blue)[![Neon Blue](https://via.placeholder.com/50/18dcff/000000?text=+)](#neon-blue)[![Light Slate Blue](https://via.placeholder.com/50/7d5fff/000000?text=+)](#light-slate-blue)[![Shadowed Steel](https://via.placeholder.com/50/4b4b4b/000000?text=+)](#shadowed-steel)
 
-[![Light Purple](https://placehold.it/50/c56cf0/000000?text=+)](#light-purple)[![Young Salmon](https://placehold.it/50/ffb8b8/000000?text=+)](#young-salmon)[![Red Orange](https://placehold.it/50/ff3838/000000?text=+)](#red-orange)[![Radiant Yellow](https://placehold.it/50/ff9f1a/000000?text=+)](#radiant-yellow)[![Dorn Yellow](https://placehold.it/50/fff200/000000?text=+)](#dorn-yellow)[![Weird Green](https://placehold.it/50/3ae374/000000?text=+)](#weird-green)[![Hammam Blue](https://placehold.it/50/67e6dc/000000?text=+)](#hammam-blue)[![Spiro Disco Ball](https://placehold.it/50/17c0eb/000000?text=+)](#spiro-disco-ball)[![Light Indigo](https://placehold.it/50/7158e2/000000?text=+)](#light-indigo)[![Baltic Sea](https://placehold.it/50/3d3d3d/000000?text=+)](#baltic-sea)
+[![Light Purple](https://via.placeholder.com/50/c56cf0/000000?text=+)](#light-purple)[![Young Salmon](https://via.placeholder.com/50/ffb8b8/000000?text=+)](#young-salmon)[![Red Orange](https://via.placeholder.com/50/ff3838/000000?text=+)](#red-orange)[![Radiant Yellow](https://via.placeholder.com/50/ff9f1a/000000?text=+)](#radiant-yellow)[![Dorn Yellow](https://via.placeholder.com/50/fff200/000000?text=+)](#dorn-yellow)[![Weird Green](https://via.placeholder.com/50/3ae374/000000?text=+)](#weird-green)[![Hammam Blue](https://via.placeholder.com/50/67e6dc/000000?text=+)](#hammam-blue)[![Spiro Disco Ball](https://via.placeholder.com/50/17c0eb/000000?text=+)](#spiro-disco-ball)[![Light Indigo](https://via.placeholder.com/50/7158e2/000000?text=+)](#light-indigo)[![Baltic Sea](https://via.placeholder.com/50/3d3d3d/000000?text=+)](#baltic-sea)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Bright Lilac](https://placehold.it/50/cd84f1/000000?text=+)](#bright-lilac)[![Pretty Please](https://placehold.it/50/ffcccc/000000?text=+)](#pretty-please)[![Light Red](https://placehold.it/50/ff4d4d/000000?text=+)](#light-red)[![Mandarin Sorbet](https://placehold.it/50/ffaf40/000000?text=+)](#mandarin-sorbet)[![Unmellow Yellow](https://placehold.it/50/fffa65/000000?text=+)](#unmellow-yellow)[![Wintergreen](https://placehold.it/50/32ff7e/000000?text=+)](#wintergreen)[![Electric Blue](https://placehold.it/50/7efff5/000000?text=+)](#electric-blue)[![Neon Blue](https://placehold.it/50/18dcff/000000?text=+)](#neon-blue)[![Light Slate Blue](https://placehold.it/50/7d5fff/000000?text=+)](#light-slate-blue)[![Shadowed Steel](https://placehold.it/50/4b4b4b/000000?text=+)](#shadowed-steel)
+[![Bright Lilac](https://via.placeholder.com/50/cd84f1/000000?text=+)](#bright-lilac)[![Pretty Please](https://via.placeholder.com/50/ffcccc/000000?text=+)](#pretty-please)[![Light Red](https://via.placeholder.com/50/ff4d4d/000000?text=+)](#light-red)[![Mandarin Sorbet](https://via.placeholder.com/50/ffaf40/000000?text=+)](#mandarin-sorbet)[![Unmellow Yellow](https://via.placeholder.com/50/fffa65/000000?text=+)](#unmellow-yellow)[![Wintergreen](https://via.placeholder.com/50/32ff7e/000000?text=+)](#wintergreen)[![Electric Blue](https://via.placeholder.com/50/7efff5/000000?text=+)](#electric-blue)[![Neon Blue](https://via.placeholder.com/50/18dcff/000000?text=+)](#neon-blue)[![Light Slate Blue](https://via.placeholder.com/50/7d5fff/000000?text=+)](#light-slate-blue)[![Shadowed Steel](https://via.placeholder.com/50/4b4b4b/000000?text=+)](#shadowed-steel)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Light Purple](https://placehold.it/50/c56cf0/000000?text=+)](#light-purple)[![Young Salmon](https://placehold.it/50/ffb8b8/000000?text=+)](#young-salmon)[![Red Orange](https://placehold.it/50/ff3838/000000?text=+)](#red-orange)[![Radiant Yellow](https://placehold.it/50/ff9f1a/000000?text=+)](#radiant-yellow)[![Dorn Yellow](https://placehold.it/50/fff200/000000?text=+)](#dorn-yellow)[![Weird Green](https://placehold.it/50/3ae374/000000?text=+)](#weird-green)[![Hammam Blue](https://placehold.it/50/67e6dc/000000?text=+)](#hammam-blue)[![Spiro Disco Ball](https://placehold.it/50/17c0eb/000000?text=+)](#spiro-disco-ball)[![Light Indigo](https://placehold.it/50/7158e2/000000?text=+)](#light-indigo)[![Baltic Sea](https://placehold.it/50/3d3d3d/000000?text=+)](#baltic-sea)
+[![Light Purple](https://via.placeholder.com/50/c56cf0/000000?text=+)](#light-purple)[![Young Salmon](https://via.placeholder.com/50/ffb8b8/000000?text=+)](#young-salmon)[![Red Orange](https://via.placeholder.com/50/ff3838/000000?text=+)](#red-orange)[![Radiant Yellow](https://via.placeholder.com/50/ff9f1a/000000?text=+)](#radiant-yellow)[![Dorn Yellow](https://via.placeholder.com/50/fff200/000000?text=+)](#dorn-yellow)[![Weird Green](https://via.placeholder.com/50/3ae374/000000?text=+)](#weird-green)[![Hammam Blue](https://via.placeholder.com/50/67e6dc/000000?text=+)](#hammam-blue)[![Spiro Disco Ball](https://via.placeholder.com/50/17c0eb/000000?text=+)](#spiro-disco-ball)[![Light Indigo](https://via.placeholder.com/50/7158e2/000000?text=+)](#light-indigo)[![Baltic Sea](https://via.placeholder.com/50/3d3d3d/000000?text=+)](#baltic-sea)
 
 @docs allDark, allDarkHex, allDarkRgb
 

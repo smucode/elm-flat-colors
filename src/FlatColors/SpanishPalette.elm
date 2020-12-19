@@ -26,14 +26,14 @@ module FlatColors.SpanishPalette exposing
 
 {-| Spanish Palette by [Miguel Camacho](https://dribbble.com/miguelcm)
 
-[![Jacksons Purple](https://placehold.it/50/40407a/000000?text=+)](#jacksons-purple)[![C64 Purple](https://placehold.it/50/706fd3/000000?text=+)](#c64-purple)[![Swan White](https://placehold.it/50/f7f1e3/000000?text=+)](#swan-white)[![Summer Sky](https://placehold.it/50/34ace0/000000?text=+)](#summer-sky)[![Celestial Green](https://placehold.it/50/33d9b2/000000?text=+)](#celestial-green)[![Fluorescent Red](https://placehold.it/50/ff5252/000000?text=+)](#fluorescent-red)[![Synthetic Pumpkin](https://placehold.it/50/ff793f/000000?text=+)](#synthetic-pumpkin)[![Crocodile Tooth](https://placehold.it/50/d1ccc0/000000?text=+)](#crocodile-tooth)[![Mandarin Sorbet](https://placehold.it/50/ffb142/000000?text=+)](#mandarin-sorbet)[![Spiced Butternut](https://placehold.it/50/ffda79/000000?text=+)](#spiced-butternut)
+[![Jacksons Purple](https://via.placeholder.com/50/40407a/000000?text=+)](#jacksons-purple)[![C64 Purple](https://via.placeholder.com/50/706fd3/000000?text=+)](#c64-purple)[![Swan White](https://via.placeholder.com/50/f7f1e3/000000?text=+)](#swan-white)[![Summer Sky](https://via.placeholder.com/50/34ace0/000000?text=+)](#summer-sky)[![Celestial Green](https://via.placeholder.com/50/33d9b2/000000?text=+)](#celestial-green)[![Fluorescent Red](https://via.placeholder.com/50/ff5252/000000?text=+)](#fluorescent-red)[![Synthetic Pumpkin](https://via.placeholder.com/50/ff793f/000000?text=+)](#synthetic-pumpkin)[![Crocodile Tooth](https://via.placeholder.com/50/d1ccc0/000000?text=+)](#crocodile-tooth)[![Mandarin Sorbet](https://via.placeholder.com/50/ffb142/000000?text=+)](#mandarin-sorbet)[![Spiced Butternut](https://via.placeholder.com/50/ffda79/000000?text=+)](#spiced-butternut)
 
-[![Lucky Point](https://placehold.it/50/2c2c54/000000?text=+)](#lucky-point)[![Liberty](https://placehold.it/50/474787/000000?text=+)](#liberty)[![Hot Stone](https://placehold.it/50/aaa69d/000000?text=+)](#hot-stone)[![Devil Blue](https://placehold.it/50/227093/000000?text=+)](#devil-blue)[![Palm Springs Splash](https://placehold.it/50/218c74/000000?text=+)](#palm-springs-splash)[![Eye Of Newt](https://placehold.it/50/b33939/000000?text=+)](#eye-of-newt)[![Chilean Fire](https://placehold.it/50/cd6133/000000?text=+)](#chilean-fire)[![Grey Porcelain](https://placehold.it/50/84817a/000000?text=+)](#grey-porcelain)[![Alameda Ochre](https://placehold.it/50/cc8e35/000000?text=+)](#alameda-ochre)[![Desert](https://placehold.it/50/ccae62/000000?text=+)](#desert)
+[![Lucky Point](https://via.placeholder.com/50/2c2c54/000000?text=+)](#lucky-point)[![Liberty](https://via.placeholder.com/50/474787/000000?text=+)](#liberty)[![Hot Stone](https://via.placeholder.com/50/aaa69d/000000?text=+)](#hot-stone)[![Devil Blue](https://via.placeholder.com/50/227093/000000?text=+)](#devil-blue)[![Palm Springs Splash](https://via.placeholder.com/50/218c74/000000?text=+)](#palm-springs-splash)[![Eye Of Newt](https://via.placeholder.com/50/b33939/000000?text=+)](#eye-of-newt)[![Chilean Fire](https://via.placeholder.com/50/cd6133/000000?text=+)](#chilean-fire)[![Grey Porcelain](https://via.placeholder.com/50/84817a/000000?text=+)](#grey-porcelain)[![Alameda Ochre](https://via.placeholder.com/50/cc8e35/000000?text=+)](#alameda-ochre)[![Desert](https://via.placeholder.com/50/ccae62/000000?text=+)](#desert)
 
 
 # Jacksons Purple
 
-[![Jacksons Purple](https://placehold.it/50/40407a/000000?text=+)](#jacksons-purple)
+[![Jacksons Purple](https://via.placeholder.com/50/40407a/000000?text=+)](#jacksons-purple)
 
 #40407a
 
@@ -42,7 +42,7 @@ module FlatColors.SpanishPalette exposing
 
 # C64 Purple
 
-[![C64 Purple](https://placehold.it/50/706fd3/000000?text=+)](#c64-purple)
+[![C64 Purple](https://via.placeholder.com/50/706fd3/000000?text=+)](#c64-purple)
 
 #706fd3
 
@@ -51,7 +51,7 @@ module FlatColors.SpanishPalette exposing
 
 # Swan White
 
-[![Swan White](https://placehold.it/50/f7f1e3/000000?text=+)](#swan-white)
+[![Swan White](https://via.placeholder.com/50/f7f1e3/000000?text=+)](#swan-white)
 
 #f7f1e3
 
@@ -60,7 +60,7 @@ module FlatColors.SpanishPalette exposing
 
 # Summer Sky
 
-[![Summer Sky](https://placehold.it/50/34ace0/000000?text=+)](#summer-sky)
+[![Summer Sky](https://via.placeholder.com/50/34ace0/000000?text=+)](#summer-sky)
 
 #34ace0
 
@@ -69,7 +69,7 @@ module FlatColors.SpanishPalette exposing
 
 # Celestial Green
 
-[![Celestial Green](https://placehold.it/50/33d9b2/000000?text=+)](#celestial-green)
+[![Celestial Green](https://via.placeholder.com/50/33d9b2/000000?text=+)](#celestial-green)
 
 #33d9b2
 
@@ -78,7 +78,7 @@ module FlatColors.SpanishPalette exposing
 
 # Lucky Point
 
-[![Lucky Point](https://placehold.it/50/2c2c54/000000?text=+)](#lucky-point)
+[![Lucky Point](https://via.placeholder.com/50/2c2c54/000000?text=+)](#lucky-point)
 
 #2c2c54
 
@@ -87,7 +87,7 @@ module FlatColors.SpanishPalette exposing
 
 # Liberty
 
-[![Liberty](https://placehold.it/50/474787/000000?text=+)](#liberty)
+[![Liberty](https://via.placeholder.com/50/474787/000000?text=+)](#liberty)
 
 #474787
 
@@ -96,7 +96,7 @@ module FlatColors.SpanishPalette exposing
 
 # Hot Stone
 
-[![Hot Stone](https://placehold.it/50/aaa69d/000000?text=+)](#hot-stone)
+[![Hot Stone](https://via.placeholder.com/50/aaa69d/000000?text=+)](#hot-stone)
 
 #aaa69d
 
@@ -105,7 +105,7 @@ module FlatColors.SpanishPalette exposing
 
 # Devil Blue
 
-[![Devil Blue](https://placehold.it/50/227093/000000?text=+)](#devil-blue)
+[![Devil Blue](https://via.placeholder.com/50/227093/000000?text=+)](#devil-blue)
 
 #227093
 
@@ -114,7 +114,7 @@ module FlatColors.SpanishPalette exposing
 
 # Palm Springs Splash
 
-[![Palm Springs Splash](https://placehold.it/50/218c74/000000?text=+)](#palm-springs-splash)
+[![Palm Springs Splash](https://via.placeholder.com/50/218c74/000000?text=+)](#palm-springs-splash)
 
 #218c74
 
@@ -123,7 +123,7 @@ module FlatColors.SpanishPalette exposing
 
 # Fluorescent Red
 
-[![Fluorescent Red](https://placehold.it/50/ff5252/000000?text=+)](#fluorescent-red)
+[![Fluorescent Red](https://via.placeholder.com/50/ff5252/000000?text=+)](#fluorescent-red)
 
 #ff5252
 
@@ -132,7 +132,7 @@ module FlatColors.SpanishPalette exposing
 
 # Synthetic Pumpkin
 
-[![Synthetic Pumpkin](https://placehold.it/50/ff793f/000000?text=+)](#synthetic-pumpkin)
+[![Synthetic Pumpkin](https://via.placeholder.com/50/ff793f/000000?text=+)](#synthetic-pumpkin)
 
 #ff793f
 
@@ -141,7 +141,7 @@ module FlatColors.SpanishPalette exposing
 
 # Crocodile Tooth
 
-[![Crocodile Tooth](https://placehold.it/50/d1ccc0/000000?text=+)](#crocodile-tooth)
+[![Crocodile Tooth](https://via.placeholder.com/50/d1ccc0/000000?text=+)](#crocodile-tooth)
 
 #d1ccc0
 
@@ -150,7 +150,7 @@ module FlatColors.SpanishPalette exposing
 
 # Mandarin Sorbet
 
-[![Mandarin Sorbet](https://placehold.it/50/ffb142/000000?text=+)](#mandarin-sorbet)
+[![Mandarin Sorbet](https://via.placeholder.com/50/ffb142/000000?text=+)](#mandarin-sorbet)
 
 #ffb142
 
@@ -159,7 +159,7 @@ module FlatColors.SpanishPalette exposing
 
 # Spiced Butternut
 
-[![Spiced Butternut](https://placehold.it/50/ffda79/000000?text=+)](#spiced-butternut)
+[![Spiced Butternut](https://via.placeholder.com/50/ffda79/000000?text=+)](#spiced-butternut)
 
 #ffda79
 
@@ -168,7 +168,7 @@ module FlatColors.SpanishPalette exposing
 
 # Eye Of Newt
 
-[![Eye Of Newt](https://placehold.it/50/b33939/000000?text=+)](#eye-of-newt)
+[![Eye Of Newt](https://via.placeholder.com/50/b33939/000000?text=+)](#eye-of-newt)
 
 #b33939
 
@@ -177,7 +177,7 @@ module FlatColors.SpanishPalette exposing
 
 # Chilean Fire
 
-[![Chilean Fire](https://placehold.it/50/cd6133/000000?text=+)](#chilean-fire)
+[![Chilean Fire](https://via.placeholder.com/50/cd6133/000000?text=+)](#chilean-fire)
 
 #cd6133
 
@@ -186,7 +186,7 @@ module FlatColors.SpanishPalette exposing
 
 # Grey Porcelain
 
-[![Grey Porcelain](https://placehold.it/50/84817a/000000?text=+)](#grey-porcelain)
+[![Grey Porcelain](https://via.placeholder.com/50/84817a/000000?text=+)](#grey-porcelain)
 
 #84817a
 
@@ -195,7 +195,7 @@ module FlatColors.SpanishPalette exposing
 
 # Alameda Ochre
 
-[![Alameda Ochre](https://placehold.it/50/cc8e35/000000?text=+)](#alameda-ochre)
+[![Alameda Ochre](https://via.placeholder.com/50/cc8e35/000000?text=+)](#alameda-ochre)
 
 #cc8e35
 
@@ -204,7 +204,7 @@ module FlatColors.SpanishPalette exposing
 
 # Desert
 
-[![Desert](https://placehold.it/50/ccae62/000000?text=+)](#desert)
+[![Desert](https://via.placeholder.com/50/ccae62/000000?text=+)](#desert)
 
 #ccae62
 
@@ -213,23 +213,23 @@ module FlatColors.SpanishPalette exposing
 
 # All Colors
 
-[![Jacksons Purple](https://placehold.it/50/40407a/000000?text=+)](#jacksons-purple)[![C64 Purple](https://placehold.it/50/706fd3/000000?text=+)](#c64-purple)[![Swan White](https://placehold.it/50/f7f1e3/000000?text=+)](#swan-white)[![Summer Sky](https://placehold.it/50/34ace0/000000?text=+)](#summer-sky)[![Celestial Green](https://placehold.it/50/33d9b2/000000?text=+)](#celestial-green)[![Fluorescent Red](https://placehold.it/50/ff5252/000000?text=+)](#fluorescent-red)[![Synthetic Pumpkin](https://placehold.it/50/ff793f/000000?text=+)](#synthetic-pumpkin)[![Crocodile Tooth](https://placehold.it/50/d1ccc0/000000?text=+)](#crocodile-tooth)[![Mandarin Sorbet](https://placehold.it/50/ffb142/000000?text=+)](#mandarin-sorbet)[![Spiced Butternut](https://placehold.it/50/ffda79/000000?text=+)](#spiced-butternut)
+[![Jacksons Purple](https://via.placeholder.com/50/40407a/000000?text=+)](#jacksons-purple)[![C64 Purple](https://via.placeholder.com/50/706fd3/000000?text=+)](#c64-purple)[![Swan White](https://via.placeholder.com/50/f7f1e3/000000?text=+)](#swan-white)[![Summer Sky](https://via.placeholder.com/50/34ace0/000000?text=+)](#summer-sky)[![Celestial Green](https://via.placeholder.com/50/33d9b2/000000?text=+)](#celestial-green)[![Fluorescent Red](https://via.placeholder.com/50/ff5252/000000?text=+)](#fluorescent-red)[![Synthetic Pumpkin](https://via.placeholder.com/50/ff793f/000000?text=+)](#synthetic-pumpkin)[![Crocodile Tooth](https://via.placeholder.com/50/d1ccc0/000000?text=+)](#crocodile-tooth)[![Mandarin Sorbet](https://via.placeholder.com/50/ffb142/000000?text=+)](#mandarin-sorbet)[![Spiced Butternut](https://via.placeholder.com/50/ffda79/000000?text=+)](#spiced-butternut)
 
-[![Lucky Point](https://placehold.it/50/2c2c54/000000?text=+)](#lucky-point)[![Liberty](https://placehold.it/50/474787/000000?text=+)](#liberty)[![Hot Stone](https://placehold.it/50/aaa69d/000000?text=+)](#hot-stone)[![Devil Blue](https://placehold.it/50/227093/000000?text=+)](#devil-blue)[![Palm Springs Splash](https://placehold.it/50/218c74/000000?text=+)](#palm-springs-splash)[![Eye Of Newt](https://placehold.it/50/b33939/000000?text=+)](#eye-of-newt)[![Chilean Fire](https://placehold.it/50/cd6133/000000?text=+)](#chilean-fire)[![Grey Porcelain](https://placehold.it/50/84817a/000000?text=+)](#grey-porcelain)[![Alameda Ochre](https://placehold.it/50/cc8e35/000000?text=+)](#alameda-ochre)[![Desert](https://placehold.it/50/ccae62/000000?text=+)](#desert)
+[![Lucky Point](https://via.placeholder.com/50/2c2c54/000000?text=+)](#lucky-point)[![Liberty](https://via.placeholder.com/50/474787/000000?text=+)](#liberty)[![Hot Stone](https://via.placeholder.com/50/aaa69d/000000?text=+)](#hot-stone)[![Devil Blue](https://via.placeholder.com/50/227093/000000?text=+)](#devil-blue)[![Palm Springs Splash](https://via.placeholder.com/50/218c74/000000?text=+)](#palm-springs-splash)[![Eye Of Newt](https://via.placeholder.com/50/b33939/000000?text=+)](#eye-of-newt)[![Chilean Fire](https://via.placeholder.com/50/cd6133/000000?text=+)](#chilean-fire)[![Grey Porcelain](https://via.placeholder.com/50/84817a/000000?text=+)](#grey-porcelain)[![Alameda Ochre](https://via.placeholder.com/50/cc8e35/000000?text=+)](#alameda-ochre)[![Desert](https://via.placeholder.com/50/ccae62/000000?text=+)](#desert)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Jacksons Purple](https://placehold.it/50/40407a/000000?text=+)](#jacksons-purple)[![C64 Purple](https://placehold.it/50/706fd3/000000?text=+)](#c64-purple)[![Swan White](https://placehold.it/50/f7f1e3/000000?text=+)](#swan-white)[![Summer Sky](https://placehold.it/50/34ace0/000000?text=+)](#summer-sky)[![Celestial Green](https://placehold.it/50/33d9b2/000000?text=+)](#celestial-green)[![Fluorescent Red](https://placehold.it/50/ff5252/000000?text=+)](#fluorescent-red)[![Synthetic Pumpkin](https://placehold.it/50/ff793f/000000?text=+)](#synthetic-pumpkin)[![Crocodile Tooth](https://placehold.it/50/d1ccc0/000000?text=+)](#crocodile-tooth)[![Mandarin Sorbet](https://placehold.it/50/ffb142/000000?text=+)](#mandarin-sorbet)[![Spiced Butternut](https://placehold.it/50/ffda79/000000?text=+)](#spiced-butternut)
+[![Jacksons Purple](https://via.placeholder.com/50/40407a/000000?text=+)](#jacksons-purple)[![C64 Purple](https://via.placeholder.com/50/706fd3/000000?text=+)](#c64-purple)[![Swan White](https://via.placeholder.com/50/f7f1e3/000000?text=+)](#swan-white)[![Summer Sky](https://via.placeholder.com/50/34ace0/000000?text=+)](#summer-sky)[![Celestial Green](https://via.placeholder.com/50/33d9b2/000000?text=+)](#celestial-green)[![Fluorescent Red](https://via.placeholder.com/50/ff5252/000000?text=+)](#fluorescent-red)[![Synthetic Pumpkin](https://via.placeholder.com/50/ff793f/000000?text=+)](#synthetic-pumpkin)[![Crocodile Tooth](https://via.placeholder.com/50/d1ccc0/000000?text=+)](#crocodile-tooth)[![Mandarin Sorbet](https://via.placeholder.com/50/ffb142/000000?text=+)](#mandarin-sorbet)[![Spiced Butternut](https://via.placeholder.com/50/ffda79/000000?text=+)](#spiced-butternut)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Lucky Point](https://placehold.it/50/2c2c54/000000?text=+)](#lucky-point)[![Liberty](https://placehold.it/50/474787/000000?text=+)](#liberty)[![Hot Stone](https://placehold.it/50/aaa69d/000000?text=+)](#hot-stone)[![Devil Blue](https://placehold.it/50/227093/000000?text=+)](#devil-blue)[![Palm Springs Splash](https://placehold.it/50/218c74/000000?text=+)](#palm-springs-splash)[![Eye Of Newt](https://placehold.it/50/b33939/000000?text=+)](#eye-of-newt)[![Chilean Fire](https://placehold.it/50/cd6133/000000?text=+)](#chilean-fire)[![Grey Porcelain](https://placehold.it/50/84817a/000000?text=+)](#grey-porcelain)[![Alameda Ochre](https://placehold.it/50/cc8e35/000000?text=+)](#alameda-ochre)[![Desert](https://placehold.it/50/ccae62/000000?text=+)](#desert)
+[![Lucky Point](https://via.placeholder.com/50/2c2c54/000000?text=+)](#lucky-point)[![Liberty](https://via.placeholder.com/50/474787/000000?text=+)](#liberty)[![Hot Stone](https://via.placeholder.com/50/aaa69d/000000?text=+)](#hot-stone)[![Devil Blue](https://via.placeholder.com/50/227093/000000?text=+)](#devil-blue)[![Palm Springs Splash](https://via.placeholder.com/50/218c74/000000?text=+)](#palm-springs-splash)[![Eye Of Newt](https://via.placeholder.com/50/b33939/000000?text=+)](#eye-of-newt)[![Chilean Fire](https://via.placeholder.com/50/cd6133/000000?text=+)](#chilean-fire)[![Grey Porcelain](https://via.placeholder.com/50/84817a/000000?text=+)](#grey-porcelain)[![Alameda Ochre](https://via.placeholder.com/50/cc8e35/000000?text=+)](#alameda-ochre)[![Desert](https://via.placeholder.com/50/ccae62/000000?text=+)](#desert)
 
 @docs allDark, allDarkHex, allDarkRgb
 

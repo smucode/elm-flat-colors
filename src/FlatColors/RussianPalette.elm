@@ -26,14 +26,14 @@ module FlatColors.RussianPalette exposing
 
 {-| Russian Palette by [Alexander Zaytsev](https://dribbble.com/anwaltzzz)
 
-[![Creamy Peach](https://placehold.it/50/f3a683/000000?text=+)](#creamy-peach)[![Rosy Highlight](https://placehold.it/50/f7d794/000000?text=+)](#rosy-highlight)[![Soft Blue](https://placehold.it/50/778beb/000000?text=+)](#soft-blue)[![Brewed Mustard](https://placehold.it/50/e77f67/000000?text=+)](#brewed-mustard)[![Old Geranium](https://placehold.it/50/cf6a87/000000?text=+)](#old-geranium)[![Purple Mountain Majesty](https://placehold.it/50/786fa6/000000?text=+)](#purple-mountain-majesty)[![Rogue Pink](https://placehold.it/50/f8a5c2/000000?text=+)](#rogue-pink)[![Squeaky](https://placehold.it/50/63cdda/000000?text=+)](#squeaky)[![Apple Valley](https://placehold.it/50/ea8685/000000?text=+)](#apple-valley)[![Pencil Lead](https://placehold.it/50/596275/000000?text=+)](#pencil-lead)
+[![Creamy Peach](https://via.placeholder.com/50/f3a683/000000?text=+)](#creamy-peach)[![Rosy Highlight](https://via.placeholder.com/50/f7d794/000000?text=+)](#rosy-highlight)[![Soft Blue](https://via.placeholder.com/50/778beb/000000?text=+)](#soft-blue)[![Brewed Mustard](https://via.placeholder.com/50/e77f67/000000?text=+)](#brewed-mustard)[![Old Geranium](https://via.placeholder.com/50/cf6a87/000000?text=+)](#old-geranium)[![Purple Mountain Majesty](https://via.placeholder.com/50/786fa6/000000?text=+)](#purple-mountain-majesty)[![Rogue Pink](https://via.placeholder.com/50/f8a5c2/000000?text=+)](#rogue-pink)[![Squeaky](https://via.placeholder.com/50/63cdda/000000?text=+)](#squeaky)[![Apple Valley](https://via.placeholder.com/50/ea8685/000000?text=+)](#apple-valley)[![Pencil Lead](https://via.placeholder.com/50/596275/000000?text=+)](#pencil-lead)
 
-[![Sawtooth Aak](https://placehold.it/50/f19066/000000?text=+)](#sawtooth-aak)[![Summertime](https://placehold.it/50/f5cd79/000000?text=+)](#summertime)[![Cornflower](https://placehold.it/50/546de5/000000?text=+)](#cornflower)[![Tigerlily](https://placehold.it/50/e15f41/000000?text=+)](#tigerlily)[![Deep Rose](https://placehold.it/50/c44569/000000?text=+)](#deep-rose)[![Purple Corallite](https://placehold.it/50/574b90/000000?text=+)](#purple-corallite)[![Flamingo Pink](https://placehold.it/50/f78fb3/000000?text=+)](#flamingo-pink)[![Blue Curacao](https://placehold.it/50/3dc1d3/000000?text=+)](#blue-curacao)[![Porcelain Rose](https://placehold.it/50/e66767/000000?text=+)](#porcelain-rose)[![Biscay](https://placehold.it/50/303952/000000?text=+)](#biscay)
+[![Sawtooth Aak](https://via.placeholder.com/50/f19066/000000?text=+)](#sawtooth-aak)[![Summertime](https://via.placeholder.com/50/f5cd79/000000?text=+)](#summertime)[![Cornflower](https://via.placeholder.com/50/546de5/000000?text=+)](#cornflower)[![Tigerlily](https://via.placeholder.com/50/e15f41/000000?text=+)](#tigerlily)[![Deep Rose](https://via.placeholder.com/50/c44569/000000?text=+)](#deep-rose)[![Purple Corallite](https://via.placeholder.com/50/574b90/000000?text=+)](#purple-corallite)[![Flamingo Pink](https://via.placeholder.com/50/f78fb3/000000?text=+)](#flamingo-pink)[![Blue Curacao](https://via.placeholder.com/50/3dc1d3/000000?text=+)](#blue-curacao)[![Porcelain Rose](https://via.placeholder.com/50/e66767/000000?text=+)](#porcelain-rose)[![Biscay](https://via.placeholder.com/50/303952/000000?text=+)](#biscay)
 
 
 # Creamy Peach
 
-[![Creamy Peach](https://placehold.it/50/f3a683/000000?text=+)](#creamy-peach)
+[![Creamy Peach](https://via.placeholder.com/50/f3a683/000000?text=+)](#creamy-peach)
 
 #f3a683
 
@@ -42,7 +42,7 @@ module FlatColors.RussianPalette exposing
 
 # Rosy Highlight
 
-[![Rosy Highlight](https://placehold.it/50/f7d794/000000?text=+)](#rosy-highlight)
+[![Rosy Highlight](https://via.placeholder.com/50/f7d794/000000?text=+)](#rosy-highlight)
 
 #f7d794
 
@@ -51,7 +51,7 @@ module FlatColors.RussianPalette exposing
 
 # Soft Blue
 
-[![Soft Blue](https://placehold.it/50/778beb/000000?text=+)](#soft-blue)
+[![Soft Blue](https://via.placeholder.com/50/778beb/000000?text=+)](#soft-blue)
 
 #778beb
 
@@ -60,7 +60,7 @@ module FlatColors.RussianPalette exposing
 
 # Brewed Mustard
 
-[![Brewed Mustard](https://placehold.it/50/e77f67/000000?text=+)](#brewed-mustard)
+[![Brewed Mustard](https://via.placeholder.com/50/e77f67/000000?text=+)](#brewed-mustard)
 
 #e77f67
 
@@ -69,7 +69,7 @@ module FlatColors.RussianPalette exposing
 
 # Old Geranium
 
-[![Old Geranium](https://placehold.it/50/cf6a87/000000?text=+)](#old-geranium)
+[![Old Geranium](https://via.placeholder.com/50/cf6a87/000000?text=+)](#old-geranium)
 
 #cf6a87
 
@@ -78,7 +78,7 @@ module FlatColors.RussianPalette exposing
 
 # Sawtooth Aak
 
-[![Sawtooth Aak](https://placehold.it/50/f19066/000000?text=+)](#sawtooth-aak)
+[![Sawtooth Aak](https://via.placeholder.com/50/f19066/000000?text=+)](#sawtooth-aak)
 
 #f19066
 
@@ -87,7 +87,7 @@ module FlatColors.RussianPalette exposing
 
 # Summertime
 
-[![Summertime](https://placehold.it/50/f5cd79/000000?text=+)](#summertime)
+[![Summertime](https://via.placeholder.com/50/f5cd79/000000?text=+)](#summertime)
 
 #f5cd79
 
@@ -96,7 +96,7 @@ module FlatColors.RussianPalette exposing
 
 # Cornflower
 
-[![Cornflower](https://placehold.it/50/546de5/000000?text=+)](#cornflower)
+[![Cornflower](https://via.placeholder.com/50/546de5/000000?text=+)](#cornflower)
 
 #546de5
 
@@ -105,7 +105,7 @@ module FlatColors.RussianPalette exposing
 
 # Tigerlily
 
-[![Tigerlily](https://placehold.it/50/e15f41/000000?text=+)](#tigerlily)
+[![Tigerlily](https://via.placeholder.com/50/e15f41/000000?text=+)](#tigerlily)
 
 #e15f41
 
@@ -114,7 +114,7 @@ module FlatColors.RussianPalette exposing
 
 # Deep Rose
 
-[![Deep Rose](https://placehold.it/50/c44569/000000?text=+)](#deep-rose)
+[![Deep Rose](https://via.placeholder.com/50/c44569/000000?text=+)](#deep-rose)
 
 #c44569
 
@@ -123,7 +123,7 @@ module FlatColors.RussianPalette exposing
 
 # Purple Mountain Majesty
 
-[![Purple Mountain Majesty](https://placehold.it/50/786fa6/000000?text=+)](#purple-mountain-majesty)
+[![Purple Mountain Majesty](https://via.placeholder.com/50/786fa6/000000?text=+)](#purple-mountain-majesty)
 
 #786fa6
 
@@ -132,7 +132,7 @@ module FlatColors.RussianPalette exposing
 
 # Rogue Pink
 
-[![Rogue Pink](https://placehold.it/50/f8a5c2/000000?text=+)](#rogue-pink)
+[![Rogue Pink](https://via.placeholder.com/50/f8a5c2/000000?text=+)](#rogue-pink)
 
 #f8a5c2
 
@@ -141,7 +141,7 @@ module FlatColors.RussianPalette exposing
 
 # Squeaky
 
-[![Squeaky](https://placehold.it/50/63cdda/000000?text=+)](#squeaky)
+[![Squeaky](https://via.placeholder.com/50/63cdda/000000?text=+)](#squeaky)
 
 #63cdda
 
@@ -150,7 +150,7 @@ module FlatColors.RussianPalette exposing
 
 # Apple Valley
 
-[![Apple Valley](https://placehold.it/50/ea8685/000000?text=+)](#apple-valley)
+[![Apple Valley](https://via.placeholder.com/50/ea8685/000000?text=+)](#apple-valley)
 
 #ea8685
 
@@ -159,7 +159,7 @@ module FlatColors.RussianPalette exposing
 
 # Pencil Lead
 
-[![Pencil Lead](https://placehold.it/50/596275/000000?text=+)](#pencil-lead)
+[![Pencil Lead](https://via.placeholder.com/50/596275/000000?text=+)](#pencil-lead)
 
 #596275
 
@@ -168,7 +168,7 @@ module FlatColors.RussianPalette exposing
 
 # Purple Corallite
 
-[![Purple Corallite](https://placehold.it/50/574b90/000000?text=+)](#purple-corallite)
+[![Purple Corallite](https://via.placeholder.com/50/574b90/000000?text=+)](#purple-corallite)
 
 #574b90
 
@@ -177,7 +177,7 @@ module FlatColors.RussianPalette exposing
 
 # Flamingo Pink
 
-[![Flamingo Pink](https://placehold.it/50/f78fb3/000000?text=+)](#flamingo-pink)
+[![Flamingo Pink](https://via.placeholder.com/50/f78fb3/000000?text=+)](#flamingo-pink)
 
 #f78fb3
 
@@ -186,7 +186,7 @@ module FlatColors.RussianPalette exposing
 
 # Blue Curacao
 
-[![Blue Curacao](https://placehold.it/50/3dc1d3/000000?text=+)](#blue-curacao)
+[![Blue Curacao](https://via.placeholder.com/50/3dc1d3/000000?text=+)](#blue-curacao)
 
 #3dc1d3
 
@@ -195,7 +195,7 @@ module FlatColors.RussianPalette exposing
 
 # Porcelain Rose
 
-[![Porcelain Rose](https://placehold.it/50/e66767/000000?text=+)](#porcelain-rose)
+[![Porcelain Rose](https://via.placeholder.com/50/e66767/000000?text=+)](#porcelain-rose)
 
 #e66767
 
@@ -204,7 +204,7 @@ module FlatColors.RussianPalette exposing
 
 # Biscay
 
-[![Biscay](https://placehold.it/50/303952/000000?text=+)](#biscay)
+[![Biscay](https://via.placeholder.com/50/303952/000000?text=+)](#biscay)
 
 #303952
 
@@ -213,23 +213,23 @@ module FlatColors.RussianPalette exposing
 
 # All Colors
 
-[![Creamy Peach](https://placehold.it/50/f3a683/000000?text=+)](#creamy-peach)[![Rosy Highlight](https://placehold.it/50/f7d794/000000?text=+)](#rosy-highlight)[![Soft Blue](https://placehold.it/50/778beb/000000?text=+)](#soft-blue)[![Brewed Mustard](https://placehold.it/50/e77f67/000000?text=+)](#brewed-mustard)[![Old Geranium](https://placehold.it/50/cf6a87/000000?text=+)](#old-geranium)[![Purple Mountain Majesty](https://placehold.it/50/786fa6/000000?text=+)](#purple-mountain-majesty)[![Rogue Pink](https://placehold.it/50/f8a5c2/000000?text=+)](#rogue-pink)[![Squeaky](https://placehold.it/50/63cdda/000000?text=+)](#squeaky)[![Apple Valley](https://placehold.it/50/ea8685/000000?text=+)](#apple-valley)[![Pencil Lead](https://placehold.it/50/596275/000000?text=+)](#pencil-lead)
+[![Creamy Peach](https://via.placeholder.com/50/f3a683/000000?text=+)](#creamy-peach)[![Rosy Highlight](https://via.placeholder.com/50/f7d794/000000?text=+)](#rosy-highlight)[![Soft Blue](https://via.placeholder.com/50/778beb/000000?text=+)](#soft-blue)[![Brewed Mustard](https://via.placeholder.com/50/e77f67/000000?text=+)](#brewed-mustard)[![Old Geranium](https://via.placeholder.com/50/cf6a87/000000?text=+)](#old-geranium)[![Purple Mountain Majesty](https://via.placeholder.com/50/786fa6/000000?text=+)](#purple-mountain-majesty)[![Rogue Pink](https://via.placeholder.com/50/f8a5c2/000000?text=+)](#rogue-pink)[![Squeaky](https://via.placeholder.com/50/63cdda/000000?text=+)](#squeaky)[![Apple Valley](https://via.placeholder.com/50/ea8685/000000?text=+)](#apple-valley)[![Pencil Lead](https://via.placeholder.com/50/596275/000000?text=+)](#pencil-lead)
 
-[![Sawtooth Aak](https://placehold.it/50/f19066/000000?text=+)](#sawtooth-aak)[![Summertime](https://placehold.it/50/f5cd79/000000?text=+)](#summertime)[![Cornflower](https://placehold.it/50/546de5/000000?text=+)](#cornflower)[![Tigerlily](https://placehold.it/50/e15f41/000000?text=+)](#tigerlily)[![Deep Rose](https://placehold.it/50/c44569/000000?text=+)](#deep-rose)[![Purple Corallite](https://placehold.it/50/574b90/000000?text=+)](#purple-corallite)[![Flamingo Pink](https://placehold.it/50/f78fb3/000000?text=+)](#flamingo-pink)[![Blue Curacao](https://placehold.it/50/3dc1d3/000000?text=+)](#blue-curacao)[![Porcelain Rose](https://placehold.it/50/e66767/000000?text=+)](#porcelain-rose)[![Biscay](https://placehold.it/50/303952/000000?text=+)](#biscay)
+[![Sawtooth Aak](https://via.placeholder.com/50/f19066/000000?text=+)](#sawtooth-aak)[![Summertime](https://via.placeholder.com/50/f5cd79/000000?text=+)](#summertime)[![Cornflower](https://via.placeholder.com/50/546de5/000000?text=+)](#cornflower)[![Tigerlily](https://via.placeholder.com/50/e15f41/000000?text=+)](#tigerlily)[![Deep Rose](https://via.placeholder.com/50/c44569/000000?text=+)](#deep-rose)[![Purple Corallite](https://via.placeholder.com/50/574b90/000000?text=+)](#purple-corallite)[![Flamingo Pink](https://via.placeholder.com/50/f78fb3/000000?text=+)](#flamingo-pink)[![Blue Curacao](https://via.placeholder.com/50/3dc1d3/000000?text=+)](#blue-curacao)[![Porcelain Rose](https://via.placeholder.com/50/e66767/000000?text=+)](#porcelain-rose)[![Biscay](https://via.placeholder.com/50/303952/000000?text=+)](#biscay)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Creamy Peach](https://placehold.it/50/f3a683/000000?text=+)](#creamy-peach)[![Rosy Highlight](https://placehold.it/50/f7d794/000000?text=+)](#rosy-highlight)[![Soft Blue](https://placehold.it/50/778beb/000000?text=+)](#soft-blue)[![Brewed Mustard](https://placehold.it/50/e77f67/000000?text=+)](#brewed-mustard)[![Old Geranium](https://placehold.it/50/cf6a87/000000?text=+)](#old-geranium)[![Purple Mountain Majesty](https://placehold.it/50/786fa6/000000?text=+)](#purple-mountain-majesty)[![Rogue Pink](https://placehold.it/50/f8a5c2/000000?text=+)](#rogue-pink)[![Squeaky](https://placehold.it/50/63cdda/000000?text=+)](#squeaky)[![Apple Valley](https://placehold.it/50/ea8685/000000?text=+)](#apple-valley)[![Pencil Lead](https://placehold.it/50/596275/000000?text=+)](#pencil-lead)
+[![Creamy Peach](https://via.placeholder.com/50/f3a683/000000?text=+)](#creamy-peach)[![Rosy Highlight](https://via.placeholder.com/50/f7d794/000000?text=+)](#rosy-highlight)[![Soft Blue](https://via.placeholder.com/50/778beb/000000?text=+)](#soft-blue)[![Brewed Mustard](https://via.placeholder.com/50/e77f67/000000?text=+)](#brewed-mustard)[![Old Geranium](https://via.placeholder.com/50/cf6a87/000000?text=+)](#old-geranium)[![Purple Mountain Majesty](https://via.placeholder.com/50/786fa6/000000?text=+)](#purple-mountain-majesty)[![Rogue Pink](https://via.placeholder.com/50/f8a5c2/000000?text=+)](#rogue-pink)[![Squeaky](https://via.placeholder.com/50/63cdda/000000?text=+)](#squeaky)[![Apple Valley](https://via.placeholder.com/50/ea8685/000000?text=+)](#apple-valley)[![Pencil Lead](https://via.placeholder.com/50/596275/000000?text=+)](#pencil-lead)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Sawtooth Aak](https://placehold.it/50/f19066/000000?text=+)](#sawtooth-aak)[![Summertime](https://placehold.it/50/f5cd79/000000?text=+)](#summertime)[![Cornflower](https://placehold.it/50/546de5/000000?text=+)](#cornflower)[![Tigerlily](https://placehold.it/50/e15f41/000000?text=+)](#tigerlily)[![Deep Rose](https://placehold.it/50/c44569/000000?text=+)](#deep-rose)[![Purple Corallite](https://placehold.it/50/574b90/000000?text=+)](#purple-corallite)[![Flamingo Pink](https://placehold.it/50/f78fb3/000000?text=+)](#flamingo-pink)[![Blue Curacao](https://placehold.it/50/3dc1d3/000000?text=+)](#blue-curacao)[![Porcelain Rose](https://placehold.it/50/e66767/000000?text=+)](#porcelain-rose)[![Biscay](https://placehold.it/50/303952/000000?text=+)](#biscay)
+[![Sawtooth Aak](https://via.placeholder.com/50/f19066/000000?text=+)](#sawtooth-aak)[![Summertime](https://via.placeholder.com/50/f5cd79/000000?text=+)](#summertime)[![Cornflower](https://via.placeholder.com/50/546de5/000000?text=+)](#cornflower)[![Tigerlily](https://via.placeholder.com/50/e15f41/000000?text=+)](#tigerlily)[![Deep Rose](https://via.placeholder.com/50/c44569/000000?text=+)](#deep-rose)[![Purple Corallite](https://via.placeholder.com/50/574b90/000000?text=+)](#purple-corallite)[![Flamingo Pink](https://via.placeholder.com/50/f78fb3/000000?text=+)](#flamingo-pink)[![Blue Curacao](https://via.placeholder.com/50/3dc1d3/000000?text=+)](#blue-curacao)[![Porcelain Rose](https://via.placeholder.com/50/e66767/000000?text=+)](#porcelain-rose)[![Biscay](https://via.placeholder.com/50/303952/000000?text=+)](#biscay)
 
 @docs allDark, allDarkHex, allDarkRgb
 

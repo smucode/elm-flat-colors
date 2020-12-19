@@ -26,14 +26,14 @@ module FlatColors.IndianPalette exposing
 
 {-| Indian Palette by [Ranganath Krishnamani](https://dribbble.com/rkrishnamani)
 
-[![Orchid Orange](https://placehold.it/50/FEA47F/000000?text=+)](#orchid-orange)[![Spiro Disco Ball](https://placehold.it/50/25CCF7/000000?text=+)](#spiro-disco-ball)[![Honey Glow](https://placehold.it/50/EAB543/000000?text=+)](#honey-glow)[![Sweet Garden](https://placehold.it/50/55E6C1/000000?text=+)](#sweet-garden)[![Falling Star](https://placehold.it/50/CAD3C8/000000?text=+)](#falling-star)[![Fiery Fuchsia](https://placehold.it/50/B33771/000000?text=+)](#fiery-fuchsia)[![Bluebell](https://placehold.it/50/3B3B98/000000?text=+)](#bluebell)[![Georgia Peach](https://placehold.it/50/FD7272/000000?text=+)](#georgia-peach)[![Oasis Stream](https://placehold.it/50/9AECDB/000000?text=+)](#oasis-stream)[![Bright Ube](https://placehold.it/50/D6A2E8/000000?text=+)](#bright-ube)
+[![Orchid Orange](https://via.placeholder.com/50/FEA47F/000000?text=+)](#orchid-orange)[![Spiro Disco Ball](https://via.placeholder.com/50/25CCF7/000000?text=+)](#spiro-disco-ball)[![Honey Glow](https://via.placeholder.com/50/EAB543/000000?text=+)](#honey-glow)[![Sweet Garden](https://via.placeholder.com/50/55E6C1/000000?text=+)](#sweet-garden)[![Falling Star](https://via.placeholder.com/50/CAD3C8/000000?text=+)](#falling-star)[![Fiery Fuchsia](https://via.placeholder.com/50/B33771/000000?text=+)](#fiery-fuchsia)[![Bluebell](https://via.placeholder.com/50/3B3B98/000000?text=+)](#bluebell)[![Georgia Peach](https://via.placeholder.com/50/FD7272/000000?text=+)](#georgia-peach)[![Oasis Stream](https://via.placeholder.com/50/9AECDB/000000?text=+)](#oasis-stream)[![Bright Ube](https://via.placeholder.com/50/D6A2E8/000000?text=+)](#bright-ube)
 
-[![Rich Gardenia](https://placehold.it/50/F97F51/000000?text=+)](#rich-gardenia)[![Clear Chill](https://placehold.it/50/1B9CFC/000000?text=+)](#clear-chill)[![Sarawak White Pepper](https://placehold.it/50/F8EFBA/000000?text=+)](#sarawak-white-pepper)[![Keppel](https://placehold.it/50/58B19F/000000?text=+)](#keppel)[![Ship's Officer](https://placehold.it/50/2C3A47/000000?text=+)](#ships-officer)[![Magenta Purple](https://placehold.it/50/6D214F/000000?text=+)](#magenta-purple)[![Ending Navy Blue](https://placehold.it/50/182C61/000000?text=+)](#ending-navy-blue)[![Sasquatch Socks](https://placehold.it/50/FC427B/000000?text=+)](#sasquatch-socks)[![Pine Glade](https://placehold.it/50/BDC581/000000?text=+)](#pine-glade)[![Highlighter Lavender](https://placehold.it/50/82589F/000000?text=+)](#highlighter-lavender)
+[![Rich Gardenia](https://via.placeholder.com/50/F97F51/000000?text=+)](#rich-gardenia)[![Clear Chill](https://via.placeholder.com/50/1B9CFC/000000?text=+)](#clear-chill)[![Sarawak White Pepper](https://via.placeholder.com/50/F8EFBA/000000?text=+)](#sarawak-white-pepper)[![Keppel](https://via.placeholder.com/50/58B19F/000000?text=+)](#keppel)[![Ship's Officer](https://via.placeholder.com/50/2C3A47/000000?text=+)](#ships-officer)[![Magenta Purple](https://via.placeholder.com/50/6D214F/000000?text=+)](#magenta-purple)[![Ending Navy Blue](https://via.placeholder.com/50/182C61/000000?text=+)](#ending-navy-blue)[![Sasquatch Socks](https://via.placeholder.com/50/FC427B/000000?text=+)](#sasquatch-socks)[![Pine Glade](https://via.placeholder.com/50/BDC581/000000?text=+)](#pine-glade)[![Highlighter Lavender](https://via.placeholder.com/50/82589F/000000?text=+)](#highlighter-lavender)
 
 
 # Orchid Orange
 
-[![Orchid Orange](https://placehold.it/50/FEA47F/000000?text=+)](#orchid-orange)
+[![Orchid Orange](https://via.placeholder.com/50/FEA47F/000000?text=+)](#orchid-orange)
 
 #FEA47F
 
@@ -42,7 +42,7 @@ module FlatColors.IndianPalette exposing
 
 # Spiro Disco Ball
 
-[![Spiro Disco Ball](https://placehold.it/50/25CCF7/000000?text=+)](#spiro-disco-ball)
+[![Spiro Disco Ball](https://via.placeholder.com/50/25CCF7/000000?text=+)](#spiro-disco-ball)
 
 #25CCF7
 
@@ -51,7 +51,7 @@ module FlatColors.IndianPalette exposing
 
 # Honey Glow
 
-[![Honey Glow](https://placehold.it/50/EAB543/000000?text=+)](#honey-glow)
+[![Honey Glow](https://via.placeholder.com/50/EAB543/000000?text=+)](#honey-glow)
 
 #EAB543
 
@@ -60,7 +60,7 @@ module FlatColors.IndianPalette exposing
 
 # Sweet Garden
 
-[![Sweet Garden](https://placehold.it/50/55E6C1/000000?text=+)](#sweet-garden)
+[![Sweet Garden](https://via.placeholder.com/50/55E6C1/000000?text=+)](#sweet-garden)
 
 #55E6C1
 
@@ -69,7 +69,7 @@ module FlatColors.IndianPalette exposing
 
 # Falling Star
 
-[![Falling Star](https://placehold.it/50/CAD3C8/000000?text=+)](#falling-star)
+[![Falling Star](https://via.placeholder.com/50/CAD3C8/000000?text=+)](#falling-star)
 
 #CAD3C8
 
@@ -78,7 +78,7 @@ module FlatColors.IndianPalette exposing
 
 # Rich Gardenia
 
-[![Rich Gardenia](https://placehold.it/50/F97F51/000000?text=+)](#rich-gardenia)
+[![Rich Gardenia](https://via.placeholder.com/50/F97F51/000000?text=+)](#rich-gardenia)
 
 #F97F51
 
@@ -87,7 +87,7 @@ module FlatColors.IndianPalette exposing
 
 # Clear Chill
 
-[![Clear Chill](https://placehold.it/50/1B9CFC/000000?text=+)](#clear-chill)
+[![Clear Chill](https://via.placeholder.com/50/1B9CFC/000000?text=+)](#clear-chill)
 
 #1B9CFC
 
@@ -96,7 +96,7 @@ module FlatColors.IndianPalette exposing
 
 # Sarawak White Pepper
 
-[![Sarawak White Pepper](https://placehold.it/50/F8EFBA/000000?text=+)](#sarawak-white-pepper)
+[![Sarawak White Pepper](https://via.placeholder.com/50/F8EFBA/000000?text=+)](#sarawak-white-pepper)
 
 #F8EFBA
 
@@ -105,7 +105,7 @@ module FlatColors.IndianPalette exposing
 
 # Keppel
 
-[![Keppel](https://placehold.it/50/58B19F/000000?text=+)](#keppel)
+[![Keppel](https://via.placeholder.com/50/58B19F/000000?text=+)](#keppel)
 
 #58B19F
 
@@ -114,7 +114,7 @@ module FlatColors.IndianPalette exposing
 
 # Ship's Officer
 
-[![Ship's Officer](https://placehold.it/50/2C3A47/000000?text=+)](#ships-officer)
+[![Ship's Officer](https://via.placeholder.com/50/2C3A47/000000?text=+)](#ships-officer)
 
 #2C3A47
 
@@ -123,7 +123,7 @@ module FlatColors.IndianPalette exposing
 
 # Fiery Fuchsia
 
-[![Fiery Fuchsia](https://placehold.it/50/B33771/000000?text=+)](#fiery-fuchsia)
+[![Fiery Fuchsia](https://via.placeholder.com/50/B33771/000000?text=+)](#fiery-fuchsia)
 
 #B33771
 
@@ -132,7 +132,7 @@ module FlatColors.IndianPalette exposing
 
 # Bluebell
 
-[![Bluebell](https://placehold.it/50/3B3B98/000000?text=+)](#bluebell)
+[![Bluebell](https://via.placeholder.com/50/3B3B98/000000?text=+)](#bluebell)
 
 #3B3B98
 
@@ -141,7 +141,7 @@ module FlatColors.IndianPalette exposing
 
 # Georgia Peach
 
-[![Georgia Peach](https://placehold.it/50/FD7272/000000?text=+)](#georgia-peach)
+[![Georgia Peach](https://via.placeholder.com/50/FD7272/000000?text=+)](#georgia-peach)
 
 #FD7272
 
@@ -150,7 +150,7 @@ module FlatColors.IndianPalette exposing
 
 # Oasis Stream
 
-[![Oasis Stream](https://placehold.it/50/9AECDB/000000?text=+)](#oasis-stream)
+[![Oasis Stream](https://via.placeholder.com/50/9AECDB/000000?text=+)](#oasis-stream)
 
 #9AECDB
 
@@ -159,7 +159,7 @@ module FlatColors.IndianPalette exposing
 
 # Bright Ube
 
-[![Bright Ube](https://placehold.it/50/D6A2E8/000000?text=+)](#bright-ube)
+[![Bright Ube](https://via.placeholder.com/50/D6A2E8/000000?text=+)](#bright-ube)
 
 #D6A2E8
 
@@ -168,7 +168,7 @@ module FlatColors.IndianPalette exposing
 
 # Magenta Purple
 
-[![Magenta Purple](https://placehold.it/50/6D214F/000000?text=+)](#magenta-purple)
+[![Magenta Purple](https://via.placeholder.com/50/6D214F/000000?text=+)](#magenta-purple)
 
 #6D214F
 
@@ -177,7 +177,7 @@ module FlatColors.IndianPalette exposing
 
 # Ending Navy Blue
 
-[![Ending Navy Blue](https://placehold.it/50/182C61/000000?text=+)](#ending-navy-blue)
+[![Ending Navy Blue](https://via.placeholder.com/50/182C61/000000?text=+)](#ending-navy-blue)
 
 #182C61
 
@@ -186,7 +186,7 @@ module FlatColors.IndianPalette exposing
 
 # Sasquatch Socks
 
-[![Sasquatch Socks](https://placehold.it/50/FC427B/000000?text=+)](#sasquatch-socks)
+[![Sasquatch Socks](https://via.placeholder.com/50/FC427B/000000?text=+)](#sasquatch-socks)
 
 #FC427B
 
@@ -195,7 +195,7 @@ module FlatColors.IndianPalette exposing
 
 # Pine Glade
 
-[![Pine Glade](https://placehold.it/50/BDC581/000000?text=+)](#pine-glade)
+[![Pine Glade](https://via.placeholder.com/50/BDC581/000000?text=+)](#pine-glade)
 
 #BDC581
 
@@ -204,7 +204,7 @@ module FlatColors.IndianPalette exposing
 
 # Highlighter Lavender
 
-[![Highlighter Lavender](https://placehold.it/50/82589F/000000?text=+)](#highlighter-lavender)
+[![Highlighter Lavender](https://via.placeholder.com/50/82589F/000000?text=+)](#highlighter-lavender)
 
 #82589F
 
@@ -213,23 +213,23 @@ module FlatColors.IndianPalette exposing
 
 # All Colors
 
-[![Orchid Orange](https://placehold.it/50/FEA47F/000000?text=+)](#orchid-orange)[![Spiro Disco Ball](https://placehold.it/50/25CCF7/000000?text=+)](#spiro-disco-ball)[![Honey Glow](https://placehold.it/50/EAB543/000000?text=+)](#honey-glow)[![Sweet Garden](https://placehold.it/50/55E6C1/000000?text=+)](#sweet-garden)[![Falling Star](https://placehold.it/50/CAD3C8/000000?text=+)](#falling-star)[![Fiery Fuchsia](https://placehold.it/50/B33771/000000?text=+)](#fiery-fuchsia)[![Bluebell](https://placehold.it/50/3B3B98/000000?text=+)](#bluebell)[![Georgia Peach](https://placehold.it/50/FD7272/000000?text=+)](#georgia-peach)[![Oasis Stream](https://placehold.it/50/9AECDB/000000?text=+)](#oasis-stream)[![Bright Ube](https://placehold.it/50/D6A2E8/000000?text=+)](#bright-ube)
+[![Orchid Orange](https://via.placeholder.com/50/FEA47F/000000?text=+)](#orchid-orange)[![Spiro Disco Ball](https://via.placeholder.com/50/25CCF7/000000?text=+)](#spiro-disco-ball)[![Honey Glow](https://via.placeholder.com/50/EAB543/000000?text=+)](#honey-glow)[![Sweet Garden](https://via.placeholder.com/50/55E6C1/000000?text=+)](#sweet-garden)[![Falling Star](https://via.placeholder.com/50/CAD3C8/000000?text=+)](#falling-star)[![Fiery Fuchsia](https://via.placeholder.com/50/B33771/000000?text=+)](#fiery-fuchsia)[![Bluebell](https://via.placeholder.com/50/3B3B98/000000?text=+)](#bluebell)[![Georgia Peach](https://via.placeholder.com/50/FD7272/000000?text=+)](#georgia-peach)[![Oasis Stream](https://via.placeholder.com/50/9AECDB/000000?text=+)](#oasis-stream)[![Bright Ube](https://via.placeholder.com/50/D6A2E8/000000?text=+)](#bright-ube)
 
-[![Rich Gardenia](https://placehold.it/50/F97F51/000000?text=+)](#rich-gardenia)[![Clear Chill](https://placehold.it/50/1B9CFC/000000?text=+)](#clear-chill)[![Sarawak White Pepper](https://placehold.it/50/F8EFBA/000000?text=+)](#sarawak-white-pepper)[![Keppel](https://placehold.it/50/58B19F/000000?text=+)](#keppel)[![Ship's Officer](https://placehold.it/50/2C3A47/000000?text=+)](#ships-officer)[![Magenta Purple](https://placehold.it/50/6D214F/000000?text=+)](#magenta-purple)[![Ending Navy Blue](https://placehold.it/50/182C61/000000?text=+)](#ending-navy-blue)[![Sasquatch Socks](https://placehold.it/50/FC427B/000000?text=+)](#sasquatch-socks)[![Pine Glade](https://placehold.it/50/BDC581/000000?text=+)](#pine-glade)[![Highlighter Lavender](https://placehold.it/50/82589F/000000?text=+)](#highlighter-lavender)
+[![Rich Gardenia](https://via.placeholder.com/50/F97F51/000000?text=+)](#rich-gardenia)[![Clear Chill](https://via.placeholder.com/50/1B9CFC/000000?text=+)](#clear-chill)[![Sarawak White Pepper](https://via.placeholder.com/50/F8EFBA/000000?text=+)](#sarawak-white-pepper)[![Keppel](https://via.placeholder.com/50/58B19F/000000?text=+)](#keppel)[![Ship's Officer](https://via.placeholder.com/50/2C3A47/000000?text=+)](#ships-officer)[![Magenta Purple](https://via.placeholder.com/50/6D214F/000000?text=+)](#magenta-purple)[![Ending Navy Blue](https://via.placeholder.com/50/182C61/000000?text=+)](#ending-navy-blue)[![Sasquatch Socks](https://via.placeholder.com/50/FC427B/000000?text=+)](#sasquatch-socks)[![Pine Glade](https://via.placeholder.com/50/BDC581/000000?text=+)](#pine-glade)[![Highlighter Lavender](https://via.placeholder.com/50/82589F/000000?text=+)](#highlighter-lavender)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Orchid Orange](https://placehold.it/50/FEA47F/000000?text=+)](#orchid-orange)[![Spiro Disco Ball](https://placehold.it/50/25CCF7/000000?text=+)](#spiro-disco-ball)[![Honey Glow](https://placehold.it/50/EAB543/000000?text=+)](#honey-glow)[![Sweet Garden](https://placehold.it/50/55E6C1/000000?text=+)](#sweet-garden)[![Falling Star](https://placehold.it/50/CAD3C8/000000?text=+)](#falling-star)[![Fiery Fuchsia](https://placehold.it/50/B33771/000000?text=+)](#fiery-fuchsia)[![Bluebell](https://placehold.it/50/3B3B98/000000?text=+)](#bluebell)[![Georgia Peach](https://placehold.it/50/FD7272/000000?text=+)](#georgia-peach)[![Oasis Stream](https://placehold.it/50/9AECDB/000000?text=+)](#oasis-stream)[![Bright Ube](https://placehold.it/50/D6A2E8/000000?text=+)](#bright-ube)
+[![Orchid Orange](https://via.placeholder.com/50/FEA47F/000000?text=+)](#orchid-orange)[![Spiro Disco Ball](https://via.placeholder.com/50/25CCF7/000000?text=+)](#spiro-disco-ball)[![Honey Glow](https://via.placeholder.com/50/EAB543/000000?text=+)](#honey-glow)[![Sweet Garden](https://via.placeholder.com/50/55E6C1/000000?text=+)](#sweet-garden)[![Falling Star](https://via.placeholder.com/50/CAD3C8/000000?text=+)](#falling-star)[![Fiery Fuchsia](https://via.placeholder.com/50/B33771/000000?text=+)](#fiery-fuchsia)[![Bluebell](https://via.placeholder.com/50/3B3B98/000000?text=+)](#bluebell)[![Georgia Peach](https://via.placeholder.com/50/FD7272/000000?text=+)](#georgia-peach)[![Oasis Stream](https://via.placeholder.com/50/9AECDB/000000?text=+)](#oasis-stream)[![Bright Ube](https://via.placeholder.com/50/D6A2E8/000000?text=+)](#bright-ube)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Rich Gardenia](https://placehold.it/50/F97F51/000000?text=+)](#rich-gardenia)[![Clear Chill](https://placehold.it/50/1B9CFC/000000?text=+)](#clear-chill)[![Sarawak White Pepper](https://placehold.it/50/F8EFBA/000000?text=+)](#sarawak-white-pepper)[![Keppel](https://placehold.it/50/58B19F/000000?text=+)](#keppel)[![Ship's Officer](https://placehold.it/50/2C3A47/000000?text=+)](#ships-officer)[![Magenta Purple](https://placehold.it/50/6D214F/000000?text=+)](#magenta-purple)[![Ending Navy Blue](https://placehold.it/50/182C61/000000?text=+)](#ending-navy-blue)[![Sasquatch Socks](https://placehold.it/50/FC427B/000000?text=+)](#sasquatch-socks)[![Pine Glade](https://placehold.it/50/BDC581/000000?text=+)](#pine-glade)[![Highlighter Lavender](https://placehold.it/50/82589F/000000?text=+)](#highlighter-lavender)
+[![Rich Gardenia](https://via.placeholder.com/50/F97F51/000000?text=+)](#rich-gardenia)[![Clear Chill](https://via.placeholder.com/50/1B9CFC/000000?text=+)](#clear-chill)[![Sarawak White Pepper](https://via.placeholder.com/50/F8EFBA/000000?text=+)](#sarawak-white-pepper)[![Keppel](https://via.placeholder.com/50/58B19F/000000?text=+)](#keppel)[![Ship's Officer](https://via.placeholder.com/50/2C3A47/000000?text=+)](#ships-officer)[![Magenta Purple](https://via.placeholder.com/50/6D214F/000000?text=+)](#magenta-purple)[![Ending Navy Blue](https://via.placeholder.com/50/182C61/000000?text=+)](#ending-navy-blue)[![Sasquatch Socks](https://via.placeholder.com/50/FC427B/000000?text=+)](#sasquatch-socks)[![Pine Glade](https://via.placeholder.com/50/BDC581/000000?text=+)](#pine-glade)[![Highlighter Lavender](https://via.placeholder.com/50/82589F/000000?text=+)](#highlighter-lavender)
 
 @docs allDark, allDarkHex, allDarkRgb
 

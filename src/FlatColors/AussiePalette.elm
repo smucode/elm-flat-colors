@@ -26,14 +26,14 @@ module FlatColors.AussiePalette exposing
 
 {-| Aussie Palette by [Kate Hoolahan](https://dribbble.com/hoolah)
 
-[![Beekeeper](https://placehold.it/50/f6e58d/000000?text=+)](#beekeeper)[![Spiced Nectarine](https://placehold.it/50/ffbe76/000000?text=+)](#spiced-nectarine)[![Pink Glamour](https://placehold.it/50/ff7979/000000?text=+)](#pink-glamour)[![June Bud](https://placehold.it/50/badc58/000000?text=+)](#june-bud)[![Coastal Breeze](https://placehold.it/50/dff9fb/000000?text=+)](#coastal-breeze)[![Middle Blue](https://placehold.it/50/7ed6df/000000?text=+)](#middle-blue)[![Heliotrope](https://placehold.it/50/e056fd/000000?text=+)](#heliotrope)[![Exodus Fruit](https://placehold.it/50/686de0/000000?text=+)](#exodus-fruit)[![Deep Koamaru](https://placehold.it/50/30336b/000000?text=+)](#deep-koamaru)[![Soaring Eagle](https://placehold.it/50/95afc0/000000?text=+)](#soaring-eagle)
+[![Beekeeper](https://via.placeholder.com/50/f6e58d/000000?text=+)](#beekeeper)[![Spiced Nectarine](https://via.placeholder.com/50/ffbe76/000000?text=+)](#spiced-nectarine)[![Pink Glamour](https://via.placeholder.com/50/ff7979/000000?text=+)](#pink-glamour)[![June Bud](https://via.placeholder.com/50/badc58/000000?text=+)](#june-bud)[![Coastal Breeze](https://via.placeholder.com/50/dff9fb/000000?text=+)](#coastal-breeze)[![Middle Blue](https://via.placeholder.com/50/7ed6df/000000?text=+)](#middle-blue)[![Heliotrope](https://via.placeholder.com/50/e056fd/000000?text=+)](#heliotrope)[![Exodus Fruit](https://via.placeholder.com/50/686de0/000000?text=+)](#exodus-fruit)[![Deep Koamaru](https://via.placeholder.com/50/30336b/000000?text=+)](#deep-koamaru)[![Soaring Eagle](https://via.placeholder.com/50/95afc0/000000?text=+)](#soaring-eagle)
 
-[![Turbo](https://placehold.it/50/f9ca24/000000?text=+)](#turbo)[![Quince Jelly](https://placehold.it/50/f0932b/000000?text=+)](#quince-jelly)[![Carmine Pink](https://placehold.it/50/eb4d4b/000000?text=+)](#carmine-pink)[![Pure Apple](https://placehold.it/50/6ab04c/000000?text=+)](#pure-apple)[![Hint Of Ice Pack](https://placehold.it/50/c7ecee/000000?text=+)](#hint-of-ice-pack)[![Greenland Green](https://placehold.it/50/22a6b3/000000?text=+)](#greenland-green)[![Steel Pink](https://placehold.it/50/be2edd/000000?text=+)](#steel-pink)[![Blurple](https://placehold.it/50/4834d4/000000?text=+)](#blurple)[![Deep Cove](https://placehold.it/50/130f40/000000?text=+)](#deep-cove)[![Wizard Grey](https://placehold.it/50/535c68/000000?text=+)](#wizard-grey)
+[![Turbo](https://via.placeholder.com/50/f9ca24/000000?text=+)](#turbo)[![Quince Jelly](https://via.placeholder.com/50/f0932b/000000?text=+)](#quince-jelly)[![Carmine Pink](https://via.placeholder.com/50/eb4d4b/000000?text=+)](#carmine-pink)[![Pure Apple](https://via.placeholder.com/50/6ab04c/000000?text=+)](#pure-apple)[![Hint Of Ice Pack](https://via.placeholder.com/50/c7ecee/000000?text=+)](#hint-of-ice-pack)[![Greenland Green](https://via.placeholder.com/50/22a6b3/000000?text=+)](#greenland-green)[![Steel Pink](https://via.placeholder.com/50/be2edd/000000?text=+)](#steel-pink)[![Blurple](https://via.placeholder.com/50/4834d4/000000?text=+)](#blurple)[![Deep Cove](https://via.placeholder.com/50/130f40/000000?text=+)](#deep-cove)[![Wizard Grey](https://via.placeholder.com/50/535c68/000000?text=+)](#wizard-grey)
 
 
 # Beekeeper
 
-[![Beekeeper](https://placehold.it/50/f6e58d/000000?text=+)](#beekeeper)
+[![Beekeeper](https://via.placeholder.com/50/f6e58d/000000?text=+)](#beekeeper)
 
 #f6e58d
 
@@ -42,7 +42,7 @@ module FlatColors.AussiePalette exposing
 
 # Spiced Nectarine
 
-[![Spiced Nectarine](https://placehold.it/50/ffbe76/000000?text=+)](#spiced-nectarine)
+[![Spiced Nectarine](https://via.placeholder.com/50/ffbe76/000000?text=+)](#spiced-nectarine)
 
 #ffbe76
 
@@ -51,7 +51,7 @@ module FlatColors.AussiePalette exposing
 
 # Pink Glamour
 
-[![Pink Glamour](https://placehold.it/50/ff7979/000000?text=+)](#pink-glamour)
+[![Pink Glamour](https://via.placeholder.com/50/ff7979/000000?text=+)](#pink-glamour)
 
 #ff7979
 
@@ -60,7 +60,7 @@ module FlatColors.AussiePalette exposing
 
 # June Bud
 
-[![June Bud](https://placehold.it/50/badc58/000000?text=+)](#june-bud)
+[![June Bud](https://via.placeholder.com/50/badc58/000000?text=+)](#june-bud)
 
 #badc58
 
@@ -69,7 +69,7 @@ module FlatColors.AussiePalette exposing
 
 # Coastal Breeze
 
-[![Coastal Breeze](https://placehold.it/50/dff9fb/000000?text=+)](#coastal-breeze)
+[![Coastal Breeze](https://via.placeholder.com/50/dff9fb/000000?text=+)](#coastal-breeze)
 
 #dff9fb
 
@@ -78,7 +78,7 @@ module FlatColors.AussiePalette exposing
 
 # Turbo
 
-[![Turbo](https://placehold.it/50/f9ca24/000000?text=+)](#turbo)
+[![Turbo](https://via.placeholder.com/50/f9ca24/000000?text=+)](#turbo)
 
 #f9ca24
 
@@ -87,7 +87,7 @@ module FlatColors.AussiePalette exposing
 
 # Quince Jelly
 
-[![Quince Jelly](https://placehold.it/50/f0932b/000000?text=+)](#quince-jelly)
+[![Quince Jelly](https://via.placeholder.com/50/f0932b/000000?text=+)](#quince-jelly)
 
 #f0932b
 
@@ -96,7 +96,7 @@ module FlatColors.AussiePalette exposing
 
 # Carmine Pink
 
-[![Carmine Pink](https://placehold.it/50/eb4d4b/000000?text=+)](#carmine-pink)
+[![Carmine Pink](https://via.placeholder.com/50/eb4d4b/000000?text=+)](#carmine-pink)
 
 #eb4d4b
 
@@ -105,7 +105,7 @@ module FlatColors.AussiePalette exposing
 
 # Pure Apple
 
-[![Pure Apple](https://placehold.it/50/6ab04c/000000?text=+)](#pure-apple)
+[![Pure Apple](https://via.placeholder.com/50/6ab04c/000000?text=+)](#pure-apple)
 
 #6ab04c
 
@@ -114,7 +114,7 @@ module FlatColors.AussiePalette exposing
 
 # Hint Of Ice Pack
 
-[![Hint Of Ice Pack](https://placehold.it/50/c7ecee/000000?text=+)](#hint-of-ice-pack)
+[![Hint Of Ice Pack](https://via.placeholder.com/50/c7ecee/000000?text=+)](#hint-of-ice-pack)
 
 #c7ecee
 
@@ -123,7 +123,7 @@ module FlatColors.AussiePalette exposing
 
 # Middle Blue
 
-[![Middle Blue](https://placehold.it/50/7ed6df/000000?text=+)](#middle-blue)
+[![Middle Blue](https://via.placeholder.com/50/7ed6df/000000?text=+)](#middle-blue)
 
 #7ed6df
 
@@ -132,7 +132,7 @@ module FlatColors.AussiePalette exposing
 
 # Heliotrope
 
-[![Heliotrope](https://placehold.it/50/e056fd/000000?text=+)](#heliotrope)
+[![Heliotrope](https://via.placeholder.com/50/e056fd/000000?text=+)](#heliotrope)
 
 #e056fd
 
@@ -141,7 +141,7 @@ module FlatColors.AussiePalette exposing
 
 # Exodus Fruit
 
-[![Exodus Fruit](https://placehold.it/50/686de0/000000?text=+)](#exodus-fruit)
+[![Exodus Fruit](https://via.placeholder.com/50/686de0/000000?text=+)](#exodus-fruit)
 
 #686de0
 
@@ -150,7 +150,7 @@ module FlatColors.AussiePalette exposing
 
 # Deep Koamaru
 
-[![Deep Koamaru](https://placehold.it/50/30336b/000000?text=+)](#deep-koamaru)
+[![Deep Koamaru](https://via.placeholder.com/50/30336b/000000?text=+)](#deep-koamaru)
 
 #30336b
 
@@ -159,7 +159,7 @@ module FlatColors.AussiePalette exposing
 
 # Soaring Eagle
 
-[![Soaring Eagle](https://placehold.it/50/95afc0/000000?text=+)](#soaring-eagle)
+[![Soaring Eagle](https://via.placeholder.com/50/95afc0/000000?text=+)](#soaring-eagle)
 
 #95afc0
 
@@ -168,7 +168,7 @@ module FlatColors.AussiePalette exposing
 
 # Greenland Green
 
-[![Greenland Green](https://placehold.it/50/22a6b3/000000?text=+)](#greenland-green)
+[![Greenland Green](https://via.placeholder.com/50/22a6b3/000000?text=+)](#greenland-green)
 
 #22a6b3
 
@@ -177,7 +177,7 @@ module FlatColors.AussiePalette exposing
 
 # Steel Pink
 
-[![Steel Pink](https://placehold.it/50/be2edd/000000?text=+)](#steel-pink)
+[![Steel Pink](https://via.placeholder.com/50/be2edd/000000?text=+)](#steel-pink)
 
 #be2edd
 
@@ -186,7 +186,7 @@ module FlatColors.AussiePalette exposing
 
 # Blurple
 
-[![Blurple](https://placehold.it/50/4834d4/000000?text=+)](#blurple)
+[![Blurple](https://via.placeholder.com/50/4834d4/000000?text=+)](#blurple)
 
 #4834d4
 
@@ -195,7 +195,7 @@ module FlatColors.AussiePalette exposing
 
 # Deep Cove
 
-[![Deep Cove](https://placehold.it/50/130f40/000000?text=+)](#deep-cove)
+[![Deep Cove](https://via.placeholder.com/50/130f40/000000?text=+)](#deep-cove)
 
 #130f40
 
@@ -204,7 +204,7 @@ module FlatColors.AussiePalette exposing
 
 # Wizard Grey
 
-[![Wizard Grey](https://placehold.it/50/535c68/000000?text=+)](#wizard-grey)
+[![Wizard Grey](https://via.placeholder.com/50/535c68/000000?text=+)](#wizard-grey)
 
 #535c68
 
@@ -213,23 +213,23 @@ module FlatColors.AussiePalette exposing
 
 # All Colors
 
-[![Beekeeper](https://placehold.it/50/f6e58d/000000?text=+)](#beekeeper)[![Spiced Nectarine](https://placehold.it/50/ffbe76/000000?text=+)](#spiced-nectarine)[![Pink Glamour](https://placehold.it/50/ff7979/000000?text=+)](#pink-glamour)[![June Bud](https://placehold.it/50/badc58/000000?text=+)](#june-bud)[![Coastal Breeze](https://placehold.it/50/dff9fb/000000?text=+)](#coastal-breeze)[![Middle Blue](https://placehold.it/50/7ed6df/000000?text=+)](#middle-blue)[![Heliotrope](https://placehold.it/50/e056fd/000000?text=+)](#heliotrope)[![Exodus Fruit](https://placehold.it/50/686de0/000000?text=+)](#exodus-fruit)[![Deep Koamaru](https://placehold.it/50/30336b/000000?text=+)](#deep-koamaru)[![Soaring Eagle](https://placehold.it/50/95afc0/000000?text=+)](#soaring-eagle)
+[![Beekeeper](https://via.placeholder.com/50/f6e58d/000000?text=+)](#beekeeper)[![Spiced Nectarine](https://via.placeholder.com/50/ffbe76/000000?text=+)](#spiced-nectarine)[![Pink Glamour](https://via.placeholder.com/50/ff7979/000000?text=+)](#pink-glamour)[![June Bud](https://via.placeholder.com/50/badc58/000000?text=+)](#june-bud)[![Coastal Breeze](https://via.placeholder.com/50/dff9fb/000000?text=+)](#coastal-breeze)[![Middle Blue](https://via.placeholder.com/50/7ed6df/000000?text=+)](#middle-blue)[![Heliotrope](https://via.placeholder.com/50/e056fd/000000?text=+)](#heliotrope)[![Exodus Fruit](https://via.placeholder.com/50/686de0/000000?text=+)](#exodus-fruit)[![Deep Koamaru](https://via.placeholder.com/50/30336b/000000?text=+)](#deep-koamaru)[![Soaring Eagle](https://via.placeholder.com/50/95afc0/000000?text=+)](#soaring-eagle)
 
-[![Turbo](https://placehold.it/50/f9ca24/000000?text=+)](#turbo)[![Quince Jelly](https://placehold.it/50/f0932b/000000?text=+)](#quince-jelly)[![Carmine Pink](https://placehold.it/50/eb4d4b/000000?text=+)](#carmine-pink)[![Pure Apple](https://placehold.it/50/6ab04c/000000?text=+)](#pure-apple)[![Hint Of Ice Pack](https://placehold.it/50/c7ecee/000000?text=+)](#hint-of-ice-pack)[![Greenland Green](https://placehold.it/50/22a6b3/000000?text=+)](#greenland-green)[![Steel Pink](https://placehold.it/50/be2edd/000000?text=+)](#steel-pink)[![Blurple](https://placehold.it/50/4834d4/000000?text=+)](#blurple)[![Deep Cove](https://placehold.it/50/130f40/000000?text=+)](#deep-cove)[![Wizard Grey](https://placehold.it/50/535c68/000000?text=+)](#wizard-grey)
+[![Turbo](https://via.placeholder.com/50/f9ca24/000000?text=+)](#turbo)[![Quince Jelly](https://via.placeholder.com/50/f0932b/000000?text=+)](#quince-jelly)[![Carmine Pink](https://via.placeholder.com/50/eb4d4b/000000?text=+)](#carmine-pink)[![Pure Apple](https://via.placeholder.com/50/6ab04c/000000?text=+)](#pure-apple)[![Hint Of Ice Pack](https://via.placeholder.com/50/c7ecee/000000?text=+)](#hint-of-ice-pack)[![Greenland Green](https://via.placeholder.com/50/22a6b3/000000?text=+)](#greenland-green)[![Steel Pink](https://via.placeholder.com/50/be2edd/000000?text=+)](#steel-pink)[![Blurple](https://via.placeholder.com/50/4834d4/000000?text=+)](#blurple)[![Deep Cove](https://via.placeholder.com/50/130f40/000000?text=+)](#deep-cove)[![Wizard Grey](https://via.placeholder.com/50/535c68/000000?text=+)](#wizard-grey)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Beekeeper](https://placehold.it/50/f6e58d/000000?text=+)](#beekeeper)[![Spiced Nectarine](https://placehold.it/50/ffbe76/000000?text=+)](#spiced-nectarine)[![Pink Glamour](https://placehold.it/50/ff7979/000000?text=+)](#pink-glamour)[![June Bud](https://placehold.it/50/badc58/000000?text=+)](#june-bud)[![Coastal Breeze](https://placehold.it/50/dff9fb/000000?text=+)](#coastal-breeze)[![Middle Blue](https://placehold.it/50/7ed6df/000000?text=+)](#middle-blue)[![Heliotrope](https://placehold.it/50/e056fd/000000?text=+)](#heliotrope)[![Exodus Fruit](https://placehold.it/50/686de0/000000?text=+)](#exodus-fruit)[![Deep Koamaru](https://placehold.it/50/30336b/000000?text=+)](#deep-koamaru)[![Soaring Eagle](https://placehold.it/50/95afc0/000000?text=+)](#soaring-eagle)
+[![Beekeeper](https://via.placeholder.com/50/f6e58d/000000?text=+)](#beekeeper)[![Spiced Nectarine](https://via.placeholder.com/50/ffbe76/000000?text=+)](#spiced-nectarine)[![Pink Glamour](https://via.placeholder.com/50/ff7979/000000?text=+)](#pink-glamour)[![June Bud](https://via.placeholder.com/50/badc58/000000?text=+)](#june-bud)[![Coastal Breeze](https://via.placeholder.com/50/dff9fb/000000?text=+)](#coastal-breeze)[![Middle Blue](https://via.placeholder.com/50/7ed6df/000000?text=+)](#middle-blue)[![Heliotrope](https://via.placeholder.com/50/e056fd/000000?text=+)](#heliotrope)[![Exodus Fruit](https://via.placeholder.com/50/686de0/000000?text=+)](#exodus-fruit)[![Deep Koamaru](https://via.placeholder.com/50/30336b/000000?text=+)](#deep-koamaru)[![Soaring Eagle](https://via.placeholder.com/50/95afc0/000000?text=+)](#soaring-eagle)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Turbo](https://placehold.it/50/f9ca24/000000?text=+)](#turbo)[![Quince Jelly](https://placehold.it/50/f0932b/000000?text=+)](#quince-jelly)[![Carmine Pink](https://placehold.it/50/eb4d4b/000000?text=+)](#carmine-pink)[![Pure Apple](https://placehold.it/50/6ab04c/000000?text=+)](#pure-apple)[![Hint Of Ice Pack](https://placehold.it/50/c7ecee/000000?text=+)](#hint-of-ice-pack)[![Greenland Green](https://placehold.it/50/22a6b3/000000?text=+)](#greenland-green)[![Steel Pink](https://placehold.it/50/be2edd/000000?text=+)](#steel-pink)[![Blurple](https://placehold.it/50/4834d4/000000?text=+)](#blurple)[![Deep Cove](https://placehold.it/50/130f40/000000?text=+)](#deep-cove)[![Wizard Grey](https://placehold.it/50/535c68/000000?text=+)](#wizard-grey)
+[![Turbo](https://via.placeholder.com/50/f9ca24/000000?text=+)](#turbo)[![Quince Jelly](https://via.placeholder.com/50/f0932b/000000?text=+)](#quince-jelly)[![Carmine Pink](https://via.placeholder.com/50/eb4d4b/000000?text=+)](#carmine-pink)[![Pure Apple](https://via.placeholder.com/50/6ab04c/000000?text=+)](#pure-apple)[![Hint Of Ice Pack](https://via.placeholder.com/50/c7ecee/000000?text=+)](#hint-of-ice-pack)[![Greenland Green](https://via.placeholder.com/50/22a6b3/000000?text=+)](#greenland-green)[![Steel Pink](https://via.placeholder.com/50/be2edd/000000?text=+)](#steel-pink)[![Blurple](https://via.placeholder.com/50/4834d4/000000?text=+)](#blurple)[![Deep Cove](https://via.placeholder.com/50/130f40/000000?text=+)](#deep-cove)[![Wizard Grey](https://via.placeholder.com/50/535c68/000000?text=+)](#wizard-grey)
 
 @docs allDark, allDarkHex, allDarkRgb
 

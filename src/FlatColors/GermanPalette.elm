@@ -26,14 +26,14 @@ module FlatColors.GermanPalette exposing
 
 {-| German Palette by [Martin David](https://dribbble.com/srioz)
 
-[![Fusion Red](https://placehold.it/50/fc5c65/000000?text=+)](#fusion-red)[![Orange Hibiscus](https://placehold.it/50/fd9644/000000?text=+)](#orange-hibiscus)[![Flirtatious](https://placehold.it/50/fed330/000000?text=+)](#flirtatious)[![Reptile Green](https://placehold.it/50/26de81/000000?text=+)](#reptile-green)[![Maximum Blue Green](https://placehold.it/50/2bcbba/000000?text=+)](#maximum-blue-green)[![High Blue](https://placehold.it/50/45aaf2/000000?text=+)](#high-blue)[![C64 NTSC](https://placehold.it/50/4b7bec/000000?text=+)](#c64-ntsc)[![Lighter Purple](https://placehold.it/50/a55eea/000000?text=+)](#lighter-purple)[![Twinkle Blue](https://placehold.it/50/d1d8e0/000000?text=+)](#twinkle-blue)[![Blue Grey](https://placehold.it/50/778ca3/000000?text=+)](#blue-grey)
+[![Fusion Red](https://via.placeholder.com/50/fc5c65/000000?text=+)](#fusion-red)[![Orange Hibiscus](https://via.placeholder.com/50/fd9644/000000?text=+)](#orange-hibiscus)[![Flirtatious](https://via.placeholder.com/50/fed330/000000?text=+)](#flirtatious)[![Reptile Green](https://via.placeholder.com/50/26de81/000000?text=+)](#reptile-green)[![Maximum Blue Green](https://via.placeholder.com/50/2bcbba/000000?text=+)](#maximum-blue-green)[![High Blue](https://via.placeholder.com/50/45aaf2/000000?text=+)](#high-blue)[![C64 NTSC](https://via.placeholder.com/50/4b7bec/000000?text=+)](#c64-ntsc)[![Lighter Purple](https://via.placeholder.com/50/a55eea/000000?text=+)](#lighter-purple)[![Twinkle Blue](https://via.placeholder.com/50/d1d8e0/000000?text=+)](#twinkle-blue)[![Blue Grey](https://via.placeholder.com/50/778ca3/000000?text=+)](#blue-grey)
 
-[![Desire](https://placehold.it/50/eb3b5a/000000?text=+)](#desire)[![Beniukon Bronze](https://placehold.it/50/fa8231/000000?text=+)](#beniukon-bronze)[![NYC Taxi](https://placehold.it/50/f7b731/000000?text=+)](#nyc-taxi)[![Algal Fuel](https://placehold.it/50/20bf6b/000000?text=+)](#algal-fuel)[![Turquoise Topaz](https://placehold.it/50/0fb9b1/000000?text=+)](#turquoise-topaz)[![Boyzone](https://placehold.it/50/2d98da/000000?text=+)](#boyzone)[![Royal Blue](https://placehold.it/50/3867d6/000000?text=+)](#royal-blue)[![Gloomy Purple](https://placehold.it/50/8854d0/000000?text=+)](#gloomy-purple)[![Innuendo](https://placehold.it/50/a5b1c2/000000?text=+)](#innuendo)[![Blue Horizon](https://placehold.it/50/4b6584/000000?text=+)](#blue-horizon)
+[![Desire](https://via.placeholder.com/50/eb3b5a/000000?text=+)](#desire)[![Beniukon Bronze](https://via.placeholder.com/50/fa8231/000000?text=+)](#beniukon-bronze)[![NYC Taxi](https://via.placeholder.com/50/f7b731/000000?text=+)](#nyc-taxi)[![Algal Fuel](https://via.placeholder.com/50/20bf6b/000000?text=+)](#algal-fuel)[![Turquoise Topaz](https://via.placeholder.com/50/0fb9b1/000000?text=+)](#turquoise-topaz)[![Boyzone](https://via.placeholder.com/50/2d98da/000000?text=+)](#boyzone)[![Royal Blue](https://via.placeholder.com/50/3867d6/000000?text=+)](#royal-blue)[![Gloomy Purple](https://via.placeholder.com/50/8854d0/000000?text=+)](#gloomy-purple)[![Innuendo](https://via.placeholder.com/50/a5b1c2/000000?text=+)](#innuendo)[![Blue Horizon](https://via.placeholder.com/50/4b6584/000000?text=+)](#blue-horizon)
 
 
 # Fusion Red
 
-[![Fusion Red](https://placehold.it/50/fc5c65/000000?text=+)](#fusion-red)
+[![Fusion Red](https://via.placeholder.com/50/fc5c65/000000?text=+)](#fusion-red)
 
 #fc5c65
 
@@ -42,7 +42,7 @@ module FlatColors.GermanPalette exposing
 
 # Orange Hibiscus
 
-[![Orange Hibiscus](https://placehold.it/50/fd9644/000000?text=+)](#orange-hibiscus)
+[![Orange Hibiscus](https://via.placeholder.com/50/fd9644/000000?text=+)](#orange-hibiscus)
 
 #fd9644
 
@@ -51,7 +51,7 @@ module FlatColors.GermanPalette exposing
 
 # Flirtatious
 
-[![Flirtatious](https://placehold.it/50/fed330/000000?text=+)](#flirtatious)
+[![Flirtatious](https://via.placeholder.com/50/fed330/000000?text=+)](#flirtatious)
 
 #fed330
 
@@ -60,7 +60,7 @@ module FlatColors.GermanPalette exposing
 
 # Reptile Green
 
-[![Reptile Green](https://placehold.it/50/26de81/000000?text=+)](#reptile-green)
+[![Reptile Green](https://via.placeholder.com/50/26de81/000000?text=+)](#reptile-green)
 
 #26de81
 
@@ -69,7 +69,7 @@ module FlatColors.GermanPalette exposing
 
 # Maximum Blue Green
 
-[![Maximum Blue Green](https://placehold.it/50/2bcbba/000000?text=+)](#maximum-blue-green)
+[![Maximum Blue Green](https://via.placeholder.com/50/2bcbba/000000?text=+)](#maximum-blue-green)
 
 #2bcbba
 
@@ -78,7 +78,7 @@ module FlatColors.GermanPalette exposing
 
 # Desire
 
-[![Desire](https://placehold.it/50/eb3b5a/000000?text=+)](#desire)
+[![Desire](https://via.placeholder.com/50/eb3b5a/000000?text=+)](#desire)
 
 #eb3b5a
 
@@ -87,7 +87,7 @@ module FlatColors.GermanPalette exposing
 
 # Beniukon Bronze
 
-[![Beniukon Bronze](https://placehold.it/50/fa8231/000000?text=+)](#beniukon-bronze)
+[![Beniukon Bronze](https://via.placeholder.com/50/fa8231/000000?text=+)](#beniukon-bronze)
 
 #fa8231
 
@@ -96,7 +96,7 @@ module FlatColors.GermanPalette exposing
 
 # NYC Taxi
 
-[![NYC Taxi](https://placehold.it/50/f7b731/000000?text=+)](#nyc-taxi)
+[![NYC Taxi](https://via.placeholder.com/50/f7b731/000000?text=+)](#nyc-taxi)
 
 #f7b731
 
@@ -105,7 +105,7 @@ module FlatColors.GermanPalette exposing
 
 # Algal Fuel
 
-[![Algal Fuel](https://placehold.it/50/20bf6b/000000?text=+)](#algal-fuel)
+[![Algal Fuel](https://via.placeholder.com/50/20bf6b/000000?text=+)](#algal-fuel)
 
 #20bf6b
 
@@ -114,7 +114,7 @@ module FlatColors.GermanPalette exposing
 
 # Turquoise Topaz
 
-[![Turquoise Topaz](https://placehold.it/50/0fb9b1/000000?text=+)](#turquoise-topaz)
+[![Turquoise Topaz](https://via.placeholder.com/50/0fb9b1/000000?text=+)](#turquoise-topaz)
 
 #0fb9b1
 
@@ -123,7 +123,7 @@ module FlatColors.GermanPalette exposing
 
 # High Blue
 
-[![High Blue](https://placehold.it/50/45aaf2/000000?text=+)](#high-blue)
+[![High Blue](https://via.placeholder.com/50/45aaf2/000000?text=+)](#high-blue)
 
 #45aaf2
 
@@ -132,7 +132,7 @@ module FlatColors.GermanPalette exposing
 
 # C64 NTSC
 
-[![C64 NTSC](https://placehold.it/50/4b7bec/000000?text=+)](#c64-ntsc)
+[![C64 NTSC](https://via.placeholder.com/50/4b7bec/000000?text=+)](#c64-ntsc)
 
 #4b7bec
 
@@ -141,7 +141,7 @@ module FlatColors.GermanPalette exposing
 
 # Lighter Purple
 
-[![Lighter Purple](https://placehold.it/50/a55eea/000000?text=+)](#lighter-purple)
+[![Lighter Purple](https://via.placeholder.com/50/a55eea/000000?text=+)](#lighter-purple)
 
 #a55eea
 
@@ -150,7 +150,7 @@ module FlatColors.GermanPalette exposing
 
 # Twinkle Blue
 
-[![Twinkle Blue](https://placehold.it/50/d1d8e0/000000?text=+)](#twinkle-blue)
+[![Twinkle Blue](https://via.placeholder.com/50/d1d8e0/000000?text=+)](#twinkle-blue)
 
 #d1d8e0
 
@@ -159,7 +159,7 @@ module FlatColors.GermanPalette exposing
 
 # Blue Grey
 
-[![Blue Grey](https://placehold.it/50/778ca3/000000?text=+)](#blue-grey)
+[![Blue Grey](https://via.placeholder.com/50/778ca3/000000?text=+)](#blue-grey)
 
 #778ca3
 
@@ -168,7 +168,7 @@ module FlatColors.GermanPalette exposing
 
 # Boyzone
 
-[![Boyzone](https://placehold.it/50/2d98da/000000?text=+)](#boyzone)
+[![Boyzone](https://via.placeholder.com/50/2d98da/000000?text=+)](#boyzone)
 
 #2d98da
 
@@ -177,7 +177,7 @@ module FlatColors.GermanPalette exposing
 
 # Royal Blue
 
-[![Royal Blue](https://placehold.it/50/3867d6/000000?text=+)](#royal-blue)
+[![Royal Blue](https://via.placeholder.com/50/3867d6/000000?text=+)](#royal-blue)
 
 #3867d6
 
@@ -186,7 +186,7 @@ module FlatColors.GermanPalette exposing
 
 # Gloomy Purple
 
-[![Gloomy Purple](https://placehold.it/50/8854d0/000000?text=+)](#gloomy-purple)
+[![Gloomy Purple](https://via.placeholder.com/50/8854d0/000000?text=+)](#gloomy-purple)
 
 #8854d0
 
@@ -195,7 +195,7 @@ module FlatColors.GermanPalette exposing
 
 # Innuendo
 
-[![Innuendo](https://placehold.it/50/a5b1c2/000000?text=+)](#innuendo)
+[![Innuendo](https://via.placeholder.com/50/a5b1c2/000000?text=+)](#innuendo)
 
 #a5b1c2
 
@@ -204,7 +204,7 @@ module FlatColors.GermanPalette exposing
 
 # Blue Horizon
 
-[![Blue Horizon](https://placehold.it/50/4b6584/000000?text=+)](#blue-horizon)
+[![Blue Horizon](https://via.placeholder.com/50/4b6584/000000?text=+)](#blue-horizon)
 
 #4b6584
 
@@ -213,23 +213,23 @@ module FlatColors.GermanPalette exposing
 
 # All Colors
 
-[![Fusion Red](https://placehold.it/50/fc5c65/000000?text=+)](#fusion-red)[![Orange Hibiscus](https://placehold.it/50/fd9644/000000?text=+)](#orange-hibiscus)[![Flirtatious](https://placehold.it/50/fed330/000000?text=+)](#flirtatious)[![Reptile Green](https://placehold.it/50/26de81/000000?text=+)](#reptile-green)[![Maximum Blue Green](https://placehold.it/50/2bcbba/000000?text=+)](#maximum-blue-green)[![High Blue](https://placehold.it/50/45aaf2/000000?text=+)](#high-blue)[![C64 NTSC](https://placehold.it/50/4b7bec/000000?text=+)](#c64-ntsc)[![Lighter Purple](https://placehold.it/50/a55eea/000000?text=+)](#lighter-purple)[![Twinkle Blue](https://placehold.it/50/d1d8e0/000000?text=+)](#twinkle-blue)[![Blue Grey](https://placehold.it/50/778ca3/000000?text=+)](#blue-grey)
+[![Fusion Red](https://via.placeholder.com/50/fc5c65/000000?text=+)](#fusion-red)[![Orange Hibiscus](https://via.placeholder.com/50/fd9644/000000?text=+)](#orange-hibiscus)[![Flirtatious](https://via.placeholder.com/50/fed330/000000?text=+)](#flirtatious)[![Reptile Green](https://via.placeholder.com/50/26de81/000000?text=+)](#reptile-green)[![Maximum Blue Green](https://via.placeholder.com/50/2bcbba/000000?text=+)](#maximum-blue-green)[![High Blue](https://via.placeholder.com/50/45aaf2/000000?text=+)](#high-blue)[![C64 NTSC](https://via.placeholder.com/50/4b7bec/000000?text=+)](#c64-ntsc)[![Lighter Purple](https://via.placeholder.com/50/a55eea/000000?text=+)](#lighter-purple)[![Twinkle Blue](https://via.placeholder.com/50/d1d8e0/000000?text=+)](#twinkle-blue)[![Blue Grey](https://via.placeholder.com/50/778ca3/000000?text=+)](#blue-grey)
 
-[![Desire](https://placehold.it/50/eb3b5a/000000?text=+)](#desire)[![Beniukon Bronze](https://placehold.it/50/fa8231/000000?text=+)](#beniukon-bronze)[![NYC Taxi](https://placehold.it/50/f7b731/000000?text=+)](#nyc-taxi)[![Algal Fuel](https://placehold.it/50/20bf6b/000000?text=+)](#algal-fuel)[![Turquoise Topaz](https://placehold.it/50/0fb9b1/000000?text=+)](#turquoise-topaz)[![Boyzone](https://placehold.it/50/2d98da/000000?text=+)](#boyzone)[![Royal Blue](https://placehold.it/50/3867d6/000000?text=+)](#royal-blue)[![Gloomy Purple](https://placehold.it/50/8854d0/000000?text=+)](#gloomy-purple)[![Innuendo](https://placehold.it/50/a5b1c2/000000?text=+)](#innuendo)[![Blue Horizon](https://placehold.it/50/4b6584/000000?text=+)](#blue-horizon)
+[![Desire](https://via.placeholder.com/50/eb3b5a/000000?text=+)](#desire)[![Beniukon Bronze](https://via.placeholder.com/50/fa8231/000000?text=+)](#beniukon-bronze)[![NYC Taxi](https://via.placeholder.com/50/f7b731/000000?text=+)](#nyc-taxi)[![Algal Fuel](https://via.placeholder.com/50/20bf6b/000000?text=+)](#algal-fuel)[![Turquoise Topaz](https://via.placeholder.com/50/0fb9b1/000000?text=+)](#turquoise-topaz)[![Boyzone](https://via.placeholder.com/50/2d98da/000000?text=+)](#boyzone)[![Royal Blue](https://via.placeholder.com/50/3867d6/000000?text=+)](#royal-blue)[![Gloomy Purple](https://via.placeholder.com/50/8854d0/000000?text=+)](#gloomy-purple)[![Innuendo](https://via.placeholder.com/50/a5b1c2/000000?text=+)](#innuendo)[![Blue Horizon](https://via.placeholder.com/50/4b6584/000000?text=+)](#blue-horizon)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Fusion Red](https://placehold.it/50/fc5c65/000000?text=+)](#fusion-red)[![Orange Hibiscus](https://placehold.it/50/fd9644/000000?text=+)](#orange-hibiscus)[![Flirtatious](https://placehold.it/50/fed330/000000?text=+)](#flirtatious)[![Reptile Green](https://placehold.it/50/26de81/000000?text=+)](#reptile-green)[![Maximum Blue Green](https://placehold.it/50/2bcbba/000000?text=+)](#maximum-blue-green)[![High Blue](https://placehold.it/50/45aaf2/000000?text=+)](#high-blue)[![C64 NTSC](https://placehold.it/50/4b7bec/000000?text=+)](#c64-ntsc)[![Lighter Purple](https://placehold.it/50/a55eea/000000?text=+)](#lighter-purple)[![Twinkle Blue](https://placehold.it/50/d1d8e0/000000?text=+)](#twinkle-blue)[![Blue Grey](https://placehold.it/50/778ca3/000000?text=+)](#blue-grey)
+[![Fusion Red](https://via.placeholder.com/50/fc5c65/000000?text=+)](#fusion-red)[![Orange Hibiscus](https://via.placeholder.com/50/fd9644/000000?text=+)](#orange-hibiscus)[![Flirtatious](https://via.placeholder.com/50/fed330/000000?text=+)](#flirtatious)[![Reptile Green](https://via.placeholder.com/50/26de81/000000?text=+)](#reptile-green)[![Maximum Blue Green](https://via.placeholder.com/50/2bcbba/000000?text=+)](#maximum-blue-green)[![High Blue](https://via.placeholder.com/50/45aaf2/000000?text=+)](#high-blue)[![C64 NTSC](https://via.placeholder.com/50/4b7bec/000000?text=+)](#c64-ntsc)[![Lighter Purple](https://via.placeholder.com/50/a55eea/000000?text=+)](#lighter-purple)[![Twinkle Blue](https://via.placeholder.com/50/d1d8e0/000000?text=+)](#twinkle-blue)[![Blue Grey](https://via.placeholder.com/50/778ca3/000000?text=+)](#blue-grey)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Desire](https://placehold.it/50/eb3b5a/000000?text=+)](#desire)[![Beniukon Bronze](https://placehold.it/50/fa8231/000000?text=+)](#beniukon-bronze)[![NYC Taxi](https://placehold.it/50/f7b731/000000?text=+)](#nyc-taxi)[![Algal Fuel](https://placehold.it/50/20bf6b/000000?text=+)](#algal-fuel)[![Turquoise Topaz](https://placehold.it/50/0fb9b1/000000?text=+)](#turquoise-topaz)[![Boyzone](https://placehold.it/50/2d98da/000000?text=+)](#boyzone)[![Royal Blue](https://placehold.it/50/3867d6/000000?text=+)](#royal-blue)[![Gloomy Purple](https://placehold.it/50/8854d0/000000?text=+)](#gloomy-purple)[![Innuendo](https://placehold.it/50/a5b1c2/000000?text=+)](#innuendo)[![Blue Horizon](https://placehold.it/50/4b6584/000000?text=+)](#blue-horizon)
+[![Desire](https://via.placeholder.com/50/eb3b5a/000000?text=+)](#desire)[![Beniukon Bronze](https://via.placeholder.com/50/fa8231/000000?text=+)](#beniukon-bronze)[![NYC Taxi](https://via.placeholder.com/50/f7b731/000000?text=+)](#nyc-taxi)[![Algal Fuel](https://via.placeholder.com/50/20bf6b/000000?text=+)](#algal-fuel)[![Turquoise Topaz](https://via.placeholder.com/50/0fb9b1/000000?text=+)](#turquoise-topaz)[![Boyzone](https://via.placeholder.com/50/2d98da/000000?text=+)](#boyzone)[![Royal Blue](https://via.placeholder.com/50/3867d6/000000?text=+)](#royal-blue)[![Gloomy Purple](https://via.placeholder.com/50/8854d0/000000?text=+)](#gloomy-purple)[![Innuendo](https://via.placeholder.com/50/a5b1c2/000000?text=+)](#innuendo)[![Blue Horizon](https://via.placeholder.com/50/4b6584/000000?text=+)](#blue-horizon)
 
 @docs allDark, allDarkHex, allDarkRgb
 

@@ -26,14 +26,14 @@ module FlatColors.FlatUIPalette exposing
 
 {-| Flat UI Palette by Flat UI Colors
 
-[![TURQUOISE](https://placehold.it/50/1abc9c/000000?text=+)](#turquoise)[![EMERALD](https://placehold.it/50/2ecc71/000000?text=+)](#emerald)[![PETER RIVER](https://placehold.it/50/3498db/000000?text=+)](#peter-river)[![AMETHYST](https://placehold.it/50/9b59b6/000000?text=+)](#amethyst)[![WET ASPHALT](https://placehold.it/50/34495e/000000?text=+)](#wet-asphalt)[![SUN FLOWER](https://placehold.it/50/f1c40f/000000?text=+)](#sun-flower)[![CARROT](https://placehold.it/50/e67e22/000000?text=+)](#carrot)[![ALIZARIN](https://placehold.it/50/e74c3c/000000?text=+)](#alizarin)[![CLOUDS](https://placehold.it/50/ecf0f1/000000?text=+)](#clouds)[![CONCRETE](https://placehold.it/50/95a5a6/000000?text=+)](#concrete)
+[![TURQUOISE](https://via.placeholder.com/50/1abc9c/000000?text=+)](#turquoise)[![EMERALD](https://via.placeholder.com/50/2ecc71/000000?text=+)](#emerald)[![PETER RIVER](https://via.placeholder.com/50/3498db/000000?text=+)](#peter-river)[![AMETHYST](https://via.placeholder.com/50/9b59b6/000000?text=+)](#amethyst)[![WET ASPHALT](https://via.placeholder.com/50/34495e/000000?text=+)](#wet-asphalt)[![SUN FLOWER](https://via.placeholder.com/50/f1c40f/000000?text=+)](#sun-flower)[![CARROT](https://via.placeholder.com/50/e67e22/000000?text=+)](#carrot)[![ALIZARIN](https://via.placeholder.com/50/e74c3c/000000?text=+)](#alizarin)[![CLOUDS](https://via.placeholder.com/50/ecf0f1/000000?text=+)](#clouds)[![CONCRETE](https://via.placeholder.com/50/95a5a6/000000?text=+)](#concrete)
 
-[![GREEN SEA](https://placehold.it/50/16a085/000000?text=+)](#green-sea)[![NEPHRITIS](https://placehold.it/50/27ae60/000000?text=+)](#nephritis)[![BELIZE HOLE](https://placehold.it/50/2980b9/000000?text=+)](#belize-hole)[![WISTERIA](https://placehold.it/50/8e44ad/000000?text=+)](#wisteria)[![MIDNIGHT BLUE](https://placehold.it/50/2c3e50/000000?text=+)](#midnight-blue)[![ORANGE](https://placehold.it/50/f39c12/000000?text=+)](#orange)[![PUMPKIN](https://placehold.it/50/d35400/000000?text=+)](#pumpkin)[![POMEGRANATE](https://placehold.it/50/c0392b/000000?text=+)](#pomegranate)[![SILVER](https://placehold.it/50/bdc3c7/000000?text=+)](#silver)[![ASBESTOS](https://placehold.it/50/7f8c8d/000000?text=+)](#asbestos)
+[![GREEN SEA](https://via.placeholder.com/50/16a085/000000?text=+)](#green-sea)[![NEPHRITIS](https://via.placeholder.com/50/27ae60/000000?text=+)](#nephritis)[![BELIZE HOLE](https://via.placeholder.com/50/2980b9/000000?text=+)](#belize-hole)[![WISTERIA](https://via.placeholder.com/50/8e44ad/000000?text=+)](#wisteria)[![MIDNIGHT BLUE](https://via.placeholder.com/50/2c3e50/000000?text=+)](#midnight-blue)[![ORANGE](https://via.placeholder.com/50/f39c12/000000?text=+)](#orange)[![PUMPKIN](https://via.placeholder.com/50/d35400/000000?text=+)](#pumpkin)[![POMEGRANATE](https://via.placeholder.com/50/c0392b/000000?text=+)](#pomegranate)[![SILVER](https://via.placeholder.com/50/bdc3c7/000000?text=+)](#silver)[![ASBESTOS](https://via.placeholder.com/50/7f8c8d/000000?text=+)](#asbestos)
 
 
 # TURQUOISE
 
-[![TURQUOISE](https://placehold.it/50/1abc9c/000000?text=+)](#turquoise)
+[![TURQUOISE](https://via.placeholder.com/50/1abc9c/000000?text=+)](#turquoise)
 
 #1abc9c
 
@@ -42,7 +42,7 @@ module FlatColors.FlatUIPalette exposing
 
 # EMERALD
 
-[![EMERALD](https://placehold.it/50/2ecc71/000000?text=+)](#emerald)
+[![EMERALD](https://via.placeholder.com/50/2ecc71/000000?text=+)](#emerald)
 
 #2ecc71
 
@@ -51,7 +51,7 @@ module FlatColors.FlatUIPalette exposing
 
 # PETER RIVER
 
-[![PETER RIVER](https://placehold.it/50/3498db/000000?text=+)](#peter-river)
+[![PETER RIVER](https://via.placeholder.com/50/3498db/000000?text=+)](#peter-river)
 
 #3498db
 
@@ -60,7 +60,7 @@ module FlatColors.FlatUIPalette exposing
 
 # AMETHYST
 
-[![AMETHYST](https://placehold.it/50/9b59b6/000000?text=+)](#amethyst)
+[![AMETHYST](https://via.placeholder.com/50/9b59b6/000000?text=+)](#amethyst)
 
 #9b59b6
 
@@ -69,7 +69,7 @@ module FlatColors.FlatUIPalette exposing
 
 # WET ASPHALT
 
-[![WET ASPHALT](https://placehold.it/50/34495e/000000?text=+)](#wet-asphalt)
+[![WET ASPHALT](https://via.placeholder.com/50/34495e/000000?text=+)](#wet-asphalt)
 
 #34495e
 
@@ -78,7 +78,7 @@ module FlatColors.FlatUIPalette exposing
 
 # GREEN SEA
 
-[![GREEN SEA](https://placehold.it/50/16a085/000000?text=+)](#green-sea)
+[![GREEN SEA](https://via.placeholder.com/50/16a085/000000?text=+)](#green-sea)
 
 #16a085
 
@@ -87,7 +87,7 @@ module FlatColors.FlatUIPalette exposing
 
 # NEPHRITIS
 
-[![NEPHRITIS](https://placehold.it/50/27ae60/000000?text=+)](#nephritis)
+[![NEPHRITIS](https://via.placeholder.com/50/27ae60/000000?text=+)](#nephritis)
 
 #27ae60
 
@@ -96,7 +96,7 @@ module FlatColors.FlatUIPalette exposing
 
 # BELIZE HOLE
 
-[![BELIZE HOLE](https://placehold.it/50/2980b9/000000?text=+)](#belize-hole)
+[![BELIZE HOLE](https://via.placeholder.com/50/2980b9/000000?text=+)](#belize-hole)
 
 #2980b9
 
@@ -105,7 +105,7 @@ module FlatColors.FlatUIPalette exposing
 
 # WISTERIA
 
-[![WISTERIA](https://placehold.it/50/8e44ad/000000?text=+)](#wisteria)
+[![WISTERIA](https://via.placeholder.com/50/8e44ad/000000?text=+)](#wisteria)
 
 #8e44ad
 
@@ -114,7 +114,7 @@ module FlatColors.FlatUIPalette exposing
 
 # MIDNIGHT BLUE
 
-[![MIDNIGHT BLUE](https://placehold.it/50/2c3e50/000000?text=+)](#midnight-blue)
+[![MIDNIGHT BLUE](https://via.placeholder.com/50/2c3e50/000000?text=+)](#midnight-blue)
 
 #2c3e50
 
@@ -123,7 +123,7 @@ module FlatColors.FlatUIPalette exposing
 
 # SUN FLOWER
 
-[![SUN FLOWER](https://placehold.it/50/f1c40f/000000?text=+)](#sun-flower)
+[![SUN FLOWER](https://via.placeholder.com/50/f1c40f/000000?text=+)](#sun-flower)
 
 #f1c40f
 
@@ -132,7 +132,7 @@ module FlatColors.FlatUIPalette exposing
 
 # CARROT
 
-[![CARROT](https://placehold.it/50/e67e22/000000?text=+)](#carrot)
+[![CARROT](https://via.placeholder.com/50/e67e22/000000?text=+)](#carrot)
 
 #e67e22
 
@@ -141,7 +141,7 @@ module FlatColors.FlatUIPalette exposing
 
 # ALIZARIN
 
-[![ALIZARIN](https://placehold.it/50/e74c3c/000000?text=+)](#alizarin)
+[![ALIZARIN](https://via.placeholder.com/50/e74c3c/000000?text=+)](#alizarin)
 
 #e74c3c
 
@@ -150,7 +150,7 @@ module FlatColors.FlatUIPalette exposing
 
 # CLOUDS
 
-[![CLOUDS](https://placehold.it/50/ecf0f1/000000?text=+)](#clouds)
+[![CLOUDS](https://via.placeholder.com/50/ecf0f1/000000?text=+)](#clouds)
 
 #ecf0f1
 
@@ -159,7 +159,7 @@ module FlatColors.FlatUIPalette exposing
 
 # CONCRETE
 
-[![CONCRETE](https://placehold.it/50/95a5a6/000000?text=+)](#concrete)
+[![CONCRETE](https://via.placeholder.com/50/95a5a6/000000?text=+)](#concrete)
 
 #95a5a6
 
@@ -168,7 +168,7 @@ module FlatColors.FlatUIPalette exposing
 
 # ORANGE
 
-[![ORANGE](https://placehold.it/50/f39c12/000000?text=+)](#orange)
+[![ORANGE](https://via.placeholder.com/50/f39c12/000000?text=+)](#orange)
 
 #f39c12
 
@@ -177,7 +177,7 @@ module FlatColors.FlatUIPalette exposing
 
 # PUMPKIN
 
-[![PUMPKIN](https://placehold.it/50/d35400/000000?text=+)](#pumpkin)
+[![PUMPKIN](https://via.placeholder.com/50/d35400/000000?text=+)](#pumpkin)
 
 #d35400
 
@@ -186,7 +186,7 @@ module FlatColors.FlatUIPalette exposing
 
 # POMEGRANATE
 
-[![POMEGRANATE](https://placehold.it/50/c0392b/000000?text=+)](#pomegranate)
+[![POMEGRANATE](https://via.placeholder.com/50/c0392b/000000?text=+)](#pomegranate)
 
 #c0392b
 
@@ -195,7 +195,7 @@ module FlatColors.FlatUIPalette exposing
 
 # SILVER
 
-[![SILVER](https://placehold.it/50/bdc3c7/000000?text=+)](#silver)
+[![SILVER](https://via.placeholder.com/50/bdc3c7/000000?text=+)](#silver)
 
 #bdc3c7
 
@@ -204,7 +204,7 @@ module FlatColors.FlatUIPalette exposing
 
 # ASBESTOS
 
-[![ASBESTOS](https://placehold.it/50/7f8c8d/000000?text=+)](#asbestos)
+[![ASBESTOS](https://via.placeholder.com/50/7f8c8d/000000?text=+)](#asbestos)
 
 #7f8c8d
 
@@ -213,23 +213,23 @@ module FlatColors.FlatUIPalette exposing
 
 # All Colors
 
-[![TURQUOISE](https://placehold.it/50/1abc9c/000000?text=+)](#turquoise)[![EMERALD](https://placehold.it/50/2ecc71/000000?text=+)](#emerald)[![PETER RIVER](https://placehold.it/50/3498db/000000?text=+)](#peter-river)[![AMETHYST](https://placehold.it/50/9b59b6/000000?text=+)](#amethyst)[![WET ASPHALT](https://placehold.it/50/34495e/000000?text=+)](#wet-asphalt)[![SUN FLOWER](https://placehold.it/50/f1c40f/000000?text=+)](#sun-flower)[![CARROT](https://placehold.it/50/e67e22/000000?text=+)](#carrot)[![ALIZARIN](https://placehold.it/50/e74c3c/000000?text=+)](#alizarin)[![CLOUDS](https://placehold.it/50/ecf0f1/000000?text=+)](#clouds)[![CONCRETE](https://placehold.it/50/95a5a6/000000?text=+)](#concrete)
+[![TURQUOISE](https://via.placeholder.com/50/1abc9c/000000?text=+)](#turquoise)[![EMERALD](https://via.placeholder.com/50/2ecc71/000000?text=+)](#emerald)[![PETER RIVER](https://via.placeholder.com/50/3498db/000000?text=+)](#peter-river)[![AMETHYST](https://via.placeholder.com/50/9b59b6/000000?text=+)](#amethyst)[![WET ASPHALT](https://via.placeholder.com/50/34495e/000000?text=+)](#wet-asphalt)[![SUN FLOWER](https://via.placeholder.com/50/f1c40f/000000?text=+)](#sun-flower)[![CARROT](https://via.placeholder.com/50/e67e22/000000?text=+)](#carrot)[![ALIZARIN](https://via.placeholder.com/50/e74c3c/000000?text=+)](#alizarin)[![CLOUDS](https://via.placeholder.com/50/ecf0f1/000000?text=+)](#clouds)[![CONCRETE](https://via.placeholder.com/50/95a5a6/000000?text=+)](#concrete)
 
-[![GREEN SEA](https://placehold.it/50/16a085/000000?text=+)](#green-sea)[![NEPHRITIS](https://placehold.it/50/27ae60/000000?text=+)](#nephritis)[![BELIZE HOLE](https://placehold.it/50/2980b9/000000?text=+)](#belize-hole)[![WISTERIA](https://placehold.it/50/8e44ad/000000?text=+)](#wisteria)[![MIDNIGHT BLUE](https://placehold.it/50/2c3e50/000000?text=+)](#midnight-blue)[![ORANGE](https://placehold.it/50/f39c12/000000?text=+)](#orange)[![PUMPKIN](https://placehold.it/50/d35400/000000?text=+)](#pumpkin)[![POMEGRANATE](https://placehold.it/50/c0392b/000000?text=+)](#pomegranate)[![SILVER](https://placehold.it/50/bdc3c7/000000?text=+)](#silver)[![ASBESTOS](https://placehold.it/50/7f8c8d/000000?text=+)](#asbestos)
+[![GREEN SEA](https://via.placeholder.com/50/16a085/000000?text=+)](#green-sea)[![NEPHRITIS](https://via.placeholder.com/50/27ae60/000000?text=+)](#nephritis)[![BELIZE HOLE](https://via.placeholder.com/50/2980b9/000000?text=+)](#belize-hole)[![WISTERIA](https://via.placeholder.com/50/8e44ad/000000?text=+)](#wisteria)[![MIDNIGHT BLUE](https://via.placeholder.com/50/2c3e50/000000?text=+)](#midnight-blue)[![ORANGE](https://via.placeholder.com/50/f39c12/000000?text=+)](#orange)[![PUMPKIN](https://via.placeholder.com/50/d35400/000000?text=+)](#pumpkin)[![POMEGRANATE](https://via.placeholder.com/50/c0392b/000000?text=+)](#pomegranate)[![SILVER](https://via.placeholder.com/50/bdc3c7/000000?text=+)](#silver)[![ASBESTOS](https://via.placeholder.com/50/7f8c8d/000000?text=+)](#asbestos)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![TURQUOISE](https://placehold.it/50/1abc9c/000000?text=+)](#turquoise)[![EMERALD](https://placehold.it/50/2ecc71/000000?text=+)](#emerald)[![PETER RIVER](https://placehold.it/50/3498db/000000?text=+)](#peter-river)[![AMETHYST](https://placehold.it/50/9b59b6/000000?text=+)](#amethyst)[![WET ASPHALT](https://placehold.it/50/34495e/000000?text=+)](#wet-asphalt)[![SUN FLOWER](https://placehold.it/50/f1c40f/000000?text=+)](#sun-flower)[![CARROT](https://placehold.it/50/e67e22/000000?text=+)](#carrot)[![ALIZARIN](https://placehold.it/50/e74c3c/000000?text=+)](#alizarin)[![CLOUDS](https://placehold.it/50/ecf0f1/000000?text=+)](#clouds)[![CONCRETE](https://placehold.it/50/95a5a6/000000?text=+)](#concrete)
+[![TURQUOISE](https://via.placeholder.com/50/1abc9c/000000?text=+)](#turquoise)[![EMERALD](https://via.placeholder.com/50/2ecc71/000000?text=+)](#emerald)[![PETER RIVER](https://via.placeholder.com/50/3498db/000000?text=+)](#peter-river)[![AMETHYST](https://via.placeholder.com/50/9b59b6/000000?text=+)](#amethyst)[![WET ASPHALT](https://via.placeholder.com/50/34495e/000000?text=+)](#wet-asphalt)[![SUN FLOWER](https://via.placeholder.com/50/f1c40f/000000?text=+)](#sun-flower)[![CARROT](https://via.placeholder.com/50/e67e22/000000?text=+)](#carrot)[![ALIZARIN](https://via.placeholder.com/50/e74c3c/000000?text=+)](#alizarin)[![CLOUDS](https://via.placeholder.com/50/ecf0f1/000000?text=+)](#clouds)[![CONCRETE](https://via.placeholder.com/50/95a5a6/000000?text=+)](#concrete)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![GREEN SEA](https://placehold.it/50/16a085/000000?text=+)](#green-sea)[![NEPHRITIS](https://placehold.it/50/27ae60/000000?text=+)](#nephritis)[![BELIZE HOLE](https://placehold.it/50/2980b9/000000?text=+)](#belize-hole)[![WISTERIA](https://placehold.it/50/8e44ad/000000?text=+)](#wisteria)[![MIDNIGHT BLUE](https://placehold.it/50/2c3e50/000000?text=+)](#midnight-blue)[![ORANGE](https://placehold.it/50/f39c12/000000?text=+)](#orange)[![PUMPKIN](https://placehold.it/50/d35400/000000?text=+)](#pumpkin)[![POMEGRANATE](https://placehold.it/50/c0392b/000000?text=+)](#pomegranate)[![SILVER](https://placehold.it/50/bdc3c7/000000?text=+)](#silver)[![ASBESTOS](https://placehold.it/50/7f8c8d/000000?text=+)](#asbestos)
+[![GREEN SEA](https://via.placeholder.com/50/16a085/000000?text=+)](#green-sea)[![NEPHRITIS](https://via.placeholder.com/50/27ae60/000000?text=+)](#nephritis)[![BELIZE HOLE](https://via.placeholder.com/50/2980b9/000000?text=+)](#belize-hole)[![WISTERIA](https://via.placeholder.com/50/8e44ad/000000?text=+)](#wisteria)[![MIDNIGHT BLUE](https://via.placeholder.com/50/2c3e50/000000?text=+)](#midnight-blue)[![ORANGE](https://via.placeholder.com/50/f39c12/000000?text=+)](#orange)[![PUMPKIN](https://via.placeholder.com/50/d35400/000000?text=+)](#pumpkin)[![POMEGRANATE](https://via.placeholder.com/50/c0392b/000000?text=+)](#pomegranate)[![SILVER](https://via.placeholder.com/50/bdc3c7/000000?text=+)](#silver)[![ASBESTOS](https://via.placeholder.com/50/7f8c8d/000000?text=+)](#asbestos)
 
 @docs allDark, allDarkHex, allDarkRgb
 

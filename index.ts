@@ -317,7 +317,7 @@ interface Color {
 function colMd(color: Color, suffix = "", size = 50) {
   return `[![${
     color.displayName
-  }](https://placehold.it/${size}/${color.hex.slice(
+  }](https://via.placeholder.com/${size}/${color.hex.slice(
     1
   )}/000000?text=+)](${suffix}#${color.slug})`;
 }

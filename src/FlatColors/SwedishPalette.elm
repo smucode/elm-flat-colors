@@ -26,14 +26,14 @@ module FlatColors.SwedishPalette exposing
 
 {-| Swedish Palette by [Jesper Dahlqvist](https://dribbble.com/yehsper)
 
-[![Highlighter Pink](https://placehold.it/50/ef5777/000000?text=+)](#highlighter-pink)[![Dark Periwinkle](https://placehold.it/50/575fcf/000000?text=+)](#dark-periwinkle)[![Megaman](https://placehold.it/50/4bcffa/000000?text=+)](#megaman)[![Fresh Turquoise](https://placehold.it/50/34e7e4/000000?text=+)](#fresh-turquoise)[![Minty Green](https://placehold.it/50/0be881/000000?text=+)](#minty-green)[![Nârenji Orange](https://placehold.it/50/ffc048/000000?text=+)](#narenji-orange)[![Yriel Yellow](https://placehold.it/50/ffdd59/000000?text=+)](#yriel-yellow)[![Sunset Orange](https://placehold.it/50/ff5e57/000000?text=+)](#sunset-orange)[![Hint Of Elusive Blue](https://placehold.it/50/d2dae2/000000?text=+)](#hint-of-elusive-blue)[![Good Night!](https://placehold.it/50/485460/000000?text=+)](#good-night)
+[![Highlighter Pink](https://via.placeholder.com/50/ef5777/000000?text=+)](#highlighter-pink)[![Dark Periwinkle](https://via.placeholder.com/50/575fcf/000000?text=+)](#dark-periwinkle)[![Megaman](https://via.placeholder.com/50/4bcffa/000000?text=+)](#megaman)[![Fresh Turquoise](https://via.placeholder.com/50/34e7e4/000000?text=+)](#fresh-turquoise)[![Minty Green](https://via.placeholder.com/50/0be881/000000?text=+)](#minty-green)[![Nârenji Orange](https://via.placeholder.com/50/ffc048/000000?text=+)](#narenji-orange)[![Yriel Yellow](https://via.placeholder.com/50/ffdd59/000000?text=+)](#yriel-yellow)[![Sunset Orange](https://via.placeholder.com/50/ff5e57/000000?text=+)](#sunset-orange)[![Hint Of Elusive Blue](https://via.placeholder.com/50/d2dae2/000000?text=+)](#hint-of-elusive-blue)[![Good Night!](https://via.placeholder.com/50/485460/000000?text=+)](#good-night)
 
-[![Sizzling Red](https://placehold.it/50/f53b57/000000?text=+)](#sizzling-red)[![Free Speech Blue](https://placehold.it/50/3c40c6/000000?text=+)](#free-speech-blue)[![Spiro Disco Ball](https://placehold.it/50/0fbcf9/000000?text=+)](#spiro-disco-ball)[![Jade Dust](https://placehold.it/50/00d8d6/000000?text=+)](#jade-dust)[![Green Teal](https://placehold.it/50/05c46b/000000?text=+)](#green-teal)[![Chrome Yellow](https://placehold.it/50/ffa801/000000?text=+)](#chrome-yellow)[![Vibrant Yellow](https://placehold.it/50/ffd32a/000000?text=+)](#vibrant-yellow)[![Red Orange](https://placehold.it/50/ff3f34/000000?text=+)](#red-orange)[![London Square](https://placehold.it/50/808e9b/000000?text=+)](#london-square)[![Black Pearl](https://placehold.it/50/1e272e/000000?text=+)](#black-pearl)
+[![Sizzling Red](https://via.placeholder.com/50/f53b57/000000?text=+)](#sizzling-red)[![Free Speech Blue](https://via.placeholder.com/50/3c40c6/000000?text=+)](#free-speech-blue)[![Spiro Disco Ball](https://via.placeholder.com/50/0fbcf9/000000?text=+)](#spiro-disco-ball)[![Jade Dust](https://via.placeholder.com/50/00d8d6/000000?text=+)](#jade-dust)[![Green Teal](https://via.placeholder.com/50/05c46b/000000?text=+)](#green-teal)[![Chrome Yellow](https://via.placeholder.com/50/ffa801/000000?text=+)](#chrome-yellow)[![Vibrant Yellow](https://via.placeholder.com/50/ffd32a/000000?text=+)](#vibrant-yellow)[![Red Orange](https://via.placeholder.com/50/ff3f34/000000?text=+)](#red-orange)[![London Square](https://via.placeholder.com/50/808e9b/000000?text=+)](#london-square)[![Black Pearl](https://via.placeholder.com/50/1e272e/000000?text=+)](#black-pearl)
 
 
 # Highlighter Pink
 
-[![Highlighter Pink](https://placehold.it/50/ef5777/000000?text=+)](#highlighter-pink)
+[![Highlighter Pink](https://via.placeholder.com/50/ef5777/000000?text=+)](#highlighter-pink)
 
 #ef5777
 
@@ -42,7 +42,7 @@ module FlatColors.SwedishPalette exposing
 
 # Dark Periwinkle
 
-[![Dark Periwinkle](https://placehold.it/50/575fcf/000000?text=+)](#dark-periwinkle)
+[![Dark Periwinkle](https://via.placeholder.com/50/575fcf/000000?text=+)](#dark-periwinkle)
 
 #575fcf
 
@@ -51,7 +51,7 @@ module FlatColors.SwedishPalette exposing
 
 # Megaman
 
-[![Megaman](https://placehold.it/50/4bcffa/000000?text=+)](#megaman)
+[![Megaman](https://via.placeholder.com/50/4bcffa/000000?text=+)](#megaman)
 
 #4bcffa
 
@@ -60,7 +60,7 @@ module FlatColors.SwedishPalette exposing
 
 # Fresh Turquoise
 
-[![Fresh Turquoise](https://placehold.it/50/34e7e4/000000?text=+)](#fresh-turquoise)
+[![Fresh Turquoise](https://via.placeholder.com/50/34e7e4/000000?text=+)](#fresh-turquoise)
 
 #34e7e4
 
@@ -69,7 +69,7 @@ module FlatColors.SwedishPalette exposing
 
 # Minty Green
 
-[![Minty Green](https://placehold.it/50/0be881/000000?text=+)](#minty-green)
+[![Minty Green](https://via.placeholder.com/50/0be881/000000?text=+)](#minty-green)
 
 #0be881
 
@@ -78,7 +78,7 @@ module FlatColors.SwedishPalette exposing
 
 # Sizzling Red
 
-[![Sizzling Red](https://placehold.it/50/f53b57/000000?text=+)](#sizzling-red)
+[![Sizzling Red](https://via.placeholder.com/50/f53b57/000000?text=+)](#sizzling-red)
 
 #f53b57
 
@@ -87,7 +87,7 @@ module FlatColors.SwedishPalette exposing
 
 # Free Speech Blue
 
-[![Free Speech Blue](https://placehold.it/50/3c40c6/000000?text=+)](#free-speech-blue)
+[![Free Speech Blue](https://via.placeholder.com/50/3c40c6/000000?text=+)](#free-speech-blue)
 
 #3c40c6
 
@@ -96,7 +96,7 @@ module FlatColors.SwedishPalette exposing
 
 # Spiro Disco Ball
 
-[![Spiro Disco Ball](https://placehold.it/50/0fbcf9/000000?text=+)](#spiro-disco-ball)
+[![Spiro Disco Ball](https://via.placeholder.com/50/0fbcf9/000000?text=+)](#spiro-disco-ball)
 
 #0fbcf9
 
@@ -105,7 +105,7 @@ module FlatColors.SwedishPalette exposing
 
 # Jade Dust
 
-[![Jade Dust](https://placehold.it/50/00d8d6/000000?text=+)](#jade-dust)
+[![Jade Dust](https://via.placeholder.com/50/00d8d6/000000?text=+)](#jade-dust)
 
 #00d8d6
 
@@ -114,7 +114,7 @@ module FlatColors.SwedishPalette exposing
 
 # Green Teal
 
-[![Green Teal](https://placehold.it/50/05c46b/000000?text=+)](#green-teal)
+[![Green Teal](https://via.placeholder.com/50/05c46b/000000?text=+)](#green-teal)
 
 #05c46b
 
@@ -123,7 +123,7 @@ module FlatColors.SwedishPalette exposing
 
 # Nârenji Orange
 
-[![Nârenji Orange](https://placehold.it/50/ffc048/000000?text=+)](#narenji-orange)
+[![Nârenji Orange](https://via.placeholder.com/50/ffc048/000000?text=+)](#narenji-orange)
 
 #ffc048
 
@@ -132,7 +132,7 @@ module FlatColors.SwedishPalette exposing
 
 # Yriel Yellow
 
-[![Yriel Yellow](https://placehold.it/50/ffdd59/000000?text=+)](#yriel-yellow)
+[![Yriel Yellow](https://via.placeholder.com/50/ffdd59/000000?text=+)](#yriel-yellow)
 
 #ffdd59
 
@@ -141,7 +141,7 @@ module FlatColors.SwedishPalette exposing
 
 # Sunset Orange
 
-[![Sunset Orange](https://placehold.it/50/ff5e57/000000?text=+)](#sunset-orange)
+[![Sunset Orange](https://via.placeholder.com/50/ff5e57/000000?text=+)](#sunset-orange)
 
 #ff5e57
 
@@ -150,7 +150,7 @@ module FlatColors.SwedishPalette exposing
 
 # Hint Of Elusive Blue
 
-[![Hint Of Elusive Blue](https://placehold.it/50/d2dae2/000000?text=+)](#hint-of-elusive-blue)
+[![Hint Of Elusive Blue](https://via.placeholder.com/50/d2dae2/000000?text=+)](#hint-of-elusive-blue)
 
 #d2dae2
 
@@ -159,7 +159,7 @@ module FlatColors.SwedishPalette exposing
 
 # Good Night!
 
-[![Good Night!](https://placehold.it/50/485460/000000?text=+)](#good-night)
+[![Good Night!](https://via.placeholder.com/50/485460/000000?text=+)](#good-night)
 
 #485460
 
@@ -168,7 +168,7 @@ module FlatColors.SwedishPalette exposing
 
 # Chrome Yellow
 
-[![Chrome Yellow](https://placehold.it/50/ffa801/000000?text=+)](#chrome-yellow)
+[![Chrome Yellow](https://via.placeholder.com/50/ffa801/000000?text=+)](#chrome-yellow)
 
 #ffa801
 
@@ -177,7 +177,7 @@ module FlatColors.SwedishPalette exposing
 
 # Vibrant Yellow
 
-[![Vibrant Yellow](https://placehold.it/50/ffd32a/000000?text=+)](#vibrant-yellow)
+[![Vibrant Yellow](https://via.placeholder.com/50/ffd32a/000000?text=+)](#vibrant-yellow)
 
 #ffd32a
 
@@ -186,7 +186,7 @@ module FlatColors.SwedishPalette exposing
 
 # Red Orange
 
-[![Red Orange](https://placehold.it/50/ff3f34/000000?text=+)](#red-orange)
+[![Red Orange](https://via.placeholder.com/50/ff3f34/000000?text=+)](#red-orange)
 
 #ff3f34
 
@@ -195,7 +195,7 @@ module FlatColors.SwedishPalette exposing
 
 # London Square
 
-[![London Square](https://placehold.it/50/808e9b/000000?text=+)](#london-square)
+[![London Square](https://via.placeholder.com/50/808e9b/000000?text=+)](#london-square)
 
 #808e9b
 
@@ -204,7 +204,7 @@ module FlatColors.SwedishPalette exposing
 
 # Black Pearl
 
-[![Black Pearl](https://placehold.it/50/1e272e/000000?text=+)](#black-pearl)
+[![Black Pearl](https://via.placeholder.com/50/1e272e/000000?text=+)](#black-pearl)
 
 #1e272e
 
@@ -213,23 +213,23 @@ module FlatColors.SwedishPalette exposing
 
 # All Colors
 
-[![Highlighter Pink](https://placehold.it/50/ef5777/000000?text=+)](#highlighter-pink)[![Dark Periwinkle](https://placehold.it/50/575fcf/000000?text=+)](#dark-periwinkle)[![Megaman](https://placehold.it/50/4bcffa/000000?text=+)](#megaman)[![Fresh Turquoise](https://placehold.it/50/34e7e4/000000?text=+)](#fresh-turquoise)[![Minty Green](https://placehold.it/50/0be881/000000?text=+)](#minty-green)[![Nârenji Orange](https://placehold.it/50/ffc048/000000?text=+)](#narenji-orange)[![Yriel Yellow](https://placehold.it/50/ffdd59/000000?text=+)](#yriel-yellow)[![Sunset Orange](https://placehold.it/50/ff5e57/000000?text=+)](#sunset-orange)[![Hint Of Elusive Blue](https://placehold.it/50/d2dae2/000000?text=+)](#hint-of-elusive-blue)[![Good Night!](https://placehold.it/50/485460/000000?text=+)](#good-night)
+[![Highlighter Pink](https://via.placeholder.com/50/ef5777/000000?text=+)](#highlighter-pink)[![Dark Periwinkle](https://via.placeholder.com/50/575fcf/000000?text=+)](#dark-periwinkle)[![Megaman](https://via.placeholder.com/50/4bcffa/000000?text=+)](#megaman)[![Fresh Turquoise](https://via.placeholder.com/50/34e7e4/000000?text=+)](#fresh-turquoise)[![Minty Green](https://via.placeholder.com/50/0be881/000000?text=+)](#minty-green)[![Nârenji Orange](https://via.placeholder.com/50/ffc048/000000?text=+)](#narenji-orange)[![Yriel Yellow](https://via.placeholder.com/50/ffdd59/000000?text=+)](#yriel-yellow)[![Sunset Orange](https://via.placeholder.com/50/ff5e57/000000?text=+)](#sunset-orange)[![Hint Of Elusive Blue](https://via.placeholder.com/50/d2dae2/000000?text=+)](#hint-of-elusive-blue)[![Good Night!](https://via.placeholder.com/50/485460/000000?text=+)](#good-night)
 
-[![Sizzling Red](https://placehold.it/50/f53b57/000000?text=+)](#sizzling-red)[![Free Speech Blue](https://placehold.it/50/3c40c6/000000?text=+)](#free-speech-blue)[![Spiro Disco Ball](https://placehold.it/50/0fbcf9/000000?text=+)](#spiro-disco-ball)[![Jade Dust](https://placehold.it/50/00d8d6/000000?text=+)](#jade-dust)[![Green Teal](https://placehold.it/50/05c46b/000000?text=+)](#green-teal)[![Chrome Yellow](https://placehold.it/50/ffa801/000000?text=+)](#chrome-yellow)[![Vibrant Yellow](https://placehold.it/50/ffd32a/000000?text=+)](#vibrant-yellow)[![Red Orange](https://placehold.it/50/ff3f34/000000?text=+)](#red-orange)[![London Square](https://placehold.it/50/808e9b/000000?text=+)](#london-square)[![Black Pearl](https://placehold.it/50/1e272e/000000?text=+)](#black-pearl)
+[![Sizzling Red](https://via.placeholder.com/50/f53b57/000000?text=+)](#sizzling-red)[![Free Speech Blue](https://via.placeholder.com/50/3c40c6/000000?text=+)](#free-speech-blue)[![Spiro Disco Ball](https://via.placeholder.com/50/0fbcf9/000000?text=+)](#spiro-disco-ball)[![Jade Dust](https://via.placeholder.com/50/00d8d6/000000?text=+)](#jade-dust)[![Green Teal](https://via.placeholder.com/50/05c46b/000000?text=+)](#green-teal)[![Chrome Yellow](https://via.placeholder.com/50/ffa801/000000?text=+)](#chrome-yellow)[![Vibrant Yellow](https://via.placeholder.com/50/ffd32a/000000?text=+)](#vibrant-yellow)[![Red Orange](https://via.placeholder.com/50/ff3f34/000000?text=+)](#red-orange)[![London Square](https://via.placeholder.com/50/808e9b/000000?text=+)](#london-square)[![Black Pearl](https://via.placeholder.com/50/1e272e/000000?text=+)](#black-pearl)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Highlighter Pink](https://placehold.it/50/ef5777/000000?text=+)](#highlighter-pink)[![Dark Periwinkle](https://placehold.it/50/575fcf/000000?text=+)](#dark-periwinkle)[![Megaman](https://placehold.it/50/4bcffa/000000?text=+)](#megaman)[![Fresh Turquoise](https://placehold.it/50/34e7e4/000000?text=+)](#fresh-turquoise)[![Minty Green](https://placehold.it/50/0be881/000000?text=+)](#minty-green)[![Nârenji Orange](https://placehold.it/50/ffc048/000000?text=+)](#narenji-orange)[![Yriel Yellow](https://placehold.it/50/ffdd59/000000?text=+)](#yriel-yellow)[![Sunset Orange](https://placehold.it/50/ff5e57/000000?text=+)](#sunset-orange)[![Hint Of Elusive Blue](https://placehold.it/50/d2dae2/000000?text=+)](#hint-of-elusive-blue)[![Good Night!](https://placehold.it/50/485460/000000?text=+)](#good-night)
+[![Highlighter Pink](https://via.placeholder.com/50/ef5777/000000?text=+)](#highlighter-pink)[![Dark Periwinkle](https://via.placeholder.com/50/575fcf/000000?text=+)](#dark-periwinkle)[![Megaman](https://via.placeholder.com/50/4bcffa/000000?text=+)](#megaman)[![Fresh Turquoise](https://via.placeholder.com/50/34e7e4/000000?text=+)](#fresh-turquoise)[![Minty Green](https://via.placeholder.com/50/0be881/000000?text=+)](#minty-green)[![Nârenji Orange](https://via.placeholder.com/50/ffc048/000000?text=+)](#narenji-orange)[![Yriel Yellow](https://via.placeholder.com/50/ffdd59/000000?text=+)](#yriel-yellow)[![Sunset Orange](https://via.placeholder.com/50/ff5e57/000000?text=+)](#sunset-orange)[![Hint Of Elusive Blue](https://via.placeholder.com/50/d2dae2/000000?text=+)](#hint-of-elusive-blue)[![Good Night!](https://via.placeholder.com/50/485460/000000?text=+)](#good-night)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Sizzling Red](https://placehold.it/50/f53b57/000000?text=+)](#sizzling-red)[![Free Speech Blue](https://placehold.it/50/3c40c6/000000?text=+)](#free-speech-blue)[![Spiro Disco Ball](https://placehold.it/50/0fbcf9/000000?text=+)](#spiro-disco-ball)[![Jade Dust](https://placehold.it/50/00d8d6/000000?text=+)](#jade-dust)[![Green Teal](https://placehold.it/50/05c46b/000000?text=+)](#green-teal)[![Chrome Yellow](https://placehold.it/50/ffa801/000000?text=+)](#chrome-yellow)[![Vibrant Yellow](https://placehold.it/50/ffd32a/000000?text=+)](#vibrant-yellow)[![Red Orange](https://placehold.it/50/ff3f34/000000?text=+)](#red-orange)[![London Square](https://placehold.it/50/808e9b/000000?text=+)](#london-square)[![Black Pearl](https://placehold.it/50/1e272e/000000?text=+)](#black-pearl)
+[![Sizzling Red](https://via.placeholder.com/50/f53b57/000000?text=+)](#sizzling-red)[![Free Speech Blue](https://via.placeholder.com/50/3c40c6/000000?text=+)](#free-speech-blue)[![Spiro Disco Ball](https://via.placeholder.com/50/0fbcf9/000000?text=+)](#spiro-disco-ball)[![Jade Dust](https://via.placeholder.com/50/00d8d6/000000?text=+)](#jade-dust)[![Green Teal](https://via.placeholder.com/50/05c46b/000000?text=+)](#green-teal)[![Chrome Yellow](https://via.placeholder.com/50/ffa801/000000?text=+)](#chrome-yellow)[![Vibrant Yellow](https://via.placeholder.com/50/ffd32a/000000?text=+)](#vibrant-yellow)[![Red Orange](https://via.placeholder.com/50/ff3f34/000000?text=+)](#red-orange)[![London Square](https://via.placeholder.com/50/808e9b/000000?text=+)](#london-square)[![Black Pearl](https://via.placeholder.com/50/1e272e/000000?text=+)](#black-pearl)
 
 @docs allDark, allDarkHex, allDarkRgb
 

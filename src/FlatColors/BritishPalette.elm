@@ -26,14 +26,14 @@ module FlatColors.BritishPalette exposing
 
 {-| British Palette by [Jan Losert](https://dribbble.com/janlosert)
 
-[![Protoss Pylon](https://placehold.it/50/00a8ff/000000?text=+)](#protoss-pylon)[![Periwinkle](https://placehold.it/50/9c88ff/000000?text=+)](#periwinkle)[![Rise-N-Shine](https://placehold.it/50/fbc531/000000?text=+)](#rise-n-shine)[![Download Progress](https://placehold.it/50/4cd137/000000?text=+)](#download-progress)[![Seabrook](https://placehold.it/50/487eb0/000000?text=+)](#seabrook)[![Nasturcian Flower](https://placehold.it/50/e84118/000000?text=+)](#nasturcian-flower)[![Lynx White](https://placehold.it/50/f5f6fa/000000?text=+)](#lynx-white)[![Blueberry Soda](https://placehold.it/50/7f8fa6/000000?text=+)](#blueberry-soda)[![Mazarine Blue](https://placehold.it/50/273c75/000000?text=+)](#mazarine-blue)[![Blue Nights](https://placehold.it/50/353b48/000000?text=+)](#blue-nights)
+[![Protoss Pylon](https://via.placeholder.com/50/00a8ff/000000?text=+)](#protoss-pylon)[![Periwinkle](https://via.placeholder.com/50/9c88ff/000000?text=+)](#periwinkle)[![Rise-N-Shine](https://via.placeholder.com/50/fbc531/000000?text=+)](#rise-n-shine)[![Download Progress](https://via.placeholder.com/50/4cd137/000000?text=+)](#download-progress)[![Seabrook](https://via.placeholder.com/50/487eb0/000000?text=+)](#seabrook)[![Nasturcian Flower](https://via.placeholder.com/50/e84118/000000?text=+)](#nasturcian-flower)[![Lynx White](https://via.placeholder.com/50/f5f6fa/000000?text=+)](#lynx-white)[![Blueberry Soda](https://via.placeholder.com/50/7f8fa6/000000?text=+)](#blueberry-soda)[![Mazarine Blue](https://via.placeholder.com/50/273c75/000000?text=+)](#mazarine-blue)[![Blue Nights](https://via.placeholder.com/50/353b48/000000?text=+)](#blue-nights)
 
-[![Vanadyl Blue](https://placehold.it/50/0097e6/000000?text=+)](#vanadyl-blue)[![Matt Purple](https://placehold.it/50/8c7ae6/000000?text=+)](#matt-purple)[![Nanohanacha Gold](https://placehold.it/50/e1b12c/000000?text=+)](#nanohanacha-gold)[![Skirret Green](https://placehold.it/50/44bd32/000000?text=+)](#skirret-green)[![Naval](https://placehold.it/50/40739e/000000?text=+)](#naval)[![Harley Davidson Orange](https://placehold.it/50/c23616/000000?text=+)](#harley-davidson-orange)[![Hint Of Pensive](https://placehold.it/50/dcdde1/000000?text=+)](#hint-of-pensive)[![Chain Gang Grey](https://placehold.it/50/718093/000000?text=+)](#chain-gang-grey)[![Pico Void](https://placehold.it/50/192a56/000000?text=+)](#pico-void)[![Electromagnetic](https://placehold.it/50/2f3640/000000?text=+)](#electromagnetic)
+[![Vanadyl Blue](https://via.placeholder.com/50/0097e6/000000?text=+)](#vanadyl-blue)[![Matt Purple](https://via.placeholder.com/50/8c7ae6/000000?text=+)](#matt-purple)[![Nanohanacha Gold](https://via.placeholder.com/50/e1b12c/000000?text=+)](#nanohanacha-gold)[![Skirret Green](https://via.placeholder.com/50/44bd32/000000?text=+)](#skirret-green)[![Naval](https://via.placeholder.com/50/40739e/000000?text=+)](#naval)[![Harley Davidson Orange](https://via.placeholder.com/50/c23616/000000?text=+)](#harley-davidson-orange)[![Hint Of Pensive](https://via.placeholder.com/50/dcdde1/000000?text=+)](#hint-of-pensive)[![Chain Gang Grey](https://via.placeholder.com/50/718093/000000?text=+)](#chain-gang-grey)[![Pico Void](https://via.placeholder.com/50/192a56/000000?text=+)](#pico-void)[![Electromagnetic](https://via.placeholder.com/50/2f3640/000000?text=+)](#electromagnetic)
 
 
 # Protoss Pylon
 
-[![Protoss Pylon](https://placehold.it/50/00a8ff/000000?text=+)](#protoss-pylon)
+[![Protoss Pylon](https://via.placeholder.com/50/00a8ff/000000?text=+)](#protoss-pylon)
 
 #00a8ff
 
@@ -42,7 +42,7 @@ module FlatColors.BritishPalette exposing
 
 # Periwinkle
 
-[![Periwinkle](https://placehold.it/50/9c88ff/000000?text=+)](#periwinkle)
+[![Periwinkle](https://via.placeholder.com/50/9c88ff/000000?text=+)](#periwinkle)
 
 #9c88ff
 
@@ -51,7 +51,7 @@ module FlatColors.BritishPalette exposing
 
 # Rise-N-Shine
 
-[![Rise-N-Shine](https://placehold.it/50/fbc531/000000?text=+)](#rise-n-shine)
+[![Rise-N-Shine](https://via.placeholder.com/50/fbc531/000000?text=+)](#rise-n-shine)
 
 #fbc531
 
@@ -60,7 +60,7 @@ module FlatColors.BritishPalette exposing
 
 # Download Progress
 
-[![Download Progress](https://placehold.it/50/4cd137/000000?text=+)](#download-progress)
+[![Download Progress](https://via.placeholder.com/50/4cd137/000000?text=+)](#download-progress)
 
 #4cd137
 
@@ -69,7 +69,7 @@ module FlatColors.BritishPalette exposing
 
 # Seabrook
 
-[![Seabrook](https://placehold.it/50/487eb0/000000?text=+)](#seabrook)
+[![Seabrook](https://via.placeholder.com/50/487eb0/000000?text=+)](#seabrook)
 
 #487eb0
 
@@ -78,7 +78,7 @@ module FlatColors.BritishPalette exposing
 
 # Vanadyl Blue
 
-[![Vanadyl Blue](https://placehold.it/50/0097e6/000000?text=+)](#vanadyl-blue)
+[![Vanadyl Blue](https://via.placeholder.com/50/0097e6/000000?text=+)](#vanadyl-blue)
 
 #0097e6
 
@@ -87,7 +87,7 @@ module FlatColors.BritishPalette exposing
 
 # Matt Purple
 
-[![Matt Purple](https://placehold.it/50/8c7ae6/000000?text=+)](#matt-purple)
+[![Matt Purple](https://via.placeholder.com/50/8c7ae6/000000?text=+)](#matt-purple)
 
 #8c7ae6
 
@@ -96,7 +96,7 @@ module FlatColors.BritishPalette exposing
 
 # Nanohanacha Gold
 
-[![Nanohanacha Gold](https://placehold.it/50/e1b12c/000000?text=+)](#nanohanacha-gold)
+[![Nanohanacha Gold](https://via.placeholder.com/50/e1b12c/000000?text=+)](#nanohanacha-gold)
 
 #e1b12c
 
@@ -105,7 +105,7 @@ module FlatColors.BritishPalette exposing
 
 # Skirret Green
 
-[![Skirret Green](https://placehold.it/50/44bd32/000000?text=+)](#skirret-green)
+[![Skirret Green](https://via.placeholder.com/50/44bd32/000000?text=+)](#skirret-green)
 
 #44bd32
 
@@ -114,7 +114,7 @@ module FlatColors.BritishPalette exposing
 
 # Naval
 
-[![Naval](https://placehold.it/50/40739e/000000?text=+)](#naval)
+[![Naval](https://via.placeholder.com/50/40739e/000000?text=+)](#naval)
 
 #40739e
 
@@ -123,7 +123,7 @@ module FlatColors.BritishPalette exposing
 
 # Nasturcian Flower
 
-[![Nasturcian Flower](https://placehold.it/50/e84118/000000?text=+)](#nasturcian-flower)
+[![Nasturcian Flower](https://via.placeholder.com/50/e84118/000000?text=+)](#nasturcian-flower)
 
 #e84118
 
@@ -132,7 +132,7 @@ module FlatColors.BritishPalette exposing
 
 # Lynx White
 
-[![Lynx White](https://placehold.it/50/f5f6fa/000000?text=+)](#lynx-white)
+[![Lynx White](https://via.placeholder.com/50/f5f6fa/000000?text=+)](#lynx-white)
 
 #f5f6fa
 
@@ -141,7 +141,7 @@ module FlatColors.BritishPalette exposing
 
 # Blueberry Soda
 
-[![Blueberry Soda](https://placehold.it/50/7f8fa6/000000?text=+)](#blueberry-soda)
+[![Blueberry Soda](https://via.placeholder.com/50/7f8fa6/000000?text=+)](#blueberry-soda)
 
 #7f8fa6
 
@@ -150,7 +150,7 @@ module FlatColors.BritishPalette exposing
 
 # Mazarine Blue
 
-[![Mazarine Blue](https://placehold.it/50/273c75/000000?text=+)](#mazarine-blue)
+[![Mazarine Blue](https://via.placeholder.com/50/273c75/000000?text=+)](#mazarine-blue)
 
 #273c75
 
@@ -159,7 +159,7 @@ module FlatColors.BritishPalette exposing
 
 # Blue Nights
 
-[![Blue Nights](https://placehold.it/50/353b48/000000?text=+)](#blue-nights)
+[![Blue Nights](https://via.placeholder.com/50/353b48/000000?text=+)](#blue-nights)
 
 #353b48
 
@@ -168,7 +168,7 @@ module FlatColors.BritishPalette exposing
 
 # Harley Davidson Orange
 
-[![Harley Davidson Orange](https://placehold.it/50/c23616/000000?text=+)](#harley-davidson-orange)
+[![Harley Davidson Orange](https://via.placeholder.com/50/c23616/000000?text=+)](#harley-davidson-orange)
 
 #c23616
 
@@ -177,7 +177,7 @@ module FlatColors.BritishPalette exposing
 
 # Hint Of Pensive
 
-[![Hint Of Pensive](https://placehold.it/50/dcdde1/000000?text=+)](#hint-of-pensive)
+[![Hint Of Pensive](https://via.placeholder.com/50/dcdde1/000000?text=+)](#hint-of-pensive)
 
 #dcdde1
 
@@ -186,7 +186,7 @@ module FlatColors.BritishPalette exposing
 
 # Chain Gang Grey
 
-[![Chain Gang Grey](https://placehold.it/50/718093/000000?text=+)](#chain-gang-grey)
+[![Chain Gang Grey](https://via.placeholder.com/50/718093/000000?text=+)](#chain-gang-grey)
 
 #718093
 
@@ -195,7 +195,7 @@ module FlatColors.BritishPalette exposing
 
 # Pico Void
 
-[![Pico Void](https://placehold.it/50/192a56/000000?text=+)](#pico-void)
+[![Pico Void](https://via.placeholder.com/50/192a56/000000?text=+)](#pico-void)
 
 #192a56
 
@@ -204,7 +204,7 @@ module FlatColors.BritishPalette exposing
 
 # Electromagnetic
 
-[![Electromagnetic](https://placehold.it/50/2f3640/000000?text=+)](#electromagnetic)
+[![Electromagnetic](https://via.placeholder.com/50/2f3640/000000?text=+)](#electromagnetic)
 
 #2f3640
 
@@ -213,23 +213,23 @@ module FlatColors.BritishPalette exposing
 
 # All Colors
 
-[![Protoss Pylon](https://placehold.it/50/00a8ff/000000?text=+)](#protoss-pylon)[![Periwinkle](https://placehold.it/50/9c88ff/000000?text=+)](#periwinkle)[![Rise-N-Shine](https://placehold.it/50/fbc531/000000?text=+)](#rise-n-shine)[![Download Progress](https://placehold.it/50/4cd137/000000?text=+)](#download-progress)[![Seabrook](https://placehold.it/50/487eb0/000000?text=+)](#seabrook)[![Nasturcian Flower](https://placehold.it/50/e84118/000000?text=+)](#nasturcian-flower)[![Lynx White](https://placehold.it/50/f5f6fa/000000?text=+)](#lynx-white)[![Blueberry Soda](https://placehold.it/50/7f8fa6/000000?text=+)](#blueberry-soda)[![Mazarine Blue](https://placehold.it/50/273c75/000000?text=+)](#mazarine-blue)[![Blue Nights](https://placehold.it/50/353b48/000000?text=+)](#blue-nights)
+[![Protoss Pylon](https://via.placeholder.com/50/00a8ff/000000?text=+)](#protoss-pylon)[![Periwinkle](https://via.placeholder.com/50/9c88ff/000000?text=+)](#periwinkle)[![Rise-N-Shine](https://via.placeholder.com/50/fbc531/000000?text=+)](#rise-n-shine)[![Download Progress](https://via.placeholder.com/50/4cd137/000000?text=+)](#download-progress)[![Seabrook](https://via.placeholder.com/50/487eb0/000000?text=+)](#seabrook)[![Nasturcian Flower](https://via.placeholder.com/50/e84118/000000?text=+)](#nasturcian-flower)[![Lynx White](https://via.placeholder.com/50/f5f6fa/000000?text=+)](#lynx-white)[![Blueberry Soda](https://via.placeholder.com/50/7f8fa6/000000?text=+)](#blueberry-soda)[![Mazarine Blue](https://via.placeholder.com/50/273c75/000000?text=+)](#mazarine-blue)[![Blue Nights](https://via.placeholder.com/50/353b48/000000?text=+)](#blue-nights)
 
-[![Vanadyl Blue](https://placehold.it/50/0097e6/000000?text=+)](#vanadyl-blue)[![Matt Purple](https://placehold.it/50/8c7ae6/000000?text=+)](#matt-purple)[![Nanohanacha Gold](https://placehold.it/50/e1b12c/000000?text=+)](#nanohanacha-gold)[![Skirret Green](https://placehold.it/50/44bd32/000000?text=+)](#skirret-green)[![Naval](https://placehold.it/50/40739e/000000?text=+)](#naval)[![Harley Davidson Orange](https://placehold.it/50/c23616/000000?text=+)](#harley-davidson-orange)[![Hint Of Pensive](https://placehold.it/50/dcdde1/000000?text=+)](#hint-of-pensive)[![Chain Gang Grey](https://placehold.it/50/718093/000000?text=+)](#chain-gang-grey)[![Pico Void](https://placehold.it/50/192a56/000000?text=+)](#pico-void)[![Electromagnetic](https://placehold.it/50/2f3640/000000?text=+)](#electromagnetic)
+[![Vanadyl Blue](https://via.placeholder.com/50/0097e6/000000?text=+)](#vanadyl-blue)[![Matt Purple](https://via.placeholder.com/50/8c7ae6/000000?text=+)](#matt-purple)[![Nanohanacha Gold](https://via.placeholder.com/50/e1b12c/000000?text=+)](#nanohanacha-gold)[![Skirret Green](https://via.placeholder.com/50/44bd32/000000?text=+)](#skirret-green)[![Naval](https://via.placeholder.com/50/40739e/000000?text=+)](#naval)[![Harley Davidson Orange](https://via.placeholder.com/50/c23616/000000?text=+)](#harley-davidson-orange)[![Hint Of Pensive](https://via.placeholder.com/50/dcdde1/000000?text=+)](#hint-of-pensive)[![Chain Gang Grey](https://via.placeholder.com/50/718093/000000?text=+)](#chain-gang-grey)[![Pico Void](https://via.placeholder.com/50/192a56/000000?text=+)](#pico-void)[![Electromagnetic](https://via.placeholder.com/50/2f3640/000000?text=+)](#electromagnetic)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Protoss Pylon](https://placehold.it/50/00a8ff/000000?text=+)](#protoss-pylon)[![Periwinkle](https://placehold.it/50/9c88ff/000000?text=+)](#periwinkle)[![Rise-N-Shine](https://placehold.it/50/fbc531/000000?text=+)](#rise-n-shine)[![Download Progress](https://placehold.it/50/4cd137/000000?text=+)](#download-progress)[![Seabrook](https://placehold.it/50/487eb0/000000?text=+)](#seabrook)[![Nasturcian Flower](https://placehold.it/50/e84118/000000?text=+)](#nasturcian-flower)[![Lynx White](https://placehold.it/50/f5f6fa/000000?text=+)](#lynx-white)[![Blueberry Soda](https://placehold.it/50/7f8fa6/000000?text=+)](#blueberry-soda)[![Mazarine Blue](https://placehold.it/50/273c75/000000?text=+)](#mazarine-blue)[![Blue Nights](https://placehold.it/50/353b48/000000?text=+)](#blue-nights)
+[![Protoss Pylon](https://via.placeholder.com/50/00a8ff/000000?text=+)](#protoss-pylon)[![Periwinkle](https://via.placeholder.com/50/9c88ff/000000?text=+)](#periwinkle)[![Rise-N-Shine](https://via.placeholder.com/50/fbc531/000000?text=+)](#rise-n-shine)[![Download Progress](https://via.placeholder.com/50/4cd137/000000?text=+)](#download-progress)[![Seabrook](https://via.placeholder.com/50/487eb0/000000?text=+)](#seabrook)[![Nasturcian Flower](https://via.placeholder.com/50/e84118/000000?text=+)](#nasturcian-flower)[![Lynx White](https://via.placeholder.com/50/f5f6fa/000000?text=+)](#lynx-white)[![Blueberry Soda](https://via.placeholder.com/50/7f8fa6/000000?text=+)](#blueberry-soda)[![Mazarine Blue](https://via.placeholder.com/50/273c75/000000?text=+)](#mazarine-blue)[![Blue Nights](https://via.placeholder.com/50/353b48/000000?text=+)](#blue-nights)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Vanadyl Blue](https://placehold.it/50/0097e6/000000?text=+)](#vanadyl-blue)[![Matt Purple](https://placehold.it/50/8c7ae6/000000?text=+)](#matt-purple)[![Nanohanacha Gold](https://placehold.it/50/e1b12c/000000?text=+)](#nanohanacha-gold)[![Skirret Green](https://placehold.it/50/44bd32/000000?text=+)](#skirret-green)[![Naval](https://placehold.it/50/40739e/000000?text=+)](#naval)[![Harley Davidson Orange](https://placehold.it/50/c23616/000000?text=+)](#harley-davidson-orange)[![Hint Of Pensive](https://placehold.it/50/dcdde1/000000?text=+)](#hint-of-pensive)[![Chain Gang Grey](https://placehold.it/50/718093/000000?text=+)](#chain-gang-grey)[![Pico Void](https://placehold.it/50/192a56/000000?text=+)](#pico-void)[![Electromagnetic](https://placehold.it/50/2f3640/000000?text=+)](#electromagnetic)
+[![Vanadyl Blue](https://via.placeholder.com/50/0097e6/000000?text=+)](#vanadyl-blue)[![Matt Purple](https://via.placeholder.com/50/8c7ae6/000000?text=+)](#matt-purple)[![Nanohanacha Gold](https://via.placeholder.com/50/e1b12c/000000?text=+)](#nanohanacha-gold)[![Skirret Green](https://via.placeholder.com/50/44bd32/000000?text=+)](#skirret-green)[![Naval](https://via.placeholder.com/50/40739e/000000?text=+)](#naval)[![Harley Davidson Orange](https://via.placeholder.com/50/c23616/000000?text=+)](#harley-davidson-orange)[![Hint Of Pensive](https://via.placeholder.com/50/dcdde1/000000?text=+)](#hint-of-pensive)[![Chain Gang Grey](https://via.placeholder.com/50/718093/000000?text=+)](#chain-gang-grey)[![Pico Void](https://via.placeholder.com/50/192a56/000000?text=+)](#pico-void)[![Electromagnetic](https://via.placeholder.com/50/2f3640/000000?text=+)](#electromagnetic)
 
 @docs allDark, allDarkHex, allDarkRgb
 

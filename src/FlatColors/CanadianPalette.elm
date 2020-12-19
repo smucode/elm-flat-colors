@@ -26,14 +26,14 @@ module FlatColors.CanadianPalette exposing
 
 {-| Canadian Palette by [Dmitri Litvinov](https://dribbble.com/dmitrilitvinov)
 
-[![Jigglypuff](https://placehold.it/50/ff9ff3/000000?text=+)](#jigglypuff)[![Casandora Yellow](https://placehold.it/50/feca57/000000?text=+)](#casandora-yellow)[![Pastel Red](https://placehold.it/50/ff6b6b/000000?text=+)](#pastel-red)[![Megaman](https://placehold.it/50/48dbfb/000000?text=+)](#megaman)[![Wild Caribbean Green](https://placehold.it/50/1dd1a1/000000?text=+)](#wild-caribbean-green)[![Jade Dust](https://placehold.it/50/00d2d3/000000?text=+)](#jade-dust)[![Joust Blue](https://placehold.it/50/54a0ff/000000?text=+)](#joust-blue)[![Nasu Purple](https://placehold.it/50/5f27cd/000000?text=+)](#nasu-purple)[![Light Blue Ballerina](https://placehold.it/50/c8d6e5/000000?text=+)](#light-blue-ballerina)[![Fuel Town](https://placehold.it/50/576574/000000?text=+)](#fuel-town)
+[![Jigglypuff](https://via.placeholder.com/50/ff9ff3/000000?text=+)](#jigglypuff)[![Casandora Yellow](https://via.placeholder.com/50/feca57/000000?text=+)](#casandora-yellow)[![Pastel Red](https://via.placeholder.com/50/ff6b6b/000000?text=+)](#pastel-red)[![Megaman](https://via.placeholder.com/50/48dbfb/000000?text=+)](#megaman)[![Wild Caribbean Green](https://via.placeholder.com/50/1dd1a1/000000?text=+)](#wild-caribbean-green)[![Jade Dust](https://via.placeholder.com/50/00d2d3/000000?text=+)](#jade-dust)[![Joust Blue](https://via.placeholder.com/50/54a0ff/000000?text=+)](#joust-blue)[![Nasu Purple](https://via.placeholder.com/50/5f27cd/000000?text=+)](#nasu-purple)[![Light Blue Ballerina](https://via.placeholder.com/50/c8d6e5/000000?text=+)](#light-blue-ballerina)[![Fuel Town](https://via.placeholder.com/50/576574/000000?text=+)](#fuel-town)
 
-[![Lián Hóng Lotus Pink](https://placehold.it/50/f368e0/000000?text=+)](#lian-hong-lotus-pink)[![Double Dragon Skin](https://placehold.it/50/ff9f43/000000?text=+)](#double-dragon-skin)[![Amour](https://placehold.it/50/ee5253/000000?text=+)](#amour)[![Cyanite](https://placehold.it/50/0abde3/000000?text=+)](#cyanite)[![Dark Mountain Meadow](https://placehold.it/50/10ac84/000000?text=+)](#dark-mountain-meadow)[![Aqua Velvet](https://placehold.it/50/01a3a4/000000?text=+)](#aqua-velvet)[![Bleu De France](https://placehold.it/50/2e86de/000000?text=+)](#bleu-de-france)[![Bluebell](https://placehold.it/50/341f97/000000?text=+)](#bluebell)[![Storm Petrel](https://placehold.it/50/8395a7/000000?text=+)](#storm-petrel)[![Imperial Primer](https://placehold.it/50/222f3e/000000?text=+)](#imperial-primer)
+[![Lián Hóng Lotus Pink](https://via.placeholder.com/50/f368e0/000000?text=+)](#lian-hong-lotus-pink)[![Double Dragon Skin](https://via.placeholder.com/50/ff9f43/000000?text=+)](#double-dragon-skin)[![Amour](https://via.placeholder.com/50/ee5253/000000?text=+)](#amour)[![Cyanite](https://via.placeholder.com/50/0abde3/000000?text=+)](#cyanite)[![Dark Mountain Meadow](https://via.placeholder.com/50/10ac84/000000?text=+)](#dark-mountain-meadow)[![Aqua Velvet](https://via.placeholder.com/50/01a3a4/000000?text=+)](#aqua-velvet)[![Bleu De France](https://via.placeholder.com/50/2e86de/000000?text=+)](#bleu-de-france)[![Bluebell](https://via.placeholder.com/50/341f97/000000?text=+)](#bluebell)[![Storm Petrel](https://via.placeholder.com/50/8395a7/000000?text=+)](#storm-petrel)[![Imperial Primer](https://via.placeholder.com/50/222f3e/000000?text=+)](#imperial-primer)
 
 
 # Jigglypuff
 
-[![Jigglypuff](https://placehold.it/50/ff9ff3/000000?text=+)](#jigglypuff)
+[![Jigglypuff](https://via.placeholder.com/50/ff9ff3/000000?text=+)](#jigglypuff)
 
 #ff9ff3
 
@@ -42,7 +42,7 @@ module FlatColors.CanadianPalette exposing
 
 # Casandora Yellow
 
-[![Casandora Yellow](https://placehold.it/50/feca57/000000?text=+)](#casandora-yellow)
+[![Casandora Yellow](https://via.placeholder.com/50/feca57/000000?text=+)](#casandora-yellow)
 
 #feca57
 
@@ -51,7 +51,7 @@ module FlatColors.CanadianPalette exposing
 
 # Pastel Red
 
-[![Pastel Red](https://placehold.it/50/ff6b6b/000000?text=+)](#pastel-red)
+[![Pastel Red](https://via.placeholder.com/50/ff6b6b/000000?text=+)](#pastel-red)
 
 #ff6b6b
 
@@ -60,7 +60,7 @@ module FlatColors.CanadianPalette exposing
 
 # Megaman
 
-[![Megaman](https://placehold.it/50/48dbfb/000000?text=+)](#megaman)
+[![Megaman](https://via.placeholder.com/50/48dbfb/000000?text=+)](#megaman)
 
 #48dbfb
 
@@ -69,7 +69,7 @@ module FlatColors.CanadianPalette exposing
 
 # Wild Caribbean Green
 
-[![Wild Caribbean Green](https://placehold.it/50/1dd1a1/000000?text=+)](#wild-caribbean-green)
+[![Wild Caribbean Green](https://via.placeholder.com/50/1dd1a1/000000?text=+)](#wild-caribbean-green)
 
 #1dd1a1
 
@@ -78,7 +78,7 @@ module FlatColors.CanadianPalette exposing
 
 # Lián Hóng Lotus Pink
 
-[![Lián Hóng Lotus Pink](https://placehold.it/50/f368e0/000000?text=+)](#lian-hong-lotus-pink)
+[![Lián Hóng Lotus Pink](https://via.placeholder.com/50/f368e0/000000?text=+)](#lian-hong-lotus-pink)
 
 #f368e0
 
@@ -87,7 +87,7 @@ module FlatColors.CanadianPalette exposing
 
 # Double Dragon Skin
 
-[![Double Dragon Skin](https://placehold.it/50/ff9f43/000000?text=+)](#double-dragon-skin)
+[![Double Dragon Skin](https://via.placeholder.com/50/ff9f43/000000?text=+)](#double-dragon-skin)
 
 #ff9f43
 
@@ -96,7 +96,7 @@ module FlatColors.CanadianPalette exposing
 
 # Amour
 
-[![Amour](https://placehold.it/50/ee5253/000000?text=+)](#amour)
+[![Amour](https://via.placeholder.com/50/ee5253/000000?text=+)](#amour)
 
 #ee5253
 
@@ -105,7 +105,7 @@ module FlatColors.CanadianPalette exposing
 
 # Cyanite
 
-[![Cyanite](https://placehold.it/50/0abde3/000000?text=+)](#cyanite)
+[![Cyanite](https://via.placeholder.com/50/0abde3/000000?text=+)](#cyanite)
 
 #0abde3
 
@@ -114,7 +114,7 @@ module FlatColors.CanadianPalette exposing
 
 # Dark Mountain Meadow
 
-[![Dark Mountain Meadow](https://placehold.it/50/10ac84/000000?text=+)](#dark-mountain-meadow)
+[![Dark Mountain Meadow](https://via.placeholder.com/50/10ac84/000000?text=+)](#dark-mountain-meadow)
 
 #10ac84
 
@@ -123,7 +123,7 @@ module FlatColors.CanadianPalette exposing
 
 # Jade Dust
 
-[![Jade Dust](https://placehold.it/50/00d2d3/000000?text=+)](#jade-dust)
+[![Jade Dust](https://via.placeholder.com/50/00d2d3/000000?text=+)](#jade-dust)
 
 #00d2d3
 
@@ -132,7 +132,7 @@ module FlatColors.CanadianPalette exposing
 
 # Joust Blue
 
-[![Joust Blue](https://placehold.it/50/54a0ff/000000?text=+)](#joust-blue)
+[![Joust Blue](https://via.placeholder.com/50/54a0ff/000000?text=+)](#joust-blue)
 
 #54a0ff
 
@@ -141,7 +141,7 @@ module FlatColors.CanadianPalette exposing
 
 # Nasu Purple
 
-[![Nasu Purple](https://placehold.it/50/5f27cd/000000?text=+)](#nasu-purple)
+[![Nasu Purple](https://via.placeholder.com/50/5f27cd/000000?text=+)](#nasu-purple)
 
 #5f27cd
 
@@ -150,7 +150,7 @@ module FlatColors.CanadianPalette exposing
 
 # Light Blue Ballerina
 
-[![Light Blue Ballerina](https://placehold.it/50/c8d6e5/000000?text=+)](#light-blue-ballerina)
+[![Light Blue Ballerina](https://via.placeholder.com/50/c8d6e5/000000?text=+)](#light-blue-ballerina)
 
 #c8d6e5
 
@@ -159,7 +159,7 @@ module FlatColors.CanadianPalette exposing
 
 # Fuel Town
 
-[![Fuel Town](https://placehold.it/50/576574/000000?text=+)](#fuel-town)
+[![Fuel Town](https://via.placeholder.com/50/576574/000000?text=+)](#fuel-town)
 
 #576574
 
@@ -168,7 +168,7 @@ module FlatColors.CanadianPalette exposing
 
 # Aqua Velvet
 
-[![Aqua Velvet](https://placehold.it/50/01a3a4/000000?text=+)](#aqua-velvet)
+[![Aqua Velvet](https://via.placeholder.com/50/01a3a4/000000?text=+)](#aqua-velvet)
 
 #01a3a4
 
@@ -177,7 +177,7 @@ module FlatColors.CanadianPalette exposing
 
 # Bleu De France
 
-[![Bleu De France](https://placehold.it/50/2e86de/000000?text=+)](#bleu-de-france)
+[![Bleu De France](https://via.placeholder.com/50/2e86de/000000?text=+)](#bleu-de-france)
 
 #2e86de
 
@@ -186,7 +186,7 @@ module FlatColors.CanadianPalette exposing
 
 # Bluebell
 
-[![Bluebell](https://placehold.it/50/341f97/000000?text=+)](#bluebell)
+[![Bluebell](https://via.placeholder.com/50/341f97/000000?text=+)](#bluebell)
 
 #341f97
 
@@ -195,7 +195,7 @@ module FlatColors.CanadianPalette exposing
 
 # Storm Petrel
 
-[![Storm Petrel](https://placehold.it/50/8395a7/000000?text=+)](#storm-petrel)
+[![Storm Petrel](https://via.placeholder.com/50/8395a7/000000?text=+)](#storm-petrel)
 
 #8395a7
 
@@ -204,7 +204,7 @@ module FlatColors.CanadianPalette exposing
 
 # Imperial Primer
 
-[![Imperial Primer](https://placehold.it/50/222f3e/000000?text=+)](#imperial-primer)
+[![Imperial Primer](https://via.placeholder.com/50/222f3e/000000?text=+)](#imperial-primer)
 
 #222f3e
 
@@ -213,23 +213,23 @@ module FlatColors.CanadianPalette exposing
 
 # All Colors
 
-[![Jigglypuff](https://placehold.it/50/ff9ff3/000000?text=+)](#jigglypuff)[![Casandora Yellow](https://placehold.it/50/feca57/000000?text=+)](#casandora-yellow)[![Pastel Red](https://placehold.it/50/ff6b6b/000000?text=+)](#pastel-red)[![Megaman](https://placehold.it/50/48dbfb/000000?text=+)](#megaman)[![Wild Caribbean Green](https://placehold.it/50/1dd1a1/000000?text=+)](#wild-caribbean-green)[![Jade Dust](https://placehold.it/50/00d2d3/000000?text=+)](#jade-dust)[![Joust Blue](https://placehold.it/50/54a0ff/000000?text=+)](#joust-blue)[![Nasu Purple](https://placehold.it/50/5f27cd/000000?text=+)](#nasu-purple)[![Light Blue Ballerina](https://placehold.it/50/c8d6e5/000000?text=+)](#light-blue-ballerina)[![Fuel Town](https://placehold.it/50/576574/000000?text=+)](#fuel-town)
+[![Jigglypuff](https://via.placeholder.com/50/ff9ff3/000000?text=+)](#jigglypuff)[![Casandora Yellow](https://via.placeholder.com/50/feca57/000000?text=+)](#casandora-yellow)[![Pastel Red](https://via.placeholder.com/50/ff6b6b/000000?text=+)](#pastel-red)[![Megaman](https://via.placeholder.com/50/48dbfb/000000?text=+)](#megaman)[![Wild Caribbean Green](https://via.placeholder.com/50/1dd1a1/000000?text=+)](#wild-caribbean-green)[![Jade Dust](https://via.placeholder.com/50/00d2d3/000000?text=+)](#jade-dust)[![Joust Blue](https://via.placeholder.com/50/54a0ff/000000?text=+)](#joust-blue)[![Nasu Purple](https://via.placeholder.com/50/5f27cd/000000?text=+)](#nasu-purple)[![Light Blue Ballerina](https://via.placeholder.com/50/c8d6e5/000000?text=+)](#light-blue-ballerina)[![Fuel Town](https://via.placeholder.com/50/576574/000000?text=+)](#fuel-town)
 
-[![Lián Hóng Lotus Pink](https://placehold.it/50/f368e0/000000?text=+)](#lian-hong-lotus-pink)[![Double Dragon Skin](https://placehold.it/50/ff9f43/000000?text=+)](#double-dragon-skin)[![Amour](https://placehold.it/50/ee5253/000000?text=+)](#amour)[![Cyanite](https://placehold.it/50/0abde3/000000?text=+)](#cyanite)[![Dark Mountain Meadow](https://placehold.it/50/10ac84/000000?text=+)](#dark-mountain-meadow)[![Aqua Velvet](https://placehold.it/50/01a3a4/000000?text=+)](#aqua-velvet)[![Bleu De France](https://placehold.it/50/2e86de/000000?text=+)](#bleu-de-france)[![Bluebell](https://placehold.it/50/341f97/000000?text=+)](#bluebell)[![Storm Petrel](https://placehold.it/50/8395a7/000000?text=+)](#storm-petrel)[![Imperial Primer](https://placehold.it/50/222f3e/000000?text=+)](#imperial-primer)
+[![Lián Hóng Lotus Pink](https://via.placeholder.com/50/f368e0/000000?text=+)](#lian-hong-lotus-pink)[![Double Dragon Skin](https://via.placeholder.com/50/ff9f43/000000?text=+)](#double-dragon-skin)[![Amour](https://via.placeholder.com/50/ee5253/000000?text=+)](#amour)[![Cyanite](https://via.placeholder.com/50/0abde3/000000?text=+)](#cyanite)[![Dark Mountain Meadow](https://via.placeholder.com/50/10ac84/000000?text=+)](#dark-mountain-meadow)[![Aqua Velvet](https://via.placeholder.com/50/01a3a4/000000?text=+)](#aqua-velvet)[![Bleu De France](https://via.placeholder.com/50/2e86de/000000?text=+)](#bleu-de-france)[![Bluebell](https://via.placeholder.com/50/341f97/000000?text=+)](#bluebell)[![Storm Petrel](https://via.placeholder.com/50/8395a7/000000?text=+)](#storm-petrel)[![Imperial Primer](https://via.placeholder.com/50/222f3e/000000?text=+)](#imperial-primer)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Jigglypuff](https://placehold.it/50/ff9ff3/000000?text=+)](#jigglypuff)[![Casandora Yellow](https://placehold.it/50/feca57/000000?text=+)](#casandora-yellow)[![Pastel Red](https://placehold.it/50/ff6b6b/000000?text=+)](#pastel-red)[![Megaman](https://placehold.it/50/48dbfb/000000?text=+)](#megaman)[![Wild Caribbean Green](https://placehold.it/50/1dd1a1/000000?text=+)](#wild-caribbean-green)[![Jade Dust](https://placehold.it/50/00d2d3/000000?text=+)](#jade-dust)[![Joust Blue](https://placehold.it/50/54a0ff/000000?text=+)](#joust-blue)[![Nasu Purple](https://placehold.it/50/5f27cd/000000?text=+)](#nasu-purple)[![Light Blue Ballerina](https://placehold.it/50/c8d6e5/000000?text=+)](#light-blue-ballerina)[![Fuel Town](https://placehold.it/50/576574/000000?text=+)](#fuel-town)
+[![Jigglypuff](https://via.placeholder.com/50/ff9ff3/000000?text=+)](#jigglypuff)[![Casandora Yellow](https://via.placeholder.com/50/feca57/000000?text=+)](#casandora-yellow)[![Pastel Red](https://via.placeholder.com/50/ff6b6b/000000?text=+)](#pastel-red)[![Megaman](https://via.placeholder.com/50/48dbfb/000000?text=+)](#megaman)[![Wild Caribbean Green](https://via.placeholder.com/50/1dd1a1/000000?text=+)](#wild-caribbean-green)[![Jade Dust](https://via.placeholder.com/50/00d2d3/000000?text=+)](#jade-dust)[![Joust Blue](https://via.placeholder.com/50/54a0ff/000000?text=+)](#joust-blue)[![Nasu Purple](https://via.placeholder.com/50/5f27cd/000000?text=+)](#nasu-purple)[![Light Blue Ballerina](https://via.placeholder.com/50/c8d6e5/000000?text=+)](#light-blue-ballerina)[![Fuel Town](https://via.placeholder.com/50/576574/000000?text=+)](#fuel-town)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Lián Hóng Lotus Pink](https://placehold.it/50/f368e0/000000?text=+)](#lian-hong-lotus-pink)[![Double Dragon Skin](https://placehold.it/50/ff9f43/000000?text=+)](#double-dragon-skin)[![Amour](https://placehold.it/50/ee5253/000000?text=+)](#amour)[![Cyanite](https://placehold.it/50/0abde3/000000?text=+)](#cyanite)[![Dark Mountain Meadow](https://placehold.it/50/10ac84/000000?text=+)](#dark-mountain-meadow)[![Aqua Velvet](https://placehold.it/50/01a3a4/000000?text=+)](#aqua-velvet)[![Bleu De France](https://placehold.it/50/2e86de/000000?text=+)](#bleu-de-france)[![Bluebell](https://placehold.it/50/341f97/000000?text=+)](#bluebell)[![Storm Petrel](https://placehold.it/50/8395a7/000000?text=+)](#storm-petrel)[![Imperial Primer](https://placehold.it/50/222f3e/000000?text=+)](#imperial-primer)
+[![Lián Hóng Lotus Pink](https://via.placeholder.com/50/f368e0/000000?text=+)](#lian-hong-lotus-pink)[![Double Dragon Skin](https://via.placeholder.com/50/ff9f43/000000?text=+)](#double-dragon-skin)[![Amour](https://via.placeholder.com/50/ee5253/000000?text=+)](#amour)[![Cyanite](https://via.placeholder.com/50/0abde3/000000?text=+)](#cyanite)[![Dark Mountain Meadow](https://via.placeholder.com/50/10ac84/000000?text=+)](#dark-mountain-meadow)[![Aqua Velvet](https://via.placeholder.com/50/01a3a4/000000?text=+)](#aqua-velvet)[![Bleu De France](https://via.placeholder.com/50/2e86de/000000?text=+)](#bleu-de-france)[![Bluebell](https://via.placeholder.com/50/341f97/000000?text=+)](#bluebell)[![Storm Petrel](https://via.placeholder.com/50/8395a7/000000?text=+)](#storm-petrel)[![Imperial Primer](https://via.placeholder.com/50/222f3e/000000?text=+)](#imperial-primer)
 
 @docs allDark, allDarkHex, allDarkRgb
 

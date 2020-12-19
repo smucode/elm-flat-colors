@@ -26,14 +26,14 @@ module FlatColors.DutchPalette exposing
 
 {-| Dutch Palette by [Jeroen Van Eerden](https://dribbble.com/jeroenvaneerden)
 
-[![Sunflower](https://placehold.it/50/FFC312/000000?text=+)](#sunflower)[![Energos](https://placehold.it/50/C4E538/000000?text=+)](#energos)[![Blue Martina](https://placehold.it/50/12CBC4/000000?text=+)](#blue-martina)[![Lavender Rose](https://placehold.it/50/FDA7DF/000000?text=+)](#lavender-rose)[![Bara Red](https://placehold.it/50/ED4C67/000000?text=+)](#bara-red)[![Puffins Bill](https://placehold.it/50/EE5A24/000000?text=+)](#puffins-bill)[![Pixelated Grass](https://placehold.it/50/009432/000000?text=+)](#pixelated-grass)[![Merchant Marine Blue](https://placehold.it/50/0652DD/000000?text=+)](#merchant-marine-blue)[![Forgotten Purple](https://placehold.it/50/9980FA/000000?text=+)](#forgotten-purple)[![Hollyhock](https://placehold.it/50/833471/000000?text=+)](#hollyhock)
+[![Sunflower](https://via.placeholder.com/50/FFC312/000000?text=+)](#sunflower)[![Energos](https://via.placeholder.com/50/C4E538/000000?text=+)](#energos)[![Blue Martina](https://via.placeholder.com/50/12CBC4/000000?text=+)](#blue-martina)[![Lavender Rose](https://via.placeholder.com/50/FDA7DF/000000?text=+)](#lavender-rose)[![Bara Red](https://via.placeholder.com/50/ED4C67/000000?text=+)](#bara-red)[![Puffins Bill](https://via.placeholder.com/50/EE5A24/000000?text=+)](#puffins-bill)[![Pixelated Grass](https://via.placeholder.com/50/009432/000000?text=+)](#pixelated-grass)[![Merchant Marine Blue](https://via.placeholder.com/50/0652DD/000000?text=+)](#merchant-marine-blue)[![Forgotten Purple](https://via.placeholder.com/50/9980FA/000000?text=+)](#forgotten-purple)[![Hollyhock](https://via.placeholder.com/50/833471/000000?text=+)](#hollyhock)
 
-[![Radiant Yellow](https://placehold.it/50/F79F1F/000000?text=+)](#radiant-yellow)[![Android Green](https://placehold.it/50/A3CB38/000000?text=+)](#android-green)[![Mediterranean Sea](https://placehold.it/50/1289A7/000000?text=+)](#mediterranean-sea)[![Lavender Tea](https://placehold.it/50/D980FA/000000?text=+)](#lavender-tea)[![Very Berry](https://placehold.it/50/B53471/000000?text=+)](#very-berry)[![Red Pigment](https://placehold.it/50/EA2027/000000?text=+)](#red-pigment)[![Turkish Aqua](https://placehold.it/50/006266/000000?text=+)](#turkish-aqua)[![Twenty Thousand Leagues Under The Sea](https://placehold.it/50/1B1464/000000?text=+)](#twenty-thousand-leagues-under-the-sea)[![Circumorbital Ring](https://placehold.it/50/5758BB/000000?text=+)](#circumorbital-ring)[![Magenta Purple](https://placehold.it/50/6F1E51/000000?text=+)](#magenta-purple)
+[![Radiant Yellow](https://via.placeholder.com/50/F79F1F/000000?text=+)](#radiant-yellow)[![Android Green](https://via.placeholder.com/50/A3CB38/000000?text=+)](#android-green)[![Mediterranean Sea](https://via.placeholder.com/50/1289A7/000000?text=+)](#mediterranean-sea)[![Lavender Tea](https://via.placeholder.com/50/D980FA/000000?text=+)](#lavender-tea)[![Very Berry](https://via.placeholder.com/50/B53471/000000?text=+)](#very-berry)[![Red Pigment](https://via.placeholder.com/50/EA2027/000000?text=+)](#red-pigment)[![Turkish Aqua](https://via.placeholder.com/50/006266/000000?text=+)](#turkish-aqua)[![Twenty Thousand Leagues Under The Sea](https://via.placeholder.com/50/1B1464/000000?text=+)](#twenty-thousand-leagues-under-the-sea)[![Circumorbital Ring](https://via.placeholder.com/50/5758BB/000000?text=+)](#circumorbital-ring)[![Magenta Purple](https://via.placeholder.com/50/6F1E51/000000?text=+)](#magenta-purple)
 
 
 # Sunflower
 
-[![Sunflower](https://placehold.it/50/FFC312/000000?text=+)](#sunflower)
+[![Sunflower](https://via.placeholder.com/50/FFC312/000000?text=+)](#sunflower)
 
 #FFC312
 
@@ -42,7 +42,7 @@ module FlatColors.DutchPalette exposing
 
 # Energos
 
-[![Energos](https://placehold.it/50/C4E538/000000?text=+)](#energos)
+[![Energos](https://via.placeholder.com/50/C4E538/000000?text=+)](#energos)
 
 #C4E538
 
@@ -51,7 +51,7 @@ module FlatColors.DutchPalette exposing
 
 # Blue Martina
 
-[![Blue Martina](https://placehold.it/50/12CBC4/000000?text=+)](#blue-martina)
+[![Blue Martina](https://via.placeholder.com/50/12CBC4/000000?text=+)](#blue-martina)
 
 #12CBC4
 
@@ -60,7 +60,7 @@ module FlatColors.DutchPalette exposing
 
 # Lavender Rose
 
-[![Lavender Rose](https://placehold.it/50/FDA7DF/000000?text=+)](#lavender-rose)
+[![Lavender Rose](https://via.placeholder.com/50/FDA7DF/000000?text=+)](#lavender-rose)
 
 #FDA7DF
 
@@ -69,7 +69,7 @@ module FlatColors.DutchPalette exposing
 
 # Bara Red
 
-[![Bara Red](https://placehold.it/50/ED4C67/000000?text=+)](#bara-red)
+[![Bara Red](https://via.placeholder.com/50/ED4C67/000000?text=+)](#bara-red)
 
 #ED4C67
 
@@ -78,7 +78,7 @@ module FlatColors.DutchPalette exposing
 
 # Radiant Yellow
 
-[![Radiant Yellow](https://placehold.it/50/F79F1F/000000?text=+)](#radiant-yellow)
+[![Radiant Yellow](https://via.placeholder.com/50/F79F1F/000000?text=+)](#radiant-yellow)
 
 #F79F1F
 
@@ -87,7 +87,7 @@ module FlatColors.DutchPalette exposing
 
 # Android Green
 
-[![Android Green](https://placehold.it/50/A3CB38/000000?text=+)](#android-green)
+[![Android Green](https://via.placeholder.com/50/A3CB38/000000?text=+)](#android-green)
 
 #A3CB38
 
@@ -96,7 +96,7 @@ module FlatColors.DutchPalette exposing
 
 # Mediterranean Sea
 
-[![Mediterranean Sea](https://placehold.it/50/1289A7/000000?text=+)](#mediterranean-sea)
+[![Mediterranean Sea](https://via.placeholder.com/50/1289A7/000000?text=+)](#mediterranean-sea)
 
 #1289A7
 
@@ -105,7 +105,7 @@ module FlatColors.DutchPalette exposing
 
 # Lavender Tea
 
-[![Lavender Tea](https://placehold.it/50/D980FA/000000?text=+)](#lavender-tea)
+[![Lavender Tea](https://via.placeholder.com/50/D980FA/000000?text=+)](#lavender-tea)
 
 #D980FA
 
@@ -114,7 +114,7 @@ module FlatColors.DutchPalette exposing
 
 # Very Berry
 
-[![Very Berry](https://placehold.it/50/B53471/000000?text=+)](#very-berry)
+[![Very Berry](https://via.placeholder.com/50/B53471/000000?text=+)](#very-berry)
 
 #B53471
 
@@ -123,7 +123,7 @@ module FlatColors.DutchPalette exposing
 
 # Puffins Bill
 
-[![Puffins Bill](https://placehold.it/50/EE5A24/000000?text=+)](#puffins-bill)
+[![Puffins Bill](https://via.placeholder.com/50/EE5A24/000000?text=+)](#puffins-bill)
 
 #EE5A24
 
@@ -132,7 +132,7 @@ module FlatColors.DutchPalette exposing
 
 # Pixelated Grass
 
-[![Pixelated Grass](https://placehold.it/50/009432/000000?text=+)](#pixelated-grass)
+[![Pixelated Grass](https://via.placeholder.com/50/009432/000000?text=+)](#pixelated-grass)
 
 #009432
 
@@ -141,7 +141,7 @@ module FlatColors.DutchPalette exposing
 
 # Merchant Marine Blue
 
-[![Merchant Marine Blue](https://placehold.it/50/0652DD/000000?text=+)](#merchant-marine-blue)
+[![Merchant Marine Blue](https://via.placeholder.com/50/0652DD/000000?text=+)](#merchant-marine-blue)
 
 #0652DD
 
@@ -150,7 +150,7 @@ module FlatColors.DutchPalette exposing
 
 # Forgotten Purple
 
-[![Forgotten Purple](https://placehold.it/50/9980FA/000000?text=+)](#forgotten-purple)
+[![Forgotten Purple](https://via.placeholder.com/50/9980FA/000000?text=+)](#forgotten-purple)
 
 #9980FA
 
@@ -159,7 +159,7 @@ module FlatColors.DutchPalette exposing
 
 # Hollyhock
 
-[![Hollyhock](https://placehold.it/50/833471/000000?text=+)](#hollyhock)
+[![Hollyhock](https://via.placeholder.com/50/833471/000000?text=+)](#hollyhock)
 
 #833471
 
@@ -168,7 +168,7 @@ module FlatColors.DutchPalette exposing
 
 # Red Pigment
 
-[![Red Pigment](https://placehold.it/50/EA2027/000000?text=+)](#red-pigment)
+[![Red Pigment](https://via.placeholder.com/50/EA2027/000000?text=+)](#red-pigment)
 
 #EA2027
 
@@ -177,7 +177,7 @@ module FlatColors.DutchPalette exposing
 
 # Turkish Aqua
 
-[![Turkish Aqua](https://placehold.it/50/006266/000000?text=+)](#turkish-aqua)
+[![Turkish Aqua](https://via.placeholder.com/50/006266/000000?text=+)](#turkish-aqua)
 
 #006266
 
@@ -186,7 +186,7 @@ module FlatColors.DutchPalette exposing
 
 # Twenty Thousand Leagues Under The Sea
 
-[![Twenty Thousand Leagues Under The Sea](https://placehold.it/50/1B1464/000000?text=+)](#twenty-thousand-leagues-under-the-sea)
+[![Twenty Thousand Leagues Under The Sea](https://via.placeholder.com/50/1B1464/000000?text=+)](#twenty-thousand-leagues-under-the-sea)
 
 #1B1464
 
@@ -195,7 +195,7 @@ module FlatColors.DutchPalette exposing
 
 # Circumorbital Ring
 
-[![Circumorbital Ring](https://placehold.it/50/5758BB/000000?text=+)](#circumorbital-ring)
+[![Circumorbital Ring](https://via.placeholder.com/50/5758BB/000000?text=+)](#circumorbital-ring)
 
 #5758BB
 
@@ -204,7 +204,7 @@ module FlatColors.DutchPalette exposing
 
 # Magenta Purple
 
-[![Magenta Purple](https://placehold.it/50/6F1E51/000000?text=+)](#magenta-purple)
+[![Magenta Purple](https://via.placeholder.com/50/6F1E51/000000?text=+)](#magenta-purple)
 
 #6F1E51
 
@@ -213,23 +213,23 @@ module FlatColors.DutchPalette exposing
 
 # All Colors
 
-[![Sunflower](https://placehold.it/50/FFC312/000000?text=+)](#sunflower)[![Energos](https://placehold.it/50/C4E538/000000?text=+)](#energos)[![Blue Martina](https://placehold.it/50/12CBC4/000000?text=+)](#blue-martina)[![Lavender Rose](https://placehold.it/50/FDA7DF/000000?text=+)](#lavender-rose)[![Bara Red](https://placehold.it/50/ED4C67/000000?text=+)](#bara-red)[![Puffins Bill](https://placehold.it/50/EE5A24/000000?text=+)](#puffins-bill)[![Pixelated Grass](https://placehold.it/50/009432/000000?text=+)](#pixelated-grass)[![Merchant Marine Blue](https://placehold.it/50/0652DD/000000?text=+)](#merchant-marine-blue)[![Forgotten Purple](https://placehold.it/50/9980FA/000000?text=+)](#forgotten-purple)[![Hollyhock](https://placehold.it/50/833471/000000?text=+)](#hollyhock)
+[![Sunflower](https://via.placeholder.com/50/FFC312/000000?text=+)](#sunflower)[![Energos](https://via.placeholder.com/50/C4E538/000000?text=+)](#energos)[![Blue Martina](https://via.placeholder.com/50/12CBC4/000000?text=+)](#blue-martina)[![Lavender Rose](https://via.placeholder.com/50/FDA7DF/000000?text=+)](#lavender-rose)[![Bara Red](https://via.placeholder.com/50/ED4C67/000000?text=+)](#bara-red)[![Puffins Bill](https://via.placeholder.com/50/EE5A24/000000?text=+)](#puffins-bill)[![Pixelated Grass](https://via.placeholder.com/50/009432/000000?text=+)](#pixelated-grass)[![Merchant Marine Blue](https://via.placeholder.com/50/0652DD/000000?text=+)](#merchant-marine-blue)[![Forgotten Purple](https://via.placeholder.com/50/9980FA/000000?text=+)](#forgotten-purple)[![Hollyhock](https://via.placeholder.com/50/833471/000000?text=+)](#hollyhock)
 
-[![Radiant Yellow](https://placehold.it/50/F79F1F/000000?text=+)](#radiant-yellow)[![Android Green](https://placehold.it/50/A3CB38/000000?text=+)](#android-green)[![Mediterranean Sea](https://placehold.it/50/1289A7/000000?text=+)](#mediterranean-sea)[![Lavender Tea](https://placehold.it/50/D980FA/000000?text=+)](#lavender-tea)[![Very Berry](https://placehold.it/50/B53471/000000?text=+)](#very-berry)[![Red Pigment](https://placehold.it/50/EA2027/000000?text=+)](#red-pigment)[![Turkish Aqua](https://placehold.it/50/006266/000000?text=+)](#turkish-aqua)[![Twenty Thousand Leagues Under The Sea](https://placehold.it/50/1B1464/000000?text=+)](#twenty-thousand-leagues-under-the-sea)[![Circumorbital Ring](https://placehold.it/50/5758BB/000000?text=+)](#circumorbital-ring)[![Magenta Purple](https://placehold.it/50/6F1E51/000000?text=+)](#magenta-purple)
+[![Radiant Yellow](https://via.placeholder.com/50/F79F1F/000000?text=+)](#radiant-yellow)[![Android Green](https://via.placeholder.com/50/A3CB38/000000?text=+)](#android-green)[![Mediterranean Sea](https://via.placeholder.com/50/1289A7/000000?text=+)](#mediterranean-sea)[![Lavender Tea](https://via.placeholder.com/50/D980FA/000000?text=+)](#lavender-tea)[![Very Berry](https://via.placeholder.com/50/B53471/000000?text=+)](#very-berry)[![Red Pigment](https://via.placeholder.com/50/EA2027/000000?text=+)](#red-pigment)[![Turkish Aqua](https://via.placeholder.com/50/006266/000000?text=+)](#turkish-aqua)[![Twenty Thousand Leagues Under The Sea](https://via.placeholder.com/50/1B1464/000000?text=+)](#twenty-thousand-leagues-under-the-sea)[![Circumorbital Ring](https://via.placeholder.com/50/5758BB/000000?text=+)](#circumorbital-ring)[![Magenta Purple](https://via.placeholder.com/50/6F1E51/000000?text=+)](#magenta-purple)
 
 @docs all, allHex, allRgb
 
 
 # Light Colors
 
-[![Sunflower](https://placehold.it/50/FFC312/000000?text=+)](#sunflower)[![Energos](https://placehold.it/50/C4E538/000000?text=+)](#energos)[![Blue Martina](https://placehold.it/50/12CBC4/000000?text=+)](#blue-martina)[![Lavender Rose](https://placehold.it/50/FDA7DF/000000?text=+)](#lavender-rose)[![Bara Red](https://placehold.it/50/ED4C67/000000?text=+)](#bara-red)[![Puffins Bill](https://placehold.it/50/EE5A24/000000?text=+)](#puffins-bill)[![Pixelated Grass](https://placehold.it/50/009432/000000?text=+)](#pixelated-grass)[![Merchant Marine Blue](https://placehold.it/50/0652DD/000000?text=+)](#merchant-marine-blue)[![Forgotten Purple](https://placehold.it/50/9980FA/000000?text=+)](#forgotten-purple)[![Hollyhock](https://placehold.it/50/833471/000000?text=+)](#hollyhock)
+[![Sunflower](https://via.placeholder.com/50/FFC312/000000?text=+)](#sunflower)[![Energos](https://via.placeholder.com/50/C4E538/000000?text=+)](#energos)[![Blue Martina](https://via.placeholder.com/50/12CBC4/000000?text=+)](#blue-martina)[![Lavender Rose](https://via.placeholder.com/50/FDA7DF/000000?text=+)](#lavender-rose)[![Bara Red](https://via.placeholder.com/50/ED4C67/000000?text=+)](#bara-red)[![Puffins Bill](https://via.placeholder.com/50/EE5A24/000000?text=+)](#puffins-bill)[![Pixelated Grass](https://via.placeholder.com/50/009432/000000?text=+)](#pixelated-grass)[![Merchant Marine Blue](https://via.placeholder.com/50/0652DD/000000?text=+)](#merchant-marine-blue)[![Forgotten Purple](https://via.placeholder.com/50/9980FA/000000?text=+)](#forgotten-purple)[![Hollyhock](https://via.placeholder.com/50/833471/000000?text=+)](#hollyhock)
 
 @docs allLight, allLightHex, allLightRgb
 
 
 # Dark Colors
 
-[![Radiant Yellow](https://placehold.it/50/F79F1F/000000?text=+)](#radiant-yellow)[![Android Green](https://placehold.it/50/A3CB38/000000?text=+)](#android-green)[![Mediterranean Sea](https://placehold.it/50/1289A7/000000?text=+)](#mediterranean-sea)[![Lavender Tea](https://placehold.it/50/D980FA/000000?text=+)](#lavender-tea)[![Very Berry](https://placehold.it/50/B53471/000000?text=+)](#very-berry)[![Red Pigment](https://placehold.it/50/EA2027/000000?text=+)](#red-pigment)[![Turkish Aqua](https://placehold.it/50/006266/000000?text=+)](#turkish-aqua)[![Twenty Thousand Leagues Under The Sea](https://placehold.it/50/1B1464/000000?text=+)](#twenty-thousand-leagues-under-the-sea)[![Circumorbital Ring](https://placehold.it/50/5758BB/000000?text=+)](#circumorbital-ring)[![Magenta Purple](https://placehold.it/50/6F1E51/000000?text=+)](#magenta-purple)
+[![Radiant Yellow](https://via.placeholder.com/50/F79F1F/000000?text=+)](#radiant-yellow)[![Android Green](https://via.placeholder.com/50/A3CB38/000000?text=+)](#android-green)[![Mediterranean Sea](https://via.placeholder.com/50/1289A7/000000?text=+)](#mediterranean-sea)[![Lavender Tea](https://via.placeholder.com/50/D980FA/000000?text=+)](#lavender-tea)[![Very Berry](https://via.placeholder.com/50/B53471/000000?text=+)](#very-berry)[![Red Pigment](https://via.placeholder.com/50/EA2027/000000?text=+)](#red-pigment)[![Turkish Aqua](https://via.placeholder.com/50/006266/000000?text=+)](#turkish-aqua)[![Twenty Thousand Leagues Under The Sea](https://via.placeholder.com/50/1B1464/000000?text=+)](#twenty-thousand-leagues-under-the-sea)[![Circumorbital Ring](https://via.placeholder.com/50/5758BB/000000?text=+)](#circumorbital-ring)[![Magenta Purple](https://via.placeholder.com/50/6F1E51/000000?text=+)](#magenta-purple)
 
 @docs allDark, allDarkHex, allDarkRgb
 
