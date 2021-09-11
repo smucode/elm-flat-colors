@@ -3,7 +3,7 @@
     "name": "smucode/elm-flat-colors",
     "summary": "🎨 280 handpicked colors in 14 palettes for Elm UI, elm/html and others",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "source-directories": [
         "src"
     ],
