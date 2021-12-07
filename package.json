@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/smucode/elm-flat-colors#readme",
   "devDependencies": {
-    "@types/node": "^16.9.1",
+    "@types/node": "^16.11.12",
     "elm": "^0.19.1-5",
     "elm-format": "^0.8.5",
     "ts-node": "^10.2.1",
