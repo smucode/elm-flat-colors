@@ -29,6 +29,6 @@
     "elm": "^0.19.1-5",
     "elm-format": "^0.8.5",
     "ts-node": "^10.2.1",
-    "typescript": "^4.4.2"
+    "typescript": "^4.5.5"
   }
 }
